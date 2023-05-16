@@ -1,0 +1,42 @@
+<br><br><p class='titre'>Déroulement  du scénario fortune cookies</p>
+<br>
+<p class ='f12 justifier'><span class ='rouge'>modification au 23 mars 2013</span></p>
+<br>
+
+
+<p class ='f12 justifier gras'>Accueil des walkers :</p>
+
+<p class ='f12 justifier'>2 ou 3 personnes accueillent chaque Walker, une heure avant le début du Walk. Elles vérifient la procédure d'enregistrement,  distribue le <span class ='gras'>kit du Walker</span>,et le brif. Un technicien vérifie si le matériel du walker est opérationnel, il peut reconfigurer son smartphone, voir même en prêter un. </p>
+
+<p class ='f12 justifier'>l’accueil se fait dans un lieu, ou sous une structure préfabriquée (chapiteau), avec une remise ou un véhicule sécurisé pour y entreposé le matériel apporté. Le staff est en lien avec la régie générale. Coté matériel, au minima un ordinateur portable avec connexion internet. Le denier walker parti de l'accueil, l'équipe replit bagage et se dissous et va renforcer un autre lieu.</p>
+
+<p class ='f12 justifier gras'>Le métro</p> 
+
+<p class ='f12 justifier'>Le walker est invité à prend la ligne 2 du métro à la station Place de Clichy. <span class='rouge'>Il valide sur son smartphone, des qu'il est entrée dans la station.</span> il entend alors, le message de bienvenue de l'agence de voyages <span class ='gras'>Fortune Cookies</span>, dit par une hôtesse à la voix de fipettes.</p> 
+
+<p class ='f12 justifier'>Le walker est sur le quai, il attend la prochaine rame, plusieurs personnes, au tour de lui, lisent un journal avec un titre tape à l’œil sur une actualité (genre sur le Walk lui même). la bande-son diffuse une interview sur un sujet annexe. (pourquoi pas toujours sur le walk)</p>
+
+<p class ='f12 justifier'>Lorsqu’une rame arrive, l'un des lecteur de journaux, monte en même temps que le walker.en s'installer à proximité de lui. La bande son difuse un extrait <span class='rouge'>(audio ou vidéo)</span> d'un  <span class="souris sable gras" title="où il décrit en voix-off les préjugés d'appréhension d'un type en imperméable avec un colis sous le bras : un méchant terroriste ou un père qui s'apprête à fêter l'anniversaire de sa fille.">film de Godard</span>.</p>
+
+<p class ='f12 justifier'>A partir de la station Blanche, la bande-son difuse les pensées du baron voyageur. Le baron sort de sa poche et lit un livre de Louis Aragon <span class='italique'>(Le paysan de Paris)</span>. La bande son se transforme, en fondu enchainé, en lecture du livre que lit le baron. Le walker est invité à descendre à la station Barbès-Rochechouart et à sortir du métro.</p>
+
+<p class ='f12 justifier'> Il y a 5 personnes sur le quai qui lisent le journal, 4 barons/voyageur monte chacun leur tour dans la rame et 1 superviseur. Il faut a chaque baron/voyageur 20 minutes pour faire aller retour et revenir sur le quai. Caque baron/voyageur peut faire plusieurs voyages. Une fois tous le dernier walker passé, l’équipe se dissous et va sur un autre dispositif.</p>
+
+<p class ='f12 justifier'>dans le métro, si le réseau mobile fonctionne, c'est le baron/voyageur qui déclenche via son smartphone, la lecture du de la bande son "pensées voyageur", s'il n'y a pas de réseau le baron/voyageur écoute la même la bande son est ajustera ses gestes en fonction de la diffusion.</p>
+
+<p class ='f12 justifier gras'>Métro Barbès-Rochechouart :</p>
+
+<p class ='f12 justifier'>Au sortir du tourniquet du métro,le baron Distributeur de Fortune Cookies déguisé en auxiliaire de Gourou ès qualités, propose au walker un prospectus sur le quel on y découvre :</p>
+
+<p class ='f12 justifier re l40'>
+– Un indice ou une consigne pour continuer le parcours.<br>
+– Un n° de série du parcours unique du walker à tirage limité.<br>
+– L'image de son avatar telle qu'elle a déjà évoluée depuis l'enregistrement.<br>
+– Un bon d'achat dans une boutique partenaire.</p>
+
+<p class ='f12 justifier'>Un régisseur veille au grain.</p>
+
+<p class='f12 centrer gras'><u><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=trame_scenar1">suite de ce texte en page 2</a></u></p>
+
+
+

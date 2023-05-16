@@ -1,0 +1,51 @@
+<p class ='f12 justifier'></p><br><br><p class='titre'>tables des matières</p>
+
+
+
+
+<p class ='f12  justifier gras'><u>Les rubriques présentes sur le Wiki  création SWart/Walk.</u></p>
+
+<p class ='f12 justifier'><span class='gras'>généralités walk/swart</span>, aborde la philosophie WSart/Walk. </p>
+
+<p class ='f12 justifier'><span class ='gras'>Préparation et déroulement des walks:</span></p>
+
+<p class ='f12 justifier'><span class ='gras'>Administration walk</span> : rubrique regroupant les parties administratives, comme l'inscription.</p>
+
+<p class ='f12 justifier'><span class ='gras'>Les dispositifs d'un walk </span>: </p>
+
+<p class ='f12 justifier'><span class ='gras'>Technique SWart / walk:</span></p> 
+
+<p class ='f12 justifier'><span class ='gras'>Les tests sur le web</span> <span class ='rouge'>nouvelle rubrique , pour suivre les tests à faire et les retours</span></p>
+
+<p class ='f12 justifier'> <span class ='gras'>Edition du menu:</span> Permet éditer, sur une page fantôme le menu en haut, et ainsi rajouter des nouvelles rubriques. mais je t'expliquerais plus plus tard!</p>
+
+
+<p class ='f12 justifier'><span class ='gras'><u>les pages indexées à partir d'autres pages:</u></span></p>
+
+<p class ='f12 justifier re l40'>La page <a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=avatar">création d'avatar</a></p>
+
+<p class ='f12 justifier re l40'>La page <a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=web2">le web 2.0</a></p>
+
+<p class ='f12 justifier'><span class ='gras'><u>les liens vers des module web du serveur swart-walk.com</u></span></p>
+
+<p class ='f12 justifier'><a href="http://mobil-test.swart-walk.com/" target="_blank">module test mobile</a></p>
+
+<p class ='f12 justifier'>module <a href="http://test-avatar.swart-walk.com/" target="_blank">test avatar</a> nouveau!</p>
+
+<p class ='f12 justifier'>site <a href="http://www.swart-walk.com/map/map.html" target="_blank">sur map</a> avec géolocalisation</p>
+
+<p class ='f12 justifier'><span class ='gras'><u>Liens vers d'autres ressources web utiles, ou non</u></span></p>
+
+
+<p class ='f12 justifier'><a href="http://www.trans305.org/fra/index.php?page=304" target="_blank">trans305.org</a></p>
+
+<p class ='f12 justifier'>
+Ils ont réalisé des dispositifs <a href="http://www.museetransversal.org/" target="_blank">"transmédias"</a> pour plusieurs musées du Languedoc-Roussillon; c'est intéressant de voir quand on clique sur "équipe" les profils et aussi en bas de page les logiciels qu'ils ont utilisés,etc.</p>
+
+<p class ='f12 justifier'><a href="http://smswall.blogspot.fr/2011/03/smswall-derniere-version-le-mode.html" target="_blank">SMS WALL</a></p>
+
+<p class ='f12 justifier'>Une utilisation possible : dans la salle de spectacle, permettre aux suiveurs on line du swart/walk d'envoyer des commentaires.</p>
+
+<p class ='f12 justifier'>Une autre utilisation possible : générer une règle du jeu du type cadavre exquis, à partir d'éléments sémantiques prélevés dans la thématique du walk (exemple: virtuel/incarné) ; idée de lieu d'exposition : un cimetière moderne, le 104 par exemple...
+</p>
+

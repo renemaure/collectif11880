@@ -1,0 +1,17 @@
+<br><br><p class='titre'>La régie de pilotage</p>
+
+
+<p class ='f12 justifier'> Un superviseur, contrôle tout le déroulement du walk. La régie de pilotage gère: </p>
+
+<p class ='f12 justifier re l40'>- La mise en place et le suivit des équipes techniques walk (accueil, dispositif scénarisés,..)</p>
+
+<p class ='f12 justifier re l40'>- les dispositifs scénarisés, en les déclenchant en temps voulu en fonction des déplacements de walkers.</p>
+
+<p class ='f12 justifier re l40'>- Les déplacements des walkers.</p>
+
+<p class ='f12 justifier re l40'>- la relation avec la ou les régies scéniques.</p>
+<br>
+<p class ='f12 justifier'>la régie de pilotage a son propre site web permet de gérer automatiquement des taches prédéfinies.</p>
+
+
+

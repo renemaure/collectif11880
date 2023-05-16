@@ -1,0 +1,24 @@
+<br><br><br><p class='titre'>PREPARATION ET DEROULEMENT D'UN WALK</p>
+
+<p class ='f12 justifier'><span class ='gras'><span class ='rouge'>mise à jour le 9 pars 2013</span></span></p>
+
+<p class ='f12 justifier gras'>II.1 Avant projet<strike> technique</strike>:</p>
+
+<p class ='f12 justifier'>Cette phase est très importante, car elle consiste à rechercher, mettre au point, définir, tout le processus technique, au sens large (scenario, intendance, juridique, financement) de ce qui donnera un squelette de préparation pour la création et la réalisations de walks. Plus on se donne de moyens sur cette phase, plus on gagnera en investissement sur les walks. ce wiki en fait parti, bien évidement. Taper en live, lu en live. Je découpe l'avant projet en sous étapes.</p>
+
+<p class ='f12 justifier'><span class ='gras'>1) Les tests techniques : </span>ce sont toutes sortes de tests en programmation, sur le terrain, en béta-test, je donnerai une liste au fur et à mesure de l'avancé du projet. <span class ='rouge'>le premier test commencé sur la programmation du site web pour smartphone.</span></p>
+
+<p class ='f12 justifier'><span class ='gras'>2) Les scénarios utopiques : </span>Se sont des brides, des ébauches, ou déjà des projets plus aboutis, permettant de tester et de valider si tel ou tel dispositif est réalisable, si une technique existe, et si cela en vaut de la sueur. c'est naturellement ta partie, même si j'ai quelques neurones qui bouillent déjà! <span class ='rouge'>La fin de la semaine prochaine je t'envoie une ou deux esquisses de scénario.</span></p>
+
+<p class ='f12 justifier'><span class ='gras'>3) Enquête documentaire préalable : </span>Recherche thématique, reconnaissance du terrain, établissement de partenariats et de complicités avec les structures locales (pignons sur rue, espaces publics, …). il faut  tisser des liens très en amont dans l'avant projet, rechercher des partenariats, de financements. <span class ='rouge'>TOUT CE QUI PRECEDE EST IMPORTANT: c'est même à valoriser dans le projet tôt ou tard quand on aura des moyens plus importants (ça peut aussi nous aider à en avoir) on est au coeur de la recherche et technique !</span></p>
+
+<p class ='f12 justifier'><span class ='gras'>4) Définition de scénarios générique de travail :</span> A partir des scénarios, des idées, des traces, on doit établir plusieurs scénarios qui sont différents dans leurs stratégies, donc dans leurs techniques.ce qui donnera des solutions techniques clés en mains pour la construction future de scénarios opérationnels. </p>
+<br><br>
+<p class ='f12 justifier'><span class ='gras'>II.2 création / préparation d'un scénario Walk : </span></p>
+
+<p class ='f12 justifier'><span class ='gras'>1) Scénarisation : </span> créer le premier scenario walk en s’appuyant sur le squelette défini dans l'avant projet, définir un parcours, écriture des interventions, répartition des rôles des barons et intervenants. <span class ='rouge'>à ce stade les scénari aboutis bénéficieront du travail béta test via notamment les scénarios utopiques comme tu dis ou scénarios tests, et ils peuvent être très différents</span></p>
+
+<p class ='f12 justifier'><span class ='gras'>2) Préparation techno-logisitique</span> : Conception et mise en place de dispositifs techniques, scéniques, et de la ou les régies scénique constituant l'infrastructure spectaculaire d'un walk.  la régie scénique gère le ou les scènes sur le parcours du walk, elle peut évoluée en fonction des différents walks.</p>
+
+
+

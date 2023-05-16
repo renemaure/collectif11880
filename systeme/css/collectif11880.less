@@ -1,0 +1,320 @@
+/*fichier less crée par le collectif 11880
+version 1.0.0*/
+
+/* Déclaration */
+@coulbody: #E5E5E5;
+@bordeaux : #C00000;
+@vert60 : #60c000;
+@beuop : #00C0C0;
+@violetop60 : #6000C0;
+@gris : #A9A9A9;
+@bordfonce : #770000;
+@blanc : #fff;
+@demiblanc : rgba(255,255,255,.5);
+@ombre : rgba(52,58,64,0.15);
+@grisblanc :#f8f9fa;
+
+@font-face{
+	font-family: "digital";
+	src:url("../fonts/DS-DIGI.TTF");
+}
+
+/* Utilisation */
+body {
+	background-color: @coulbody;
+	padding-top: 3.5rem;
+}
+.coul-bord, hr, .lvd, .cbrd, .text-danger{
+	color:@bordeaux;
+}
+.coul-gris, cgr{
+	background-color: @gris;
+}
+.coul-bdr-fonc, .cbrf{
+		color: @bordfonce;
+}
+.active a{
+    color: rgba(0,0,0,.5);
+}
+nav ul a{
+    color:@bordeaux;
+    padding-right: .5rem;
+    padding-left: .5rem;
+    display: block;
+}
+nav ul a:hover{
+	color: rgba(0,0,0,.5);
+	text-decoration: none;
+}	
+nav {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    padding: .5rem 1rem;
+    font-size: 1.09rem;
+    font-weight: bold;
+   	background-color: @gris;
+/*   	flex-direction: row;
+   	flex-flow: row nowrap;
+    justify-content: flex-start;*/
+}
+nav ul {
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-left: 1rem;
+    list-style: none;
+    flex-direction: row;
+    margin-left: 1rem;
+}
+#logo_asso{
+	margin-left: 3rem;
+}
+
+@media (min-width: 576px) {
+  #container{
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+   #container{
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+   #container{
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+   #container{
+    max-width: 1140px;
+  }
+}
+ #container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;	
+ }
+ aside li a {
+    color: @violetop60;
+ }
+ aside li a:active , aside li a:hover{
+        color: @beuop ;
+        text-decoration: none;
+}
+.boite12{
+	position: relative;
+    width: 100%;
+    margin-bottom: 4rem;
+    margin-top: 1rem;
+    box-shadow: 0.5rem 1em  @ombre;
+    padding: 1.5rem;
+    border-radius: .25rem;
+    background-color: @grisblanc;
+}
+.boite12 h4{
+	color: @bordeaux;
+	font-style: italic;
+}
+.boite12 p{
+	text-align: justify;
+}
+.boite12 ol{
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 0;	
+}
+#adresse, main{
+	margin-top: 4rem;
+}
+.footcrt{
+	bottom: 10px;
+}
+.espace4{
+	margin-bottom: 2rem;
+}
+
+.shadow , .ombre {
+    box-shadow: 0.5rem 1em  @ombre;
+}	
+.barrer{
+	text-decoration:line-through;
+}
+.fin_page{
+	position: relative;
+    width: 100%;	
+}
+.fin_page hr{
+	display: block;
+	clear: both;
+	height: 0;
+	margin: 40px 0 80px;
+	padding: 0;
+	border: 0;
+	font-family: arial;
+	text-align: center;
+	font-size: 60px;
+	line-height: 1;
+}
+.fin_page hr:after{
+	content: "\273D \273D \273D";
+	height: 0;			
+	letter-spacing: 1em;
+	color: #aaa;
+}
+footer {
+	background-color:@gris;
+	width: 100%;
+ 	height: 50px;
+	color:@bordeaux;
+}
+footer p{
+	font-style: italic;
+	text-align: center;
+	padding-bottom: .5rem;
+	padding-top: .5rem;
+}
+footer a {
+    color: @bordfonce;
+}
+footer a:visited , footer a:active{
+		color: demiblanc ;
+}
+.carte{
+	height: 605px;
+    box-shadow: 0.5rem 1em @ombre;
+    border-radius: .25rem;
+    background-color: @grisblanc;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+}
+.carte h5{
+	font-style: italic;
+	color:@bordeaux;
+
+}
+.carte footer {
+    text-align: center;
+    background-color: @grisblanc;
+    position: absolute;
+    bottom: 20px;
+    right: 70px;
+    width: inherit;
+}
+.carte footer a{
+	display: inline-block;
+    text-align: center;
+    border: 2px solid @bordeaux;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    background-color: @beuop;
+    color: @bordeaux;
+  }
+.carte footer a:hover{
+	text-decoration: none;
+	font-weight: bold;
+} 
+.carte footer a:visited , .carte footer a:active {
+	text-decoration: none;
+}
+.mini-carte {
+    position: relative;
+    background-color: @beuop;
+    background-clip: border-box;
+    border: 1px solid @violetop60;
+    border-radius: 0.25rem;
+    margin-top: 1rem;
+}
+.mini-carte header{
+	border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;	
+	padding: .85rem 0;
+}
+.mini-carte header h6 {
+    color: #C00000;
+    text-align: center;
+    padding-top: 1rem;
+}
+.mini-carte aside {
+    padding: 0 1rem 0.25rem;
+}
+.mini-carte article{
+    border-radius: .25rem;	
+}
+.mini-carte article a {
+    position: inherit;
+    display: block;
+    padding: 0.75rem;
+    background-color: @grisblanc;
+    border: 1px solid @violetop60;
+    color: #C00000;
+    margin-bottom: 1rem;
+    font-size: 0.7rem;
+}
+.titre-asso{
+	text-align: center;
+}
+.titre-erreur {
+    text-align: center;
+    font-family: digital;
+/*    font-size: 3rem;*/
+}	
+
+.digital {
+    font-family: digital;
+}
+
+ /*commun aux sites*/
+.gras, .gr,.g{
+	font-weight: bold;
+}
+.italic{
+	font-style: italic;
+}
+.centrer, .center, .cnt{
+	text-align: center;
+}
+.justify, .jtf{
+	text-align: justify;
+}
+.mt2{
+    margin-top: 1.25rem ;
+}
+.mt6{
+	margin-top: 3rem ;
+}
+.mt7{
+	margin-top: 3.5rem ;
+}
+.mt8{
+	margin-top: 4rem ;
+}
+.mt9{
+	margin-top: 4.5rem ;
+}
+.mt10{
+	margin-top: 5rem ;
+}
+.mt11{
+	margin-top: 5.5rem ;
+}
+.mt12{
+	margin-top: 6rem ;	
+}
+.signature{
+	text-align: right!important;
+	margin-bottom: 0;
+	font-style: italic;
+}
+.photo_cnt{
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

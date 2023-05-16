@@ -1,0 +1,80 @@
+																																																												
+<p class ='f12 justifier gras'>Modification du 22/02/2023</p>
+
+<p class ='f12 justifier'>reprise du wiki maison créée il y a bien longtemps pour le projet artistique walk</p>
+
+
+
+<p class ='f12 justifier gras'>utilisation du wiki:</p>
+
+<b><p class ='f12 justifier'>text</p></b>
+
+
+
+<p class ='f12 justifier'>Comme tout wiki, le texte est tapé en direct live, on peut le corriger, le modifier, ou le supprimer. Pour cela il faut cliquer sur le bouton <span class ='gras'>Mode édition</span> qui faire apparaitre la zone d'écrire.</p>
+
+
+
+<p class ='f12 justifier'>Lorsque la page est en mode édition, tous les codes entre les balises '<' et' >' c'est du HTML,  il ne faut rien écrire dedans, si non ça ne s'affichera pas. mais on peut les supprimer complètement pour refaire une nouvelle mis en page</p> 
+
+<br><br><br><br><br><br>
+
+<p class ='f12 justifier'>Pour faire la mise ne page, une fois le texte taper, il faut de le sélectionner et d'appliquer le style choisi.</p>
+
+
+
+<p class ='f12 justifier'>il y a deux boutons <span class='rouge'>modif rouge</span> et <span class='vert'>modif vert</span> trés utile lors d'une modif dans un fichier! Il faut aussi changer la date de mise à jour du fichier en haut </p>
+
+
+
+<p class='f12 centrer'><span class='rouge'>Exemple: pascal je tape un texte en modif rouge, donc je me signale avant! voila c'est tout!</span></p>
+
+
+<p class ='f12 justifier'>cccccc</p>
+
+
+
+<span class='bleu'><p class ='f12 justifier'>note: un rajout de dernière minute pour mettre des images sur le wiki<
+suit à une demande de Vincent, je l'ai fait à l'arrache!/p></span>
+<span class='bleu'><p class ='f12 justifier'>seules le extensions "jpg", jpeg et PNG  fonctionnent
+il doit y avoir surement des bugs signalez les merci</p></span>
+
+<p class ='f12 justifier'>
+<form action="index.php" method="POST" enctype="multipart/form-data">
+      
+        <input type="file" name="file">
+        <button type="submit">Enregistrer</button>
+</form>
+</p>
+
+<p class ='f12 justifier'>l'image enregistrée est stockée dans le dossier "images"
+
+pour l'utiliser pour le moment il faut recopier ce code</p>
+<div class='code'><code><xmp>
+
+<img class="photo_cnt" src="[images/nom de l'image].[png ou jpg"]>
+
+</xmp></code></div>
+
+ <img class="photo_cnt" src="images/BARRE.JPG"/>
+
+<p class ='f12 justifier'>test texte</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																				

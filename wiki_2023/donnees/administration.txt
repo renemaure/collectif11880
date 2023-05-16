@@ -1,0 +1,58 @@
+<p class='titre'>administration du walk</p>
+
+
+<p class ='f12 justifier gras'><u>Enregistrement et inscription</u></p>
+
+<p class ='f12 justifier'>Les personnes sont invitées à s'enregistrer sur un site web dédié pour prétendre participer à un walk. Elles ont pris connaissance du projet Walk grâce à, une invitation personnelle, un QR disposé dans la ville, sur un site internet, par les médias conventionnels, par petites annonces dans le chasseur français, ou d'autres  pleins d'autres idées à trouver.</p>
+
+
+<p class ='f12 justifier'> Pour s'enregistrer la personne donne son nom, son prénom, son mail , sa date de naissance, un numéro de smartphone et d'autre truc indispensables et réglementaire. le site web vérifie que cette personne existe, en lui envoyer un mail, qu'il doit valider dans les 24 ou 48 heures. Ceci évite les robots spammeurs, et autres chiens malfaisants. Une fois validé, l'internaute peut crée son avatar, soit très sommairement, soit dans le détail. Une fois, l'avatar crée, l'internaute peut s'inscrire à un Walk précis. Il doit valider le règlement, regroupant des recommandations et des obligations.</p>
+
+
+<p class ='f12 justifier gras'><u>Le profil/trajectoire du walker:</u></p>
+
+<p class ='f12 justifier'>le début du processus de constitution du profil/trajectoire du walker commence des son enregistrement sur le site web:</p>
+<p class ='f12 justifier re l40'>
+Date et l'heure de son enregistrement.<br>
+nombres de connection sur le site.<br>
+La date et l'heure de chaque connection.<br>
+temps de chaque connection.</p>
+
+<p class ='f12 justifier'>On peut en retirer comme résultats:</p>
+<p class ='f12 justifier re l40'>moyenne jour mois heures <br>
+temps passé sur chaque page<br>
+nbr pages vues</p>
+
+<p class ='f12 justifier'>récupération de données sur un walk</p>
+
+<p class ='f12 justifier re l40'>heure d'enregistrement.</p>
+
+<br><br>
+
+<p class ='f12 justifier gras'><u>Kit du walker :</u></p>
+
+<p class ='f12 justifier re l40'>
+– smartphone équipé d'un lecteur de QR code et d'un navigateur web<br>
+– kit oeillette ou casque pour le smartphone<br>
+– walk man pour bande son préenregistrée avec écouteur<br>
+– kit oeillette ou casque pour le walkman (j'utiliserai volontiers un kit oreillette pour permettre<br>
+d'entendre les consignes avec le smartphone et la bande son avec le walk man, quitte quand cela se
+chevauche ponctuellement à utiliser une oreille pour chacun)
+– jumelles<br>
+– ticket d'entrée<br>
+– carte intermarché<br>
+</p>
+
+<br>
+
+<p class ='f12 justifier gras'><u>Questions / commentaires:</u></p>
+
+<p class='f12'>Que faire des mineurs "emasnsipé" 15 17 ans et aussi les plus jeunes 10 12 ans ?</p>
+
+<p class ='f12 justifie'>question fabrizio: <span class='italique'>Voir si on peut faire valider la question de la majorité autrement que par l'obtention de la date de naissance, par une déclaration sur l'honneur, et en cas de doute le jour de la rencontre avec le candidat, lui demander d'attester de sa majorité. Pour les mineurs ils doivent je pense être accompagnés.</span></p>
+
+<p class ='f12 justifier'>note:<span class='italique'> Il faut faire une déclaration du site et de la base de donnée à la CNIL, en prouvant que l'on n'a bien informé le quidam, et qu'il dispose d'une consultation de ses données et droit de retrait. mais vu que c'est justement ce que l'on veut faire peut être qu'il faudrait les avoir comme partenaires.</span></p>
+
+
+
+

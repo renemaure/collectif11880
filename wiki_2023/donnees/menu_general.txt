@@ -1,0 +1,8 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_donne"> 
+<tr>
+<td><span class ='gras'>Thérorie Swart/Walk</span></td>
+<td><a href="tab-bord.phpdonn=general&men=menu_general">théorie Swart/Walk</a></td> 
+<td><a href="tab-bord.php?donn=syntese_swart&men=menu_general">syntèse Swart/Walk pascal</a></td>
+<td><a href="tab-bord.php?donn=avatar&men=menu_general">théorie sur l'avatar</a></td> 
+</tr>
+</table>

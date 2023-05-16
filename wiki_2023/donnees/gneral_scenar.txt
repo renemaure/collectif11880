@@ -1,0 +1,92 @@
+<br><br><p class='titre'>ESQUISSE DE SCENARIO SWART/WALK : FORTUNE COOKIES</p>
+
+<p class ='f12 justifier'>Concept original et direction artistique : FabriZio Bongiorni
+<br>
+Direction et création technique : Pascal Rollin</p>
+
+<p class ='f12 justifier italique'>texte original mis sous verre pour sa beauté manifeste en <span class ='gras'><a href="http://wiki.swart-walk.com/pdf/scenar%20fortune%20cookies.pdf" target="_blank">archive</a></span></p>
+
+<p class ='f12 justifier'><span class='italique'> sur cette page la version machouillée par Pit, toujours très joueur!</span></p>
+
+<p class ='f12 justifier gras'>Préambule :</p>
+
+<p class ='f12 justifier'>Cette proposition est encore au stade intermédiaire d'une esquisse de Swart/Walk, entre un scénario
+utopique permettant une première projection en phase test et un squelette pour une version finale. Rien
+n'est définitif, le squelette pourra évoluer et de nombreux détails viendront s'ajouter ou être retirés : la
+plupart des dispositifs et principaux ingrédients sont posés, mais il reste encore à creuser voire faire
+l'enquête documentaire et à développer l'intrigue narrative... L'idée, comme convenu entre nous, c'est de
+donner une première trame qui permette d'identifier les principales étapes et ingrédients qui vont rythmer
+et constituer le dispositif du walk, pour que tu puisses/nous puissions en imaginer les solutions techniques
+et en tester la faisabilité.</p>
+
+<p class ='f12 justifier'>Pour les principes généraux, le substrat conceptuel et philosophique, la pensée globale du dispositif et la portée esthétique et éthy(li)co politique de ce nouveau média, se référer
+ à la partie <a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=general&men=menu_general"><span class ='gras'>généralité du Swart/Walk</span></a>.</p>
+
+<br><br>
+
+<p class ='f12 justifier gras'>I/ Phasage et analytique du scénario Fortune Cookies :</p>
+
+<p class ='f12 justifier gras'>Séquences pour les walkers :</p>
+
+<p class ='f12 justifier rouge'>Le scénario est divisé en deux séquence, la première le parcours, la seconde la restitution du Walk.</p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>Séquence 1 :</span><strike> Le parcours. </strike>Du café Wepler de la place de Clichy à l'atelier du tailleur/photographe africain, en passant par Barbès, Château Rouge,  <span class =" gras souris sable" title="Il est possible que le passage se fasse par un autre pont sncf en début de séquence">le pont SNCF</span> (entre l'Eglise Saint Bernard et la rue de la Chapelle) Intermède : De l'atelier du tailleur/photographe africain au 104 (minibus pour chaque groupe) ou à « Ma 104 » en passant par le périph... !!!</p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>Séquence 2 : </span>la restitution finale du walk se fait dans une salle de spectacle, (pourquoi pas au 104, ou ailleurs) avec notamment le dévoilement de la régie, la restitution sous forme spectaculaire et esthétique des données (profil/trajectoire, etc.) de chaque parcours individuel, l'évolution de l'avatar, etc.</p>
+
+<p class ='f12 justifier gras'>Visibilité pour des publics non walkers :</p>
+
+<p class ='f12 justifier re l40'><span class ='rouge'> Du public</span> est réuni dans une salle de spectacle,<span class ='rouge'> la même que pour la restitution du Walk.</span> ils assistent au déroulé du walk mis en scène.</p>
+
+<p class ='f12 justifier re l40'>2/ Public online assistant au déroulé du walk via l'interface du site web dédié. <span class ='rouge'>je ne sais pas si tu vois la portée de la chose, mais l'écriture de cette phrase, est giga_mile_fois _inversement proportionnel aux emmerdes à venir pour gérer un machin pareil. Pit a même faillit me mordre en lisant cette ligne!!</span></p>
+
+<p class ='f12 justifier gras'>Modalité du parcours :</p>
+
+<p class ='f12 justifier re l40'> linéaire</p>
+
+
+
+ <p class ='f12 justifier gras'>Nombre de walkers :</p>
+
+<p class ='f12 justifier re l40'> une quinzaine</p>
+
+<p class ='f12 justifier gras'>Procédure d'enregistrement :</p>
+
+<p class ='f12 justifier re l40'>Phase 1, via le site dédié : avec notamment création de son avatar (cf. fiche wiki pour premiers  compléments d'information)</p>
+
+
+<p class ='f12 justifier re l40'>Phase 2, le jour J, accueil personnalisé une heure à l'avance, vérification de la procédure d'enregistrement, vérification du matériel (smartphone, matériel audio,...) distribution du kit, voire prêt de
+smartphone configuré, briefing de chaque walker, etc.</p>
+
+<p class ='f12 justifier'><span class ='gras'>Modalité de départ :</span> seuls (parcours/ séquence1) ; ensemble (restitution/séquence 2)</p>
+
+<p class ='f12 justifier'><span class ='gras'>Ecart entre chaque départ :</span> 5 minutes (15x5 : 75mn, écart entre premier et dernier départ)</p>
+
+<p class ='f12 justifier'><span class ='gras'>Etapes clés hors enregistrement et accueil :</span> (voir détail plus loin) 
+</p>
+
+<p class ='f12 justifier re l40'>– Distributeur de fortune cookies<br>
+– Terrasse café marché Dejean (10mn)<br>
+– Appartement-témoin (20 mn environ : découverte de l'appartement, visionnages interactifs,...)<br>
+– Internet café/ Taxi phone (15mn environ)<br>
+– Intermarché(10 mn)<br>
+– Atelier du tailleur/photographe africain (25 mn environ)<br>
+– Minibus tour sur le périph (20 mn environ)<br>
+– Salle de café/goûter aménagée (si besoin)<br>
+– Restitution finale (45 mn environ)<br></p>
+
+
+<p class ='f12 justifier gras'><u>Communication globale :</u></p>
+
+<p class ='f12 justifier'>Le swart/walk ne se résume pas à ce qui se produit durant le parcours, le jour J de la déambulation.
+Sans parler de toute la préparation, (conception générale, écriture, conception technique, recherche et
+enquête documentaire, …) il y a par exemple le tournage de la régie publicitaire, sa pré-diffusion, l'affichage
+de QR codes, et toute une série de teasers. On envisage également la mise en place d'un site permettant de
+suivre les premières évolutions des avatars dans un monde persistant.
+Les teasers sont des sortes d'avant-goût donné au public potentiel d'un événement (ici le swart/walk qui
+s'intégrerait si j'en crois la mode actuelle un « transmédia ») à travers des divulgations partielles sous forme
+d'extraits vidéos, des sortes de bandes-annonces.</p>
+
+
+
+

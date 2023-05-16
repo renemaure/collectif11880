@@ -1,0 +1,66 @@
+<br><br><p class='titre'>Les dispositifs scénarises</p>
+
+<p class ='f12 justifier'>ces dispositifs font partie intégrante du scénario du walk.</p>
+
+<p class ='f12 gras justifier'><u>Le bus RATP</u></p>
+
+<p class ='f12 gras justifier'><u>La boutique du photographe</u></p>
+
+<p class ='f12 gras justifier'><u>Le mur qui parle?</u></p>
+
+<p class ='f12 justifier re l40'>en s'approchant, travelling sonore progressif qui permet de surprendre des ambiances intimes./p>
+
+<p class ='f12 justifier gras'><u>La Bande sons</u></p> 
+
+<p class ='f12 justifier re l40'>– Marcher dans les pas d'un autre</p>
+
+<p class ='f12 justifier re l40'>- Marcher dans la pensée d'un autre.</p>
+
+<p class='titre'>Les dispositifs techniques</p>
+
+<p class ='f12 justifier'>ces dispositifs n'ont pas de prise direct sur le scénario du walk, ils peuvent même s’appliquer sur plusieurs walk.</p>
+
+<p class ='f12 justifier gras'><u>La régie spectaculaire</u></p>
+<p class ='f12 justifier re l40'>c'est la régie mise en scène qui restitue les données du walk au public présent dans la salle de spectacle.</p>
+
+ <p class ='f12 justifier re l40'>Elle met en scène la restitution finale du walk en dévoilement aux walkers, la régie spectaculaire, le public présent, la restitution sous forme spectaculaire et esthétique du profil/trajectoire de chaque parcours individuel, l'évolution de l'avatar de chaque walkers.</p>
+
+<p class ='f12 justifier gras'><u>Les webcams</u></p>
+
+<p class ='f12 justifier re l40'>disposées sur des balcons, ou aéroportées, ou encore en micros camera humaine. Les images sont retransmis dans la salle de spectacle.
+</p>
+
+<p class ='f12 justifier gras'> <u>sms cadavre exquis</u></p>
+<p class ='f12 justifier re l40'>je ne connais pas les règles. au fait ton jeux et aussi la sans être pour autant sur une plateforme dédiée.</p>
+
+
+<br>
+<p class='titre'>Les dispositifs globaux</p>
+
+<p class ='f12 justifier'>Je mets dans ce paragraphe les dispositifs qui prennent vie avant même le début du walk.</p>
+<br><br>
+
+<p class ='f12 gras justifier'><u>La régie publicitaire</u></p>
+
+<p class ='f12 justifier re l40'>Réalisation et diffusion d'une web-tv-documentaire de quartier.</p>
+<br><br>
+<p class ='f12 justifier gras'><u>Le profil/trajectoire</u></p>
+<br><br>
+<p class='titre'>Autres dispositifs</p>
+
+<p class ='f12 justifier re l40'>
+
+– affichages sous forme de détournements d'espaces publicitaires (abri bus, …).<br>
+– QR codes déclencheurs de séquences audio, vidéos, audiovisuelles.<br>
+
+– le rez de chaussée webcam (en s'arrêtant à telle adresse, on scanne le QR code qui permet d'utiliser
+la webcam filmant l'intérieur de l'appartement ).<br>
+
+– ppersonnes interviewées, figurant dans la bande-son et pouvant apparaître à l'image voire
+en réalité sur le parcours.<br>
+
+
+
+
+</p>
+

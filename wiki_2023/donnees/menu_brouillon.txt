@@ -1,0 +1,10 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_donne"> 
+<tr>
+<td><span class ='gras'>brouillon</span></td>
+<td><a href="tab-bord.php?donn=prepa_walk&men=menu_brouillon">préparation déroulement walk</a></td>
+<td><a href="tab-bord.php?donn=preparation&men=menu_brouillon">préparation déroulement walk pascal</a></td>
+<td><a href="tab-bord.php?donn=avatar_regle&men=menu_brouillon">les règle de l'avatar</a></td>
+<td><a href="tab-bord.php?donn=regie_pilotage&men=menu_brouillon">La régie de pilotage</a></td> 
+<td><a href="tab-bord.php?donn=gneral_scenar&men=menu_brouillon">trame technique fortune cookies</a></td>
+</tr>
+</table>

@@ -1,0 +1,46 @@
+															<br><br><p class='titre t14 arialb'>Accueil du wiki sur le projet SWart /Walk </p>
+
+<p class ='f12 justifier gras'>Modification du 23 mars 2013</p>
+
+<p class ='f12 justifier'>Encore une nouvelle présentation! En effet, il y a maintenant plusieurs menus, répartis sur 3 grands thèmes. <span class ='gras'>la théorie</span> du swart/walk; <span class ='gras'>la technique</span> et <span class ='gras'>le scénario</span>. il y aura surement d'autres thèmes qui viendront s'incruster plus tard. chaque thème renvoie sur un nouveau menu pour pouvoir le dispatcher sur plusieurs fichiers.</p>
+
+<p class ='f12 justifier gras'>utilisation du wiki:</p>
+
+<p class ='f12 justifier'>Comme tout wiki, le texte est tapé en direct live, tu peut le corriger, le modifier, ou le supprimer. Pour cela tu dois cliquer sur le bouton <span class ='gras'>Mode édition</span> qui faire apparaitre la zone d'écrire.</p>
+
+<p class ='f12 justifier'>Lorsque la page est en mode édition, tous le code entre les balises '<' et' >' C'est du HTML,  il ne faut rien écrire dedans, si non �a ne s'affichera pas. par contre tu dispose de boutons pour le mise ne page, il suffit simplement de taper ton texte de le sélectionner et d'appliquer le style choisi.</p>
+
+<p class ='f12 justifier rouge'>J'utilise le rouge pour indiquer une modification importante dans ton texte, tu peut faire de même sur mon texte, en utilisant le bouton<span class ='gras'> modif.</span> je donne aussi la date de modification du fichier en haut de page</p>
+
+<p class ='f12 justifier'><span class ='rouge'>nouvelle rubrique, <span class ='gras'>la table des matières</span>. indispensable car il y a des fichiers cachés du menu!</span></p>
+<br><br>
+<p class ='f12 centrer'>Voila, pour la présentation. et maintenant place au travail du Walk.</p>
+<br><br>
+
+
+<p class ='f12 justifier'><span class ='gras'><u>les liens vers des module web du serveur swart-walk.com</u></span></p>
+
+<p class ='f12 justifier'><a href="http://mobil-test.swart-walk.com/" target="_blank">module test mobile</a></p>
+
+<p class ='f12 justifier'>module <a href="http://test-avatar.swart-walk.com/" target="_blank">test avatar</a> nouveau!</p>
+
+<p class ='f12 justifier'>site <a href="http://www.swart-walk.com/map/map.html" target="_blank">sur map</a> avec g�olocalisation</p>
+
+<p class ='f12 justifier'><span class ='gras'><u>Liens vers d'autres ressources web utiles, ou non</u></span></p>
+
+
+<p class ='f12 justifier'><a href="http://www.trans305.org/fra/index.php?page=304" target="_blank">trans305.org</a>
+
+
+ Ils ont réalisé des dispositifs <a href="http://www.museetransversal.org/" target="_blank">"transmédias"</a> pour plusieurs musées du Languedoc-Roussillon. c'est intéressant de voir quand on clique sur "équipe" les profils et aussi en bas de page les logiciels qu'ils ont utilisés.</p>
+
+<p class ='f12 justifier'><a href="http://smswall.blogspot.fr/2011/03/smswall-derniere-version-le-mode.html" target="_blank">SMS WALL</a> Une utilisation possible dans la salle de spectacle, permettre aux suiveurs on line du swart/walk d'envoyer des commentaires. ou g�n�rer une r�gle du jeu du type cadavre exquis, � partir d'�l�ments s�mantiques pr�lev�s dans la th�matique du walk (exemple: virtuel/incarn�) ; id�e de lieu d'exposition : un cimeti�re moderne, le 104 par exemple...
+</p>
+
+<p class ='f12 justifier'>un audio guide d�tourn� � la <a href="http://www.gaite-lyrique.net/informations-pratiques/une-oeuvre-sonore-contributive-et-geo-localisee-par-kompost-et-orbe" target="_blank">GAITE LYRIQUE</a> avec smartphone et applique d�di�e</p>
+<br><p class ='f12 justifier'><a href="http://ener.ensad.fr/publicationsfichiers/avatars_Lelievre.pdf" target="_blank">http://ener.ensad.fr/publicationsfichiers/avatars_Lelievre.pdf</a></p>
+
+
+
+
+												

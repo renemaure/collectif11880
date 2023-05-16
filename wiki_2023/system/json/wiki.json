@@ -1,0 +1,25 @@
+{
+	"_commentaire": "fichier json gérant les données du wiki",
+	"_commentaire": "version beta 1.0.0 derniere modif au 22/02/2023",
+
+		"_commentaire": "partie a ne pas toucher",
+	"p" : ".php",
+	"h" : ".html",
+	"t" : ".txt",
+
+	"_commentaire": "a renseigner pour le site",
+	"_commentaire": "a renseigner variable menu_2 si un 2eme menu au démarage",
+	"menu_2" : false,
+	"txt_vrn" : "Version ",
+	"version" : "1.5.0",
+	"date" : "19/03/2023",
+	"trt_nav" : "wiki du collectif ",
+	"lanceur" : "fichiers/entrer_bord.php",
+
+	"_commentaire": "codes d'acces du site",
+	"acces_cd01" : "4de8f7e6b95ef059612c346032d74170",
+	"acces_cd02" : "c305d653b6e6abe6aad0083a7aa76d20",
+	"_commentaire": "codes d'acces du site",
+	"acces_cd03" : "0a902657d37b5e7fbc07cd0f080072de",
+	"acces_cd04" : "07eab619a3afa2d5897866967515e9ce"
+}

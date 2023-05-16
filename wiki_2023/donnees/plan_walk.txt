@@ -1,0 +1,3 @@
+ <p class='centrer'> <img src="images/plan1.jpg" border="0"></p>
+<br><br>
+<p class ='f12 justifier'>j'ai perdu le fil pas trouver ou les le bus!</p>

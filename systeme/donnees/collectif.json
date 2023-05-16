@@ -1,0 +1,110 @@
+{
+	"_commentaire": "partie a ne pas toucher",
+	"p" : ".php",
+	"h" : ".html",
+	"t" : ".txt",
+
+	"_commentaire": "données obsolettes que sur collectif 11880",
+	"exttxt" : ".txt",
+	"exthtm": ".html",
+
+
+	"_commentaire": "modules complementaires",
+	"list" :"true",
+	"tabbord" : "false", 
+	"auto_menu" : "true",
+	"activ_li"	: "true",
+
+	"_commentaire": "a renseigner pour le site",
+	"index" : "accueil",
+	"dirlien" : "pages/",
+	"aside" : "",
+	"dirtxt" : "elements/",
+	"trt_head" : "",
+	"txt_vrn" : "Version",
+	"version" : "6.2.8",
+	"date" : "03/04/2023",
+
+	"_commentaire": "section site collectif",
+		"rq" : "accueil_robot",
+		"rqm" : "accueil_robot_maison",
+		"prt" : "robotique",
+		"ct" : "cmit",
+		"bric" : "accueil_brico",
+		"acc" : "accueil_cmit",
+		"cl" : "accueil_asso",
+		"ac" : "accueil",
+		"ae" : "accueil_art",
+		"px" : "projetx",
+		"apg" : "accueil_prog",
+		"pg" : "programmation",
+		"bri" : "bricolage",
+		"pm" : "histoire_asso",
+		"as" : "association",
+		"ar" : "accueil_electro",
+		"pma" : "projet_matricule",
+		"es" : "erreur_systeme",
+		"rbm" : "robot_maison",
+		"vd" : "vide",
+		"yo" : "colonne_yoni",
+
+		"txtbtn1" : "Accédez à la page",
+		"txtbtn2" : "Accédez au site",
+		"txtbtn3" : "Lire la suite",
+		"svg_1" : "svg_carre",
+
+	"_commentaire": "section menu header ",
+		"nbr_menu" : "6",
+		"css_li_menu" : "",
+		"css_a_menu" : "",
+		"lien_pg1" : "index.php?pg=ac&act=1&ext=p&asi=vd",
+		"trt_menu1" :"Accueil",
+
+		"lien_pg2" : "index.php?pg=apg&act=2&ext=p&asi=pg",
+		"trt_menu2" :"Programmation",
+
+		"lien_pg3" : "index.php?pg=bric&act=3&ext=h&asi=bri",
+		"trt_menu3" :"Bricolage",
+
+		"lien_pg4" : "index.php?pg=rq&act=4&ext=h&asi=prt",
+		"trt_menu4" :"Robotique",
+
+		"lien_pg5" : "index.php?pg=ar&act=5&ext=p&asi=ae",
+		"trt_menu5" :"Art-électronique",
+
+		"lien_pg6" : "index.php?pg=cl&act=6&ext=p&asi=as",
+		"trt_menu6" :"Association",
+
+		"lien_art1" : "index.php?pg=amr&act=5&ext=p&asi=mr",
+		"amr" : "accueil_mr",
+		"mr" : "maurice_rene",
+		
+	"_commentaire": "autres lien du site",	
+		"lien_pg7" : "matricule/index.html",
+		"lien_pg7A" : "http://matricule.projetx.art",
+		"lien_pg8" : "index.php?pg=ar&act=5&ext=p&asi=pma",
+		"lien_pg9" : "index.php?pg=cl&act=2&ext=p&asi=pm",
+		"trt_menu9" :"L'histoire de l'association",
+		"lien_pg10" : "index.php?pg=ar&act=5&ext=p&asi=es",
+		"trt_menu10" : "Projet Erreur Système",
+		"lien_pg11" : "http://www.projetx.art/",
+		"trt_menu11" : "Projet X",
+		"lien_pg12" : "index.php?pg=ar&act=5&ext=p&asi=yo",
+		"trt_menu12" : "Projet Colonne de YoNy",
+		"lien_rbt1" : "index.php?pg=rqm&act=3&ext=h&asi=rbm",
+
+		"trt_acc1" : "Association Collectif 11880 Club CMIT",
+
+	"_commentaire": "lien des pages",
+		"trt_menu7" : "pas de nom",
+		"trt_art1" : " Projet Matricule 11880",
+		
+		"trt_art5":  "L’erreur système",
+		"trt_art6" : "La colonne de YonI",
+		"txt_art9" : "Le club CMIT",
+				
+		"txt_prg2" : "Installation Bootstrap",
+		"txt_prg3" : "Installation Less",
+		
+		"txt_prg8" : "Les codes Qbasic"
+}

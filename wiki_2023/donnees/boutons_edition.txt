@@ -1,0 +1,21 @@
+	<input type="button" value="retour ligne" onclick ="insertTag('<br>','','textarea');">
+	<input type="button" value="paragraphe" onclick ="insertTag('<p class =\'f12 justifier\'>','</p>','textarea');">
+	<input type="button" value="paragraphe centrer" onclick ="insertTag('<p class=\'f12 centrer\'>','</p>','textarea');">
+  <input type="button" value="paragraphe en retrait" onclick ="insertTag('<p class =\'f12 justifier re l40\'>','</p>','textarea');">
+	<input type="button" value="titre" onclick ="insertTag('<p class=\'titre\'>','</p>','textarea');">
+	<input type="button" value="gras" onclick ="insertTag('<span class =\'gras\'>','</span>','textarea');">
+	<input type="button" value="italique" onclick ="insertTag('<span class=\'italique\'>','</span>','textarea');">
+	<input type="button" value="souligné" onclick ="insertTag('<u>','</u>','textarea');">
+	<input type="button" value="barré" onclick ="insertTag('<strike>','</strike>','textarea');">
+<br>
+<input type="button" value="code machine" onclick ="insertTag('<div class=\'code\'><code><xmp>','</xmp></code></div>','textarea');">	
+<input type="button" value="texte en indice" onclick ="insertTag('<sup>','</sup>','textarea');">
+<input type="button" value="modif maurice" onclick ="insertTag('<span class=\'rouge\'>','</span>','textarea');">
+	<input type="button" value="modif fabrizio" onclick ="insertTag('<span class=\'vert\'>','</span>','textarea');">
+	<input type="button" value="Lien nouv page" onclick="insertTag('', '', 'textarea', 'lien')" />
+<input type="button" value="Lien page web" onclick="insertTag('', '', 'textarea', 'extern')" />
+	<input type="submit" value="valider">
+	<input type="button" value="fermer" id="ferme">
+	
+       
+   

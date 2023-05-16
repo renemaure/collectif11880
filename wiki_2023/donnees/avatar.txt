@@ -1,0 +1,55 @@
+<br><br><p class='titre'>L'avatar</p>
+
+<p class ='f12 justifier rouge'>Texte modifier le 25 03 2013</p>
+<br>
+
+<p class ='f12 justifier rouge'>Je n'ai pas trouver de passage sur l'avatar, dans ton premier texte, Je donne moi l'utilisation que l'on peut en faire. La première qui m'est apparue, et qui est de plus en plus utilisé sur le web, c'est de cacher l'identité de la personne dans un avatar, pour que des intervenants divers puissent manipuler les données anonymement. C'est une sorte de paradoxe, mais l'avatar crée une passerelle entre le web et le réel.</p>
+
+
+<p class ='f12 justifier'>Pour le swart/walk chaque avatar est en fait un fichier dans une base de donnée, dont l'accée peut être morcelé. Pour ce le représenter, le walker peut lui donner une images, des caractéristiques, issu du jeux de rôle. </p>
+
+<p class ='f12 justifier'><u>reprise de tes textes:</u> <span class='italique'>Ces caractéristiques établies, la formule algorithmique du swart/walk pourra activer les premiers pas de l'avatar non seulement dans une représentation interactive et concomitante du parcours, mais dès l'enregistrement commencer de nourrir un univers persistant.</span></p>
+
+
+<p class ='f12 justifier rouge'>petite définition de l'univers persistant: c'est monde virtuel utilisé comme environnement dans le jeu de rôle en ligne sur ordinateur. La particularité de ce monde virtuel est qu'il ne s'arrête jamais. Il existe et évolue en permanence, même quand le joueur le quitte, se déconnecte et éteint son ordinateur. </p>
+
+<p class ='f12 justifier rouge'>Naturellement chaque avatar évoluera depuis sa création et jusqu'à la fin du walk, mais de la à le faire évoluer en permanence, dans un monde persistant, me parait irréaliste (moyens technique, humain et connectiques)et d'autre part cela déplace le centre d’intérêt du swart/walk, c'est le web mais dans la rue le réel. la réalité augmentée me parait plus appropriée pour un walk.</p>
+
+<p class ='f12 justifier'>autre texte en citation: <span class='italique'>les avatars, selon les structures qu'ils possèdent en commun, de proche en proche, peuvent tendre à se standardiser dans une sorte de cannibalisme imaginal pour ne plus ressembler qu'à un profil marketing type ; l'action de certains événements, le comportement du walker, sa rythmologie, peuvent favoriser cette standardisation ou au contraire lui permettre de résister.</span></p>
+
+<p class ='f12 justifier'><span class='italique'>Site internet de suivi de l'univers persistant des avatars : Il permet le suivi des avatars des walkers dans un game design même rudimentaire (type Maze in the Labyrinth). On développera plus tard, mais ce serait l'endroit clé pour intégrer la dimension du cybermédia et ouvrir un peu plus encore le swart/walk dans le transmédia. Le design de ce jeu où évolue l'avatar consistera dans une sorte de représentation, de double métaphorique, de symétrique décalé du parcours du walker. </span>(La pour moi ta du fumer la moquette!!)</p>
+
+
+<p class ='f12 justifier gras'>règles de création de l'avatar</p>
+
+<p class ='f12 justifier'> En  empruntant une partie du monde du jeux de rôle, l'avatar est constitué de trois aptitudes matérialisées par un chiffre entre 1 et 6, qui défini le niveau. (1 faible; 6 fort, donc 3 moyen).</p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>le physique:</span> regroupe les aptitudes physiques comme; la force; endurance.  </p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>l’intellect: </span> regroupe les aptitudes comme l'intelligence, la beauté. </p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>le charisme:</span> regroupe plus ou moins les aptitudes liées à la prise de décision, de convaincre.</p>
+
+<p class ='f12 justifier'>A sa création, l'avatar à 3 points dans chacune des aptitudes. le walker dispose de 5 points supplémentaires pour personnalisé son avatar, mais suivant une règle :</p>
+
+<p class ='f12 justifier rouge'>Chaque point rajouté dans une caractéristique cout deux points sur les 5 points de départ, et par contre baisser une caractéristique de 1 point rajoute un point aux point de départ.<p>
+
+<p class ='f12 justifier'><span class='rouge italique'>j'ai modifier la règle, car l’algorithme de calcul était une usine à gaz, de plus cette nouvelle règle et vicieuse à plus d'un point!</span></p>
+
+<p class ='f12 justifier'>comme dans l'univers du jeu de rôle, il y a toujours les points annexes qui sont plus ou moins important, ici je crée les <span class ='gras'>points de Walk</span>!</p>
+
+<p class ='f12 justifier'>le calcul: Le total des points des aptitudes, plus le point restant s'il y en a un. ensuite on donne des points supplémentaires, ou on en enleve, en fonction du comportement du walker et aussi de son avatar.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

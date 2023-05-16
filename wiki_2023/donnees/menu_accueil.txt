@@ -1,0 +1,10 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_princ"> 
+<tr>
+<td><span class ='gras'><a href="tab-bord.php?donn=accueil&men=menu_vide">Accueil Walk</span></td>
+<td><a href="tab-bord.php?donn=general&men=menu_general">théorie Walk</a></td> 
+<td><a href="tab-bord.php?donn=gneral_scenar2&men=menu_scenar">scénario walk</a></td>
+<td><a href="tab-bord.php?donn=intro_tech&men=menu_tech">technique Walk</a></td>
+<td><a href="tab-bord.php?donn=administration&men=menu_vide">Administration du walk</a></td>
+<td><a href="tab-bord.php?donn=brouillon&men=menu_brouillon">brouillon Walk</a></td>
+</tr>
+</table>

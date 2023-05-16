@@ -1,0 +1,279 @@
+:root{
+  --blanc:  #ffffff;
+  --gris_bleu:#ABACAF;
+  --bleu_fonce:#002143;
+  --bleu_ciel:#99FFFF;
+  --saumon:#FFBBBC;
+  --bordeaux:#CC0000;
+  --fushia:#ae206c;
+  --vert:#66CC33;
+  --rouge:#ff0000;
+
+}
+body{
+    font:12pt Verdana;
+    margin: 0;
+    width:100%;
+    text-align: center;
+    background-color:var(--gris_bleu);
+    }
+header {
+    color:var(--blanc);
+    position: relative;
+    height: 3em;
+    width: 100%;
+    margin-top: -17px;
+    background-color: var(--bleu_fonce);
+}
+header h1 {
+    font: bold 20pt arial;
+    position: relative;
+    text-align: center;
+    top: 0.25em;
+}
+header h3 {
+    font: 10pt arial;
+    position: absolute;
+    top: 15px;
+    padding: 0px;
+    margin: 0px;
+    right: 5%;
+}
+main {
+    background-color: var(--bleu_ciel);
+    border: 2px solid var(--blanc);
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+    z-index: 1;
+    width: 80%;
+    margin-top: 3em;
+    min-height: 600px;
+}
+#acces_securit {
+    border: 2px solid var(--bordeaux);
+    height: 370px;
+    top: 5em;
+    width: 70%;
+    margin: 0 auto;
+    background-color:var(--saumon) ;
+    position: relative;
+    text-align: center;
+    display:block;
+}
+#txt_haut{
+  position: relative;
+  font-weight: bold;
+  top: 5em;
+}
+#acces_securit FIELDSET{
+    position: relative;
+    margin: 0 auto;
+    height: 15%;
+    width: 50%;
+    border: 2px solid var(--fushia);
+    top: 6.5em;
+}
+#acces_securit FIELDSET input {
+    top: 15px;
+    position: relative;
+    margin-left: 5px;
+}
+#acces_securit FIELDSET input[type="submit"]:hover{
+    background-color: var(--vert) ;
+    color:var(--blanc);
+}  
+
+#acces_securit FIELDSET input[type="reset"]:hover{
+    background-color: var(--rouge);
+   color:var(--blanc);
+}   
+#txt_bas {
+  position: relative;
+  font-style: italic; 
+  top: 9em;
+  width: 80%;
+  margin: 0 auto;
+}
+
+/*page wiki.php*/
+.menu_acc {
+    position: relative;
+    margin: auto;
+    z-index: 2;
+    height: 44px;
+    width: 100%;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.menu_acc td {
+    font-size: 10pt;
+    text-align: center;
+    border: 2px solid #ae206c;
+    background-color: #FFFFFF;
+}
+.menu_acc td a{
+    color:#000000;
+    text-decoration: none;
+}
+#affich_txt {
+    position: relative;
+    padding: 0 20px 0 20px;
+    width: 95%;
+    min-height: 490px;
+    margin-top: 3rem;
+}
+#affich_txt p {
+    margin-bottom:15px;
+}
+/*#saisie {
+    background-color: #FFFFFF;
+    height: 1px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: none;
+    width: 1px; 
+    padding: 10px;
+    z-index: 100;
+}*/
+/*#saisie #textarea {
+    height: 420px;
+    width: 100%;
+    padding: 5px;
+    position: fixed;
+}*/
+#zonbout{
+    position: relative;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+#zonbout input {
+    padding: 0 20px;
+    height: 30px;
+}
+#zonbout input[type="submit"]:hover{
+    background-color: #66CC33;
+}
+#zonbout #ferme:hover{
+    background-color: #ff0000;
+    color:#ffffff;
+}  
+
+
+
+
+/*fin version 1.5*/
+
+
+#titre {
+    font: bold 20pt arial;
+    position: relative;
+    text-align: left;
+    left: 150px;
+    top:5px;
+    padding:0px;
+    margin:0px;
+    width: 40%;
+}
+#edition, #enregistre {
+    height: 38px;
+    border-width: 2px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#zon_erg {
+    position: absolute;
+    visibility: hidden;
+    top: 142px;
+    left: 343px;
+    width: 500px;
+    height: 115px;
+    background-color: white;
+    border-bottom-color: #002143;
+    border-style: solid;
+}
+
+#don_img {
+    position: relative;
+    top: 37px;
+    width: 68%;
+    margin: 0 auto;
+}
+
+#central {
+    height: 490px;
+    left: 10px;
+    position: absolute;
+    top: 70px;
+    width: 1170px;
+}
+#bout_saisi {position:absolute; top:10px; left:950; color:#ffffff;}
+
+#tab_bord {position:absolute;  display:block;  font-family:verdana; text-align:center;} 
+
+#tab_bord {top: 0px; left:0px; width: 1200px;  height:555px; z-index:2; } 
+
+#util_bord {
+    height: 450px;
+    left: 10px;
+    position: absolute;
+    top: 80px;
+    width: 1150px;
+}
+#pit {
+    left: 1250px;
+    position: fixed;
+    top: 510px;
+}
+
+
+.titre , .nouvtitre {
+    position:relative;
+    font-weight:bold;
+    font-size: 16pt;
+    text-align: center;
+}
+.code
+	{
+	text-align:left;
+	background-color:#eee;
+	color:black;
+	font-size:16px;
+	}
+.apropos
+	{
+	background-color:#ffe;
+	border:solid 1px #CCCCCC;
+	}
+// recup css cms collectif 22/02/2023
+
+.rouge {
+    color:#FF0000;
+}
+.bleu {
+    color:#0014ff;
+}
+.nouvtitre{
+    font-size: 16pt;
+    position: relative;
+    font-weight: bold;
+    text-align: center;
+}
+#zonbout{
+    position: relative;
+    width: 100%;
+}
+
+#envoi_img{
+    position: relative;
+    top: 10px; 
+    right: 10px;
+}
+.lign_bout, .lign_valid{
+    position: relative;
+    padding-top: 15px;
+    width: 100%;
+    text-align-last: center;
+}

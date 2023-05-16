@@ -1,0 +1,24 @@
+															<p class='titre'>Textes en vrac sur le javascript</p>
+
+<p class ='f12 justifier'><u>Edition du 5/09/2021</u> par pascal</p>
+
+<p class='f12 centrer'>c'est trouver sur le web pour supprimer toutes balises html pour utiliser dans le wiki</p>
+
+<div class='code'><code><xmp>var exemple = '<div class="toto" id="toto"><span>texte à conserver</span></div>';
+
+function cleanHTML(str)
+{
+   if ((str===null) || (str===''))
+   {
+   return false;
+   }
+   else
+   {
+   str = str.toString();
+   return str.replace(/<[^>]*>/g, '');
+   }
+}	
+document.write((cleanHTML(exemple)));
+</xmp></code></div>	
+
+																

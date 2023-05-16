@@ -1,0 +1,46 @@
+<p class='titre'>STREET WEB ART (SWART) /WALK: projets banalistiques de déambulation urbaine</p>
+
+
+<p class ='f12 t20 center'>Document de travail, ne pas communiquer</p>
+<p class ='f12 t20 center gras'>SWART / WALK<p>
+<p class ='f12 t40 center gras'>Synthèse pour Pascal Rollin</p>
+<p class ='f12 t40 center gras'>Auteur : FabriZio Bongiorni</p>
+
+<p class ='f12 t60 centrer gras'>I/ ETAT D'ESPRIT, PHILOSOPHIE, DEFINITIONS, REFERENCES DU SWART <span class='rouge'>ET DU</span> WALK :</p>
+
+<p class ='f12 t80 justifier gras'>I.1 Définitions du SWART</p>
+
+<p class ='f12 justifier t80'>Le SWART est l'acronyme pour Street Web Art, que je développe également en Street Web Art
+Recherche & Techniques (R&T : c'est déjà cette idée que je t'exposai il y a trois semaines d'une
+mise à contribution des techniciens de tout poil pour développer ce type de dispositifs, donc un
+volet de R&D).<br>
+Il s'agit d'une nouvelle approche de détournement esthétique et poétique, articulant l'espace urbain
+à celui du web et à travers lui de tous les dispositifs des <span class='rouge'>NTIC</span>.<br>
+Détournement : plus précisément il s'agit de Dispositifs de Pliure de Dispositifs (Disp/Pli/Disp).</p>
+
+<p class ='f12 justifier t80'>SWART dans la langue anglo-saxonne est à rapprocher de schwarz en allemand qui signifie noir, sombre, notamment pour la couleur de la peau : pour tisser la métaphore, on dira que les
+Disp/Pli/Disp ne fonctionnent bien qu'à l'ombre, ou plutôt procèdent de l'ombre pour mettre en
+lumière (fonction de révélateur). En langage moins ésotérique, disons que le SWART révèle des
+dispositifs qui sont cachés, partiellement ou totalement ; ou propose d'utiliser des dispositifs
+existants1 d'une autre façon, en les défonctionnalisant en quelque sorte (l'art selon certaines
+théories classiques et aussi duchampesques est une opération de défonctionnalisation des objets,
+par exemple par le seul déplacement des objets de leur contexte habituel vers les musées, les
+expositions, etc.).</p>
+<p class ='f12 justifier t80'><strike>C'est aussi une anti-référence au SWAT, brigades US d'intervention type GIGN</strike><span class='rouge'> bof bof!</span></p>
+<p class ='f12 justifier t80'>Le SWART peut prendre différentes formes, auxquelles j'ai déjà réfléchi, notamment par la création
+d'une troisième dimension spatio-temporelle opérée par la liaison de deux scènes distantes. Dans
+cette présentation je me concentre sur une des modalités, un sous-genre du SWART : le WALK.</p>
+
+<p class ='f12 t80 justifier gras'><span class='rouge'>I.2 Définitions du WALK</span></p>
+
+<p class ='f12 justifier t80'><strike>2/</strike> Le WALK ; Un acronyme possible pour WALK : Walking Art Linking Knowledge, c-a-d un art
+de la déambulation, dans l'espace urbain contemporain, « liant des connaissances » c-a-d plutôt
+utilisant les technologies de mise en relation (tant traditionnelles qu'ultra-contemporaines) pour
+générer de la connaissance (et de la reconnaissance). La dimension du lien est aussi à considérer
+comme un dispositif à détourner/plier pour déboucher sur une connaissance voire une
+reconnaissance possible. (Je pourrais développer plus tard mais on n'en est pas là).</p>
+
+<p class ='f12 justifier t80'>Les deux acronymes, SWART et WALK, montrent à un niveau de généralité :<br>
+&#61485; une approche esthétique et poétique du détournement (hi-jacking, hacking, ...)<br>
+&#61485; une dimension de recherche, de technique, de liaison et de connaissance (par le courtcircuit,
+le piratage, ...)</p>

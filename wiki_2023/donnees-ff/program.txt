@@ -1,0 +1,35 @@
+																																																																																																																																					<p class='f12 centrer'><p class='nouvtitre'><span class ='gras'>Programmation</span></p></p>	
+
+<p class ='f12 justifier'><span class ='gras'>PHP7</span></p>	<br><br>
+
+<p class ='f12 justifier'><span class ='gras'>AJAX : (HTML5, JavaScript, CSS3)</span></p>	<br><br>
+
+<p class ='f12 justifier'><span class ='gras'>JQuery (Framework JavaScript)</p>	<br><br>
+
+
+<p class ='f12 justifier'><span class ='gras'>MySQL</span></p>	<br><br>
+
+
+<p class ='f12 justifier'><span class ='gras'>Qbasic (version DOS et version DosBox)</span></p>	<br><br>
+
+<p class ='f12 justifier'><span class ='gras'>Python (pour Arduino et Raspberry)</span></p>	<br><br>
+
+<p class ='f12 justifier'><span class ='gras'>C (pour Arduino et Raspberry)</span></p>	<br><br>
+
+
+
+<p class='f12 centrer'><p class='nouvtitre'><span class ='gras'>Moteur de site internet</span></p></p>	<br><br>
+
+<p class ='f12 justifier'>Nous avons crée créé, il y a déjà plus de 10 ans, un moteur de gestion de sites internet en PHP. Il est permet d'automatiser les sites internet hébergés sur notre serveur web.</p>
+
+<p class ='f12 justifier'>voici le code source du moteur a ça dernière version en date du 12/</p>
+
+
+<div class='code'><code><xmp>
+
+
+</xmp></code></div>
+
+
+
+																																																																																												

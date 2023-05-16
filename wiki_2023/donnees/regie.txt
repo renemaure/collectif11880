@@ -1,0 +1,27 @@
+<p class='titre'>La régie de pilotage</p>
+
+<p class ='f12 justifier'>C'est un serveur dédié qui gère<span class ='gras'> la régie de pilotage</span>, il gére et gèrera toutes les étapes du walk, il sera construit sur différents étages permettant de séparer les taches et de contrôler les différents accès.</p>
+
+<p class ='f12 justifier'>1) <span class ='gras'>l'étage programmation :</span> réservée uniquement aux concepteurs et programmeurs du projet. cet étage pocede un acées FTP sécurisé, avec droit d'entrée et contrôle permanent,dédié aux programmeurs et concepteurs qui n'ont pas accès au serveur, mais uniquement aux fichiers de programmation sous protocole FTP.</p>
+
+<p class ='f12 justifier'>2) <span class ='gras'>l'étage banque de données :</span> accées au fabricants des scénarios leurs permettant d'avoir accées aux différentes
+ressources utiles, ainsi à l'archivage des anciens walk. cet étage Permet aussi de fabriquer les différents outils
+de comm, il fonctionneme en wiki et web. (points gps, cartographie squelette, banques sons et images).
+Accès autorisé selon les niveaux d'intervention. Ce wiki fait parti de cet étage, c'est ou j’écris en se moment!</p>
+
+<p class ='f12 justifier'><span class ='gras'>3) l'étage superviseur :</span> Cet étage gère le walk en cours, les plates forme web dédié pour le superviseur qui contrôle le processus et le déroulement du walk ainsi que l'interface walkeurs via son smartphone.
+</p>
+<p class ='f12 justifier'>l'étage superviseur permet entre autre:</p>
+<p class ='f12 justifier re l40'>- Le suivi des walkeurs en temps réel, contrôlé par une <a href="http://fr.wikipedia.org/wiki/Application_Programming_Interface"target="_blank" title="lien vers une page wikipedia">API</a> de géolocalisation en open source sur mozilla fondation depuis janvier 2012. Elle est gratuite et pré-installée sur les dernières version du navigateur Firefox. le serveur géolocalise en temps réel les smartphones des walkeurs, avec la technique AJAX, (utilisé par google pour
+compléter tes requêtes) détermine si la position du walkeur est prévu dans le scénario grâce aux informations contenu dans la base de donnée, il utilise pour cela des requêtes SQL, et il renvoie de l'information soit au walkeur si il est dans le bon chemin, soit à un baron pour le ramener sur le parcours, si le walkeur s'égare de trop.</p>
+
+<p class ='f12 justifier re l40'>- Suivit des équipes techniques: j’entends par équipes techniques, les barons, et les régulateurs. ils ont accées à la fois aux données des walkeurs et ils ont une plateforme dédiée utilisable sur des tablettes ou des ordinateurs portables.</p>
+
+<p class ='f12 justifier re l40'>- Envoi données: cet étage peut envoyer des messages écrit, des images, de la réalité augmenté, de la vidéo, et même des indications pour les barons, pour qu'ils interviennent en direct live aux prêt des walkeurs.</p>
+
+<p class ='f12 justifier '><span class ='gras'>4) étage comm et vulgarisation du public: </span>cet étage fera partie d'un autre  serveur, entrée DNS différente, pour qu'il n'y ai pas de connections avec le serveur régie de pilotage.</p>
+
+<p class ='f12 justifier'>Cet étage permet aussi l'inscription au walk. </p>
+
+
+

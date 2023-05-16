@@ -1,0 +1,9 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_donne"> 
+<tr>
+<td><span class ='gras'>menu Scénario</span></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=gneral_scenar2&men=menu_scenar">Structure scénario walk</a></td> 
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=trame_scenar&men=menu_scenar">trame technique fortune cookies</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=dispositif&men=menu_scenar">étapes & dispositifs </a></td> 
+ 
+</tr>
+</table>

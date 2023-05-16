@@ -1,0 +1,9 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_princ"> 
+<tr>
+<td><span class ='gras'>menu test</span></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=matières">menu /table des matières</a></td> 
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=accueil">accueil walk/swart</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=techniq">Le serveur web</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=senario_tech">un scénario technique</a></td>	
+</tr>
+</table>

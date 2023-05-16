@@ -1,0 +1,79 @@
+<br><br>
+
+
+<p class='titre f14'>Tests pour le site mobil walkeurs</p>
+<br><br>
+<p class='f12 centrer gras rouge'>page crée le 6 mars 2013</p>
+
+
+
+<p class ='f12 justifier'><span class ='gras'><u>résolutions des écrans de smartphones:</u></span></p>
+
+<p class ='f12 justifier'>Premier test, est d'afficher le site mobile en largeur et hauteur maximal de l'écran d'un smartphone.
+
+en effet chaque marque et même chaque modèle de tel marque ont une résolution d'écran différentes, que l'On peut résumer en trois standards:</p>
+
+<p class ='centrer f14 gras'>320X420 / 240X320 / 240X260</p>
+
+
+<p class ='f12 justifier'>Les cotes sont en pixels et données en position portrait. Tout serait beau, si apple ne venais faire des siennes. L'Iphone 3 à <span class ='gras t14'>320X480</span> pixels, tandis que l'iphone 4 a une résolution de <span class ='gras t14'>640X960</span>, pixel et en portrait, rien que ça.</p>
+
+<p class ='f12 justifier'>La résolution retenue est de <span class ='gras'>320X420</span>, elle se situe au milieu, et surtout et avant tout, c'est celle de mon smartphone!</p>
+
+<p class ='f12 justifier'>Pour que le site s'affiche à 100% sur tout les mobiles, il faut maximiser la largeur et la hauteur, pour le mode paysage, pour cela  
+la technologie évoluant très vite, il suffit de deux lignes de code <span class ='gras'>HTML</span>, pour contrôler à la fois l'écran en pleine largeur/hauteur et la position portrait/paysage. Vive la technique!</p>
+
+<p class='code'><code>
+                         meta name="viewport" content="width=device-width"   en portrait
+<br>
+ 			 meta name="viewport" content="height=device-height"  en paysage
+</code></p>
+
+
+<p class ='f12 justifier'>le mot <span class ='gras'>vieuwport</span> désigne un terminale smartphone, le reste est très simple il indique que la largeur ou la hauteur sont à 100% de l'écran.
+</p>
+
+<br><br><br>
+
+<p class ='f12 justifier gras '><u>La géolocalisation:</u></p>
+
+<p class ='f12 justifier'>si je suis les dernières nouveauté, il suffit de deux codes pour contrôler la position d'un smartphone, la première donne les point de coordonnées et la deuxième si le point c'est déplacer dans un laps de temps déterminer. cerise sur le gâteau, ses coordonnées sont directement compatibles avec les maps de google. le seul soucis est la précision du satellite. comme exemple un satellite positionnais big ben dans la campagne à 300 kilomètre de Londres dans la campagne anglaise, il avais une précision de 25000 mètre soit 25 Kilomètres, sinon ceux de la NCA ont une précisions de 0,50 mètre, ont se demande vraiment pourquoi???</p>
+
+
+<p class ='f12 justifier'>La géolocalisation pour un site web, est contrôlé par une API en HTML5, nommée<span class ='gras'> navigator.geolocation</span>, utilisable à partir de Javascript. Pour connaitre les coordonnées du mobile, on utilise l'objet <span class ='gras'>coords</span>, qui peut retourner plusieurs valeurs:</p>
+
+<p class ='f12 justifier re l80'>    <span class ='gras'>latitude:</span> la latitude de la position<br>
+    <span class ='gras'>longitude:</span> la longitude de la position<br>
+    <span class ='gras'>altitude:</span> l'altitude de la position<br>
+    <span class ='gras'>accuracy:</span> niveau de précision de la longitude et de la latitude (en mètre)<br>
+    <span class ='gras'>altitudeAccuracy:</span> niveau de précision de l'altitude (en mètre)<br>
+    <span class ='gras'>heading:</span> donne la position en degré par rapport au nord<br>
+    <span class ='gras'>latitude:</span> affiche la vitesse actuelle de déplacement de la position (en mètre)<br>
+</p>
+
+
+<p class ='f12 justifier'>Malheureusement,  ces valeurs ne sont pas encore toute présentes dans les navigateurs, dans le pire des cas, il ne se passera rien, car si une valeur n'est pas existante, elle retournera simplement null.</p>
+
+<p class='f12 gras'><a href=" http://mobil-test.swart-walk.com" target="_blank">voir le site test mobile</a></p>
+<br><br>
+<p class ='f12 justifier'><span class ='gras'><u>site web enregistrement création avatar</u> 
+<a href="http://test-avatar.swart-walk.com/" target="_blank">voir le site test avatar</a></span>
+ </p>
+
+
+<p class ='f12 justifier'>teste les modules d'inscription, de création de l'avatar, qui permet un suivit du futur walkeur anonymement.</p>
+
+
+
+
+<p class ='f12 justifier'>ce module compare le mot de passe donné, codé en MD5, s'il est valable le module récupère le fichier de l'enregistré grâce au nom donné. </p>
+
+<p class ='f12 justifier'>j'ai rajouté un traitement sommaire des erreurs d'enregistrement sur un nom qui n'est pas le bon et mot de passe mauvais</p>
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+<p class ='titre'>II/ PREPARATION ET DEROULEMENT D'UN WALK <strike>(SYNTHESE)</strike></p>
+
+
+<p class ='f12 justifier gras'>II.1 Etapes préparatoires :</p>
+
+<p class ='f12 justifier'>Le volet de préparation technique est indissociable de beaucoup d'étapes et pourra faire l'objet d'une véritable R&D.</P>
+
+<p class ='f12 justifier'><span class ='gras'>II.1.1 Enquête documentaire</span> :
+Recherche thématique, reconnaissance du terrain, établissement de partenariats et de complicités avec les structures locales (pignons sur rue, espaces publics, …), travail de documentation à partir du terrain exploré (témoignages et interviews enregistrés, iconographie pour l'affichage, …).</p>
+
+<p class ='f12 justifier'><span class ='gras'>II.1.2 Scénarisation</span> :.
+Etablissement d'un parcours, écriture/montage de la bande-son préenregistrée, écriture des interventions, intégration de la partition technique avec tout le reste, répartition des rôles des barons et intervenants.</p>
+
+<p class ='f12 justifier'>II.1.3 <span class ='gras'>Préparation techno-logisitique</span> :(cette partie ne traite pas de l'infrastructure du dispositif techno logistique , notamment les interfaces de traitement de l'information, mais donne des indications fonctionnelles)</p>
+
+<p class ='f12 justifier'>Conception et mise en place de dispositifs techniques, scéniques, et de régie constituant l'infrastructure du walk.</p>
+
+<p class ='f12 justifier'>1/ La régie de pilotage du WALK est l'écran(s) du site web connecté aux walkers <span class='rouge'>(Non, la régie n'est pas l'écarn ...)</span> qui permet de :
+suivre en temps réel les déplacements des walkers et des équipes techniques et d'intervenants
+communiquer avec tous par l'envoi de messages écrits, oraux, imagés via principalement leur smartphone ou par l'invitation à la lecture de QR Codes disposés sur le parcours recenser la traçabilité des walkers et d'en dresser le profil/trajectoire statistique </p>
+
+<p class ='f12 justifier rouge'>la régie de pilotage gère le walk. les walkers communiquent avec la régie de pilotage grâce à un site web dédié aux smartphones. <a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=regie_pilotage&men=menu_tech">(voir sur la page régie de pilotage)</a> </p>
+
+<p class ='f12 justifier'>2/ Installation de scènes dans les espaces publics (ou plus simplement pré-occupation d'espaces à usage fonctionnel), à l'échelle de l'espace donné, en utilisant au maximum les décors naturels : légère mise en adéquation de l'espace (boutiques, appartements, halls, ascenseurs, voiture de transport de personnes, …). La régie <span class='rouge'>(la ou les régies scéniques)</span> nécessaire ici est très variable selon les projets, selon la part que l'on accordera à des temps spectaculaires. (Certains projets supposent par exemple l'investissement d'un hangar, où l'on assiste à un concert live improvisé reprenant des extraits de la bande-son de chaque walk). Mais dans l'idée générale, on devrait tendre plutôt vers la mise en adéquation de micros espaces.
+<br>3/ Positionner un technicien ou un baron sur le parcours pour témoigner, intervenir ou interagir avec le walker : exemple, dans le métro, le walker est en face d'un baron, on lui a indiqué de se mettre à telle place, et il entend sur la bande-son préenregistrée (dans son casque) les pensées supposées du baron en face de lui.</p>
+
+<p class ='f12 justifier'>4/ Rechercher le walker : le travail frictionnel du walk commence dès le moment où l'on contacte le walker potentiel. Le walk est un média d'expérimentation, participatif, à la jauge rare, et hyper individualisé par nature (le walkman). Cela requiert de sélectionner en quelque sorte un nombre restreint de particpants à l'expérimentation (10/20 par sessions), qui souhaiteront pleinement accepter un minimum de contraintes et le maximum de latitude dans leur capacité de documenter son propre parcours. Tout public doit pouvoir participer.</p>
+
+<p class ='f12 justifier'>La préparation minimale à un walk peut  se faire dés le début de la séquence sans travail en amont particulier du walker, en lui transmettant les consignes et règles du jeu (mode d'emploi). On peut même imaginer en faire l'économie, sachant que les consignes sont préenregistrées sur la bande-son et qu'on aura tout loisir d'intervenir durant le parcours via l'interface régie/site/web – smartphone.  A contrario, on peut auprès de certains publics faire un travail de sensibilisation en amont, voire leur donner accès à plus d'informations et de fonctionnalités.</p>
+
+<p class ='f12 justifier'><span class ='gras'>II.1.4 Exemples d'indications données au walker</span> (quelque soit le média et la modalité émetteur/récepteur : message écrit / sms, qr code, affiche,... ou message oral / enregistré sur le site web connecté par qr code ou sur le walk-man / dit en direct selon plusieurs modalités encore, par un baron in situ, par la régie web via appel sur le smartphone ou message image etc.) :orientations cardinales simples (droite/gauche ; en avant en arrière, ...) rentre dans la boutique, va au bowling, monte dans ce véhicule, prend le métro, attend quelques instants, merci de patienter votre correspondant va vous prendre, (jouer sur les interfaces téléphoniques contemporaines des grandes entreprises et administrations : l'intégrer dans la seconde nappe sonore de la bande-son, la première étant le direct du walker enregistré), etc. Jouer sur les différents registres stylistiques et univers de références des indications.</p>
+
+<p class ='f12 justifier'><span class ='gras'>II.2 Déroulement</span> :</p>
+<p class ='f12 justifier'>
+Il faut distinguer quatre situations fondamentales : 
+<br>celles où le walker est seul
+<br>celles où les walkers sont ensemble
+<br>celles où ils sont ensemble mais ont le sentiment d'être seuls (exemple : les pistes de bowling, une salle de jeu, ...)
+<br>celles où ils sont seuls mais ont le sentiment d'être ensemble
+<br>Les 3e et 4e situations illustrent bien la frictionnalité du walk, dans sa dimension d'indécidabilité
+
+<br>Les moments collectifs sont généralement contemporains d'un surcroît de fiction et de ritualité : la forme la plus simple est la visite guidée par un conférencier/intervenant physiquement présent.
+Les moments individualisés sont généralement contemporains d'un surcroît de réalité ambiante : la forme la plus simple est l'audio-guide enregistré par un conférencier/intervenant physiquement absent.
+
+<br>Selon les scenari un walk peut commencer par une situation collective ou individuelle
+
+<br>Il faut se rappeler que le swart/walk est un média expérimental mais qu'il s'apparente dans ses formes héritées et/ou référables aux médias/situations suivants :
+<br>la promenade poétique
+<br>la visite guidée d'une exposition à ciel ouvert
+<br>la performance situationniste
+<br>le jeu de piste
+<br>l'enquête policière fictive
+<br>le jeu de rôle
+<br>le service design
+<br>l'enquête ethnographique
+<br>le safari multimédia
+<br> le parcours commenté
+
+<br>Selon les scenari, le walk empruntera plus à telles formes qu'à telles autres
+
+
+<br>EN CONSTRUCTION (à suivre...)
+
+</p>
+
+
+

@@ -1,0 +1,14 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_donne"> 
+<tr>
+<td><span class ='gras'>Techniques web</span></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=web_walk&men=menu_web">Le web dans le walk</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=test_web&men=menu_web">Le site mobile</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=site_web_walk&men=menu_web">Le site web du walk</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=site_web_regie&men=menu_web">Le site web régie</a></td>
+</tr><tr>
+<td><span class ='gras'>ressources techniques web</span></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=web2&men=menu_web">théorie web 2.0</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=securit_web&men=menu_web">sécurité & web</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=brouillon_web&men=menu_web">brouillon</a></td>
+</tr>
+</table>

@@ -1,0 +1,8 @@
+/*-- collectif 11880 fichier master.css permet de modifier les css sans toucher au fichier index.php -- */	
+
+
+@import url("wiki.css"); 
+/*@import url("https://www.collectif11880.org/systeme/css-collectif/cms-collectif.css"); */
+@import url("../../../systeme/css-collectif/cms-collectif.css");  
+ 
+	   

@@ -1,0 +1,56 @@
+<p class ='f12 justifier'>I.4<span class ='gras'> Service Design (SD)</span> :</p>
+
+<p class ='f12 justifier'>Le SD est une méthode de marketing qui utilise notamment l'observation in situ des usages des consommateurs et utilisateurs de produits/services. Le SWART s'intéresse au détournement de leur langage, mode de pensée et dispositifs en reprenant ses concepts et certaines de ses règles (notamment la notion de Contact ou non  avec les Users pour définir les deux principales catégories de personnels, l'invisibilité de la Line qui les sépare, le Back Office in fine, etc.) dans l'élaboration de la trame de certains walks. Avec ce point commun de la traçabilité de l'utilisateur et de son suivi.  Avec également l'utilisation de l'observation ethnographique des Users pour construire le schéma marketing le plus fin. A l'heure des smart devices cela peut sembler archaïque, mais ce qui transparaît de la valorisation SD encore aujourd'hui c'est l'observation fine, in situ, et l'interaction/observation avec les Users en action. C-a-d la dimension de l'observation in-situ qui échappe encore aux web régies et que seuls des observateurs humains situés dans le même espace-temps peuvent relater. Considérer ici le public potentiel du Walk comme un User de Service Design. </p>
+
+<p class ='f12 justifier'>Constituer un genre de Walk SD. 
+(Faire le lien avec les cartes SD (notamment leur usage en Afrique dans le Web Phone Network)).
+Viser/construire le public/User comme tel.
+Travailler de concert avec le User Interactif Potentiel des dispositifs de pliure de dispositifs SWART à sa propre traçabilité. 
+S'agréger les services des cartographes du Web et de la Big Data.</p>
+
+<p class ='f12 justifier'><span class ='gras'>I.5 Hapticité, Haptitude (l'aptitude à se faire happer), Hacktionnisme...Economie</span> :</p>
+
+<p class ='f12 justifier'>Le SWART, dans la mesure où il s'intéresse aux dispositifs de construction a-priori de notre hapticité, haptitude et hacktionnisme au réel, et dans sa possibilité offerte de nous rendre, par une opération de pliure, notre autonomie de vision, par la création de contre-miroirs (anamorphiques détournant, multidimensionnels, multiréférents, et dégageurs d'horizon...) rencontre l'ECONOMIE, la discipline de construction des régimes de spectacularité modalisant les autorisations de perception du réel. (Je te dois là plus particulièrement un développement...)</p>
+
+
+<p class ='f12 justifier'>NB Mode de production du SWART.</p>
+
+<p class ='f12 justifier'><span class ='gras'>Crowdfunding adéquat </span>: plutôt que de récompenser les contributeurs de gadgets inutiles, leur permettre d'être les publics (les expérimentateurs) privilégiés (voire exclusifs dans certains aspects initiaux du dispositif) d'une forme spectaculaire inédite à la croisée de l'art, du jeu d'interaction et de la promenade multidimensionnelle.</p>
+
+<p class ='f12 justifier'><span class ='gras'>Micro-crowd-funding </span>: proposer à un réseau de personnes plus ou moins connues, dotées d'un potentiel fort de curiosité et d'intelligence voire d'empathie pour ce type d'expérimentation de participer à coproduire le dispositif. </p>
+
+<p class ='f12 justifier'><span class ='gras'>Partenariats in situ</span> : le réseau des pignons sur rue</p>
+
+<p class ='f12 justifier'>NB Jouer avec les décalages spatio-temporels : via l'image, par un procédé fractal ou de mise en abyme ; exemple : en photographiant une station de bus et en remplaçant la photographie publicitaire latérale par cette nouvelle image , analepses, prolepses, désorientation, art de la mémoire, … (développement à venir)</p>
+
+<p class ='f12 justifier'>I.BIS /<span class ='gras'>Principes pré-scénariques</span> : (synthèse)</p>
+
+<p class ='f12 justifier'>1/ individualisation des parcours/trajectoires : notion de profil trajectoire (cf. également traçabilité), d'enregistrement de son propre parcours, et du sur-mesure (cf. également principe du n°de série et de l'oeuvre n°tée procédant du bilan statistique)</p>
+
+<p class ='f12 justifier'>2/ aléatoire partiel des parcours</p>
+
+<p class ='f12 justifier'>3/ potentiel de croisement du parcours d'un autre walker (cf. principe de comput neuronal pour la conception technique du suivi cf. Maurice René)</p>
+
+<p class ='f12 justifier'>4/ prise en compte de l'environnement « réel », nappes historiques de la ville, références au vécu officiel ou officieux, exploration de ce réel, aspect documentaire, …</p>
+
+<p class ='f12 justifier'>5/ situationnisme : la première échelle est l'in-situ</p>
+
+<p class ='f12 justifier'>6/ décryptage de l'in-situ</p>
+
+<p class ='f12 justifier'>7/ focale thématique : au-delà des dimensions précédentes valables pour tout walk, un scénario particulier suivra un fil narratif inspiré d'une thématique, clé de sol de l'exploration du « réel »</p>
+
+<p class ='f12 justifier'>8/ dispositifs de pliure des dispositifs : réinvention/réinjection d'imaginaire/d'illusion et d'analogies dans un monde de la Réalité intégrale dépouillée sinon de transcendance (cf. mixte de Deleuze, Logiques du sens, L'image-temps, Le pli ; Foucault ; Baudrillard, Le pacte de lucidité ou l'intelligence du mal)</p>
+
+<p class ='f12 justifier'>9/ barons</p>
+
+<p class ='f12 justifier'>10/ être dans le sentiment de l'indécidabilité entre réel et fiction (cf. notamment point précédent : barons) : c'est ce sentiment, cette indécidabilité qui crée aussi et notamment la pliure</p>
+
+<p class ='f12 justifier'>11/ anonymat</p>
+<p class ='f12 justifier'>12/ pseudonymat</p>
+<p class ='f12 justifier'>13/ vertige fractal du glocal (sic)</p>
+<p class ='f12 justifier'>14/ traversée du non-lieu</p>
+<p class ='f12 justifier'>15/ banalistique</p>
+<p class ='f12 justifier'>16/ paradoxes et décalages spatio-temporels</p>
+...
+
+

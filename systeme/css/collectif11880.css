@@ -1,0 +1,59 @@
+/* Move down content because we have a fixed navbar that is 2rem tall */
+	body {
+		padding-top: 4.5rem;
+		 background-color: #E5E5E5;
+	}
+	.coul-bord, hr {
+		color:#C00000;
+		}
+	.text-danger {
+    color:#C00000!important;
+		}
+	.coul-gris{
+		 background-color: #A9A9A9;
+	}
+	.coul-bdr-fonc{
+		color:#770000;
+	}
+	.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+	}
+	 footer a:visited {
+		color:rgba(255,255,255,.5)!important;
+	}
+	footer a:active {
+     color:rgba(255,255,255,.5)!important;
+	}
+	footer a {
+    color:#A9A9A9!important;
+	}
+	/* css pour la version en traveaux */
+	.barrer{
+		text-decoration:line-through;
+	}
+	.shadow {
+    box-shadow: 0.5rem 1em rgba(52,58,64,0.15)!important;
+	}
+	.fin_page hr {
+		display: block;
+		clear: both;
+		height: 0;
+		margin: 40px 0 80px;
+		padding: 0;
+		border: 0;
+		font-family: arial;
+		text-align: center;
+		font-size: 60px;
+		line-height: 1;
+	}
+	.fin_page hr:after {
+		content: "\273D \273D \273D";
+		height: 0;			
+		letter-spacing: 1em;
+		color: #aaa;
+	}
+	.ht_carte {
+		height: 420px;
+	}
+
+	

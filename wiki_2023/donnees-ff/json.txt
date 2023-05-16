@@ -1,0 +1,33 @@
+																																																						
+<span class ='gras'><p class ='f12 justifier'>créée le 08/09/2021 par pascal</p></span>
+<p class='titre'>fonctionnement d'un fichier Json</p>	
+<p class ='f12 justifier'>l'utilité d'un fichier json est qu'il est lisible aussi bioen par un humain qu'un ordinateur. Au début il a été créée pour une utilisation avec javascript, mais pratiquement tous les langages le décodent.</p>
+
+<span class ='gras'><u>en PHP:	</u></span>
+
+<div class='code'><code><xmp>        $json = file_get_contents("nom du fichier .json");
+        //première ligne on récupère le fichier Json que l'on stocke dans un tableau objet
+ 
+	$liens = json_decode($json, true);
+	//puis on extrait les données que l'on stocke dans un tableau associatif grâce à la commande true!
+          si elle est false les données seront disponible sous la forme  d'un objet	
+        	</xmp></code></div>	
+
+<span class ='gras'><u>En Python:</u></span>	
+
+<p class ='f12 justifier'>je ne crois pas qu'il y ai une commande automatique pour pouvoir utiliser des données d'un fichier json	, mais il y a le gros avantage de pouvoir les stoker dans une dictionnaire.</p>
+
+<span class ='gras'><u>En javascript (avec jquery):</u></span>
+
+<p class ='f12 justifier'>encore plus simple il n'y a qu'une ligne de code! en fait on appelle une fonction anonyme lors d'un retour d'un appel ajax qui va récupère le fichier json et le lire directement, naturellement car il a été créer à l'origine pour le JavaScript!</p>
+
+<div class='code'><code><xmp>$.get("systeme/donnees/code_perso.json", function(code){
+// ici le code nom_de_la_varaible = code["nom de la clé json"];
+....
+}</xmp></code></div>
+
+
+<p class ='f12 justifier'>notes: ce code récupère l'animation des chiffres sur le site matricule< et il sera utiliser pour ce wiki pour simplifier l'usine à gaz du lancement du site!</p>
+
+
+																																					

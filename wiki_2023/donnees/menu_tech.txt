@@ -1,0 +1,11 @@
+<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_donne"> 
+<tr>
+<td><span class ='gras'>technique walk</span></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=intro_tech&men=menu_tech">présentation technique</a></td>
+<td><a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=electrotech&men=menu_tech">resources technique</a></td>
+<td><a href="tab-bord.php?donn=web_walk&men=menu_web">Techniques web</a></td>
+<td>Techniques RD</td>
+<td>Techniques scéniques</td>
+
+</tr>
+</table>

@@ -1,0 +1,11 @@
+										<table border=1 cellpadding=2 cellspacing=0 bgcolor=#FFFFFF bordercolor=#ae206c id="tab_princ"> 
+<tr>
+<td>
+accueil Json
+</td>
+<td>
+ <a href="index.php?util=fichiers/donnees&cod=2&donn=json_collectif&men=menu_json""><span class ='gras'>json commun collectif</span></a>
+</td>
+</tr>
+</table>
+								

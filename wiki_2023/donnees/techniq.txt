@@ -1,0 +1,37 @@
+<br><br>
+
+<p class='titre'>Le serveur web Swart/walk</p>
+
+<p class ='f12 justifier rouge gras'>Page modifiée le 25 mars 2013</p>
+
+<p class ='f12 justifier'>Le nom de domaine <span class ='gras'> www.swart-walk.com</span> crée le samedi 2 mars 2013, représente <span class ='gras'>le serveur web Swart/walk</span>, il est ébergé sur le serveur de mon association <span class ='gras'>Collectif 11880,</span> serveur mutualisé de chez <a href="http://www.nuxit.com/pdf/specs-euclyde.pdf" target="_blank" title="lien vers un document Nuxit présentant tout l'étage sécurité de leur datacenteur" >Nuxit</a>, fonctionnant sous Linux; gage de sécurité.</p>
+
+<p class ='f12 justifier'><span class ='gras'>le serveur web</span> est divisé en différents étages permettant de d'isoler les nombreuses taches du SWart/Walk  et d'en contrôler les différents accès.</p>
+
+<p class ='f12 justifier  re l40'><span class ='gras'>Accès FTP :</span> Réservée uniquement aux concepteurs et programmeurs du SWart. cet étage possède un accès FTP sécurisé, avec droit d'entrée et contrôle permanent, donnant uniquement accès aux fichiers de programmation. cet étage permet entre autre de construire les outis de programmations, des autres étages, ainsi que ceux servant à terme à créer d'autre formes de Swart. <span class='rouge'>Pour le moment cet accès est déactivé</span>.</p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>La base de données :</span> elle permet l'archivage des données récoltées sur le terrains, en vu de préparer un Walk, ou garder la trace des anciens walk, ou pliens d'autres données utiles  (points gps,  squelette de cartographie, banques sons, images et vidéos). Tous les autres étages peuvent avoir accès à la banque de donnée via un protocole securusé. <span class='rouge'>La base de données est crée, elle se nome <span class ='gras'>collectif11880_swart</span>. Dans cette base de données, j'ai crée une table pour l'avatar nommée <span class ='gras'>avatar</span></span></p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>Le site web wiki :</span> ce site permet de faire communiquer tous les intervenants sur un walk, pour le moment uniquement deux personnes. C'est naturellement là ou j’écris en se moment! j'ai crée un sous domaine pour acceder au wiki Swart/Walk :<span class ='gras'> http://wiki.swart-walk.com</span></p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>le site web régie de pilotage :</span> ce site modulable permet de contrôler le processus et le déroulement d'un walk, d'envoyer des messages écrit, des images, de la réalité augmenté, de la vidéo aux walkers. Il permet aussi d'envoyer des indications aux barons pour qu'ils interviennent physiquement aux prêt des walkers. <span class='rouge'>j'ai crée un sous domaine pour se site <a href="http://supervision.swart-walk.com" target="_blank">http://supervision.swart-walk.com</a> </span></p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>Le site web mobile du walkeur :</span> ce site gère le suivi des walkeurs grâce a une API de géolocalisation ou par QR . Ce site donne aussi les infos aux walkeurs, et assure la communication entre eux et la régie de pilotage. ce site est uniquement accessible aux walkeurs avec le code de leur avatar. j'ai crée un site de test pour essayer différentes techniques. <a href="tab-bord.php?util=fichiers/donnees&cod=2&donn=test_mobile">Test-mobile</a>.</p>
+
+
+<p class ='f12 justifier re l40'><span class ='gras'>Le site équipes techniques:</span> j’entends par équipes techniques, les barons, et les régulateurs. ils ont un site dédiée utilisable sur des tablettes ou des ordinateurs portables, qui leurs donne accès à la fois aux données des walkeurs,et les ordres de la régie de pilotage </p>
+
+
+<p class ='f12 justifier re l40'><span class ='gras'>Le site de visualisation :</span> ce site web permet d'afficher pour le public des données issues du site de la régie de pilotage.</p>
+
+
+<p class ='f12 justifier re l40'><span class ='gras'>Le site web d'inscription :</span> permet aux personnes de s’inscrire, de créer leur avatar, de suivre l'agenda des prochains walks. Il peut aussi y avoir des infos sur les anciens walks, sur par exemple qu'est que l'avatar. Le site est prévu pour l'ordinateur, l'écran des smartphones et tablettes  est trop petit, mais il est quand même consultabe sur ces machines. ce site est en face test sur <a href="http://test-avatar.swart-walk.com/" target="_blank">http://test-avatar.swart-walk.com/</a></p>
+
+<p class ='f12 justifier re l40'><span class ='gras'>Le site web de vulgarisation :</span> permet de communiquer au près du public, des décideurs, de donner les fiches techniques, etc...                                
+
+<p class ='f12 justifier re l40'><span class ='gras'>le site web de gestion administrative : </span>il s’appuie sur un site web et un wiki, il permet de faire communiquer les différents intervenants techniques et d'administratif, et aussi de communique à des tiers, nos résultats, bilans, ou investissement, du très marrant en sorte!!!</p>
+
+
+
+
+
