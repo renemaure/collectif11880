@@ -8,4 +8,4 @@ Nous aborderons aussi le php et les fichiers json
 
 </p>
 <p class="cnt coul-bord g">
-	Premier rendez-vous<br> le dimanche 16 avril 2023<br> à partir de 9H30</p>
+	Rendez-vous<br> tous les dimanches <br> de 9H30 à 12H00</p>
