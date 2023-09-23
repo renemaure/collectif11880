@@ -7,7 +7,7 @@
 			<?php include $liens["dirtxt"]."mot_president".$lp ?>
 		</div>
 	<div class="boite12">
-			<h4>projets Cluc CMIT</h4>
+			<h4></h4>
 			<ol class="list-unstyled mb-0">
 				<li>
 				

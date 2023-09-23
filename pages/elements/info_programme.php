@@ -1,11 +1,9 @@
 <img src="systeme/images/collectif08.png">
-
-<p class="cnt coul-bord mt2 g"> Avril 2023 Nouvel atelier</p>
-<p class="jtf"> 
-Notre atelier programmation reprend, avec de la programmation internet, (html, css, javascript), ouvert aussi bien aux novices, qu’aux bidouilleurs !
-Nous aborderons aussi le php et les fichiers json
-<br>
-
+<p> 
+Notre atelier est resté actif pendant les vacances, Avec la refonte et l’amélioration du site les orguesauxerre.net.
+</p><p>
+Nous commençons la construction d’une appli: <span class="g coul-bord">Parisarebours.</span> <br>
+Sans oublier la maintenance des sites gérés par le collectif 
+</p><p class="cnt coul-bord g">
+	Tous les dimanches à partir de 9H00 et jusqu’à 12h00
 </p>
-<p class="cnt coul-bord g">
-	Rendez-vous<br> tous les dimanches <br> de 9H30 à 12H00</p>

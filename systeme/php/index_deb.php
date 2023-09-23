@@ -11,9 +11,10 @@
 	$lxt = ".txt";
 	$act = "active";
 	
-	if(isset($_COOKIE["tabbord"])){
+	/* if(isset($_COOKIE["tabbord"])){
 		$repjs = $chem_princ."donnees/tab_bord.json";
-	}
+	} */ 
+	/* non fonctionnel fait un bug en local */
 
 	$activ = array_fill(0,20,'');
 	$json = file_get_contents($repjs);
@@ -32,24 +33,22 @@
 		$activ[1] = "active";
 	}
 
-	if ($liens["tabbord"]=="true") {
+/* 	if ($liens["tabbord"]=="true") {
 		if (isset($_POST['acces']) && md5($_POST['acces']) == $liens["pas_bord"])
 		{
 		setcookie("tabbord", "ok", time()+3600,"/"); 
 		}
-	}
+	} */
+	/* a revoir son fonctionnement */
 
 	 /*  fichier list-elements.json. contient tous les nons des éléments à afficher sur la site 	 */
-	if($liens["list"]=="true"){
+	if($liens["list"]){
 		$lstelemt = file_get_contents($chem_princ."donnees/list-elements.json");
 		$affichtxt = json_decode($lstelemt, true);
 	}
 	/*recupere la page automatique si page auto*/
-	if(isset($_GET['aupg'])){
-		$autopg = $_GET['aupg'];
-	}
-	/* générateur de menu: appel de la fonction dans <ul> avec  <?php Genenu($activ, $liens, $rn); ?> */
-	if ($liens["auto_menu"]=="true") {
-		include ($chem_deb."menu_deb".$lp);
-	}
+	if(isset($_GET['aupg'])) $autopg = $_GET['aupg'];
+
+	/* générateur de menu: appel de la fonction dans <ul> avec  <?php Genenu($activ, $liens, $rn);  */
+	if ($liens["auto_menu"]) include ($chem_princ."/php/menu_deb.php");
 ?>	

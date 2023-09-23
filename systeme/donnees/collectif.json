@@ -8,12 +8,11 @@
 	"exttxt" : ".txt",
 	"exthtm": ".html",
 
-
 	"_commentaire": "modules complementaires",
-	"list" :"true",
-	"tabbord" : "false", 
-	"auto_menu" : "true",
-	"activ_li"	: "true",
+	"list" :true,
+	"tabbord" : false, 
+	"auto_menu" : true,
+	"activ_li"	: true,
 
 	"_commentaire": "a renseigner pour le site",
 	"index" : "accueil",
@@ -22,8 +21,8 @@
 	"dirtxt" : "elements/",
 	"trt_head" : "",
 	"txt_vrn" : "Version",
-	"version" : "6.2.8",
-	"date" : "03/04/2023",
+	"version" : "6.2.9",
+	"date" : "26/08/2023",
 
 	"_commentaire": "section site collectif",
 		"rq" : "accueil_robot",
@@ -57,41 +56,41 @@
 		"nbr_menu" : "6",
 		"css_li_menu" : "",
 		"css_a_menu" : "",
-		"lien_pg1" : "index.php?pg=ac&act=1&ext=p&asi=vd",
+		"lien_pg1" : "index.php?pg=ac&act=1&asi=vd",
 		"trt_menu1" :"Accueil",
 
-		"lien_pg2" : "index.php?pg=apg&act=2&ext=p&asi=pg",
+		"lien_pg2" : "index.php?pg=apg&act=2&asi=pg",
 		"trt_menu2" :"Programmation",
 
-		"lien_pg3" : "index.php?pg=bric&act=3&ext=h&asi=bri",
-		"trt_menu3" :"Bricolage",
+		"lien_pg3" : "index.php?pg=bric&act=3&asi=bri",
+		"trt_menu3" :"Mecanique",
 
-		"lien_pg4" : "index.php?pg=rq&act=4&ext=h&asi=prt",
+		"lien_pg4" : "index.php?pg=rq&act=4&asi=prt",
 		"trt_menu4" :"Robotique",
 
-		"lien_pg5" : "index.php?pg=ar&act=5&ext=p&asi=ae",
+		"lien_pg5" : "index.php?pg=ar&act=5&asi=ae",
 		"trt_menu5" :"Art-électronique",
 
-		"lien_pg6" : "index.php?pg=cl&act=6&ext=p&asi=as",
+		"lien_pg6" : "index.php?pg=cl&act=6&asi=as",
 		"trt_menu6" :"Association",
 
-		"lien_art1" : "index.php?pg=amr&act=5&ext=p&asi=mr",
+		"lien_art1" : "index.php?pg=amr&act=5&asi=mr",
 		"amr" : "accueil_mr",
 		"mr" : "maurice_rene",
 		
 	"_commentaire": "autres lien du site",	
 		"lien_pg7" : "matricule/index.html",
 		"lien_pg7A" : "http://matricule.projetx.art",
-		"lien_pg8" : "index.php?pg=ar&act=5&ext=p&asi=pma",
-		"lien_pg9" : "index.php?pg=cl&act=2&ext=p&asi=pm",
+		"lien_pg8" : "index.php?pg=ar&act=5&asi=pma",
+		"lien_pg9" : "index.php?pg=cl&act=2&asi=pm",
 		"trt_menu9" :"L'histoire de l'association",
-		"lien_pg10" : "index.php?pg=ar&act=5&ext=p&asi=es",
+		"lien_pg10" : "index.php?pg=ar&act=5&asi=es",
 		"trt_menu10" : "Projet Erreur Système",
 		"lien_pg11" : "http://www.projetx.art/",
 		"trt_menu11" : "Projet X",
-		"lien_pg12" : "index.php?pg=ar&act=5&ext=p&asi=yo",
+		"lien_pg12" : "index.php?pg=ar&act=5&asi=yo",
 		"trt_menu12" : "Projet Colonne de YoNy",
-		"lien_rbt1" : "index.php?pg=rqm&act=3&ext=h&asi=rbm",
+		"lien_rbt1" : "index.php?pg=rqm&act=3&asi=rbm",
 
 		"trt_acc1" : "Association Collectif 11880 Club CMIT",
 

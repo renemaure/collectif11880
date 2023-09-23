@@ -4,8 +4,6 @@
   $repjs = $chem_princ."donnees/collectif.json";
   include($chem_princ."php/index_deb.php");
 ?>
-
- 
 <!doctype html>
 <html lang="fr">
 	<head>
@@ -24,6 +22,7 @@
 		<link href="systeme/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less">
 		<script src="systeme/css/less.js" type="text/javascript"></script>
+		<link href="systeme/css/collectif11880.css" rel="stylesheet">
 		</head>
 	<body>
 		<nav> 
@@ -31,6 +30,8 @@
 				<?php   Genenu($activ, $liens, $rn); ?>
 			</ul>
 				<img  id="logo_asso" src="systeme/images/titre_collectif03.png"alt="Collectif 11880 cub CMIT, association loi 1901">
+				<article id="zon_conect">
+				</article>
 			</div>
 		</nav>
 		<main>

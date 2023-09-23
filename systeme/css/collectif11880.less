@@ -13,95 +13,9 @@ version 1.0.0*/
 @demiblanc : rgba(255,255,255,.5);
 @ombre : rgba(52,58,64,0.15);
 @grisblanc :#f8f9fa;
-
-@font-face{
-	font-family: "digital";
-	src:url("../fonts/DS-DIGI.TTF");
-}
-
 /* Utilisation */
-body {
-	background-color: @coulbody;
-	padding-top: 3.5rem;
-}
-.coul-bord, hr, .lvd, .cbrd, .text-danger{
-	color:@bordeaux;
-}
-.coul-gris, cgr{
-	background-color: @gris;
-}
-.coul-bdr-fonc, .cbrf{
-		color: @bordfonce;
-}
-.active a{
-    color: rgba(0,0,0,.5);
-}
-nav ul a{
-    color:@bordeaux;
-    padding-right: .5rem;
-    padding-left: .5rem;
-    display: block;
-}
-nav ul a:hover{
-	color: rgba(0,0,0,.5);
-	text-decoration: none;
-}	
-nav {
-    display: flex;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-    padding: .5rem 1rem;
-    font-size: 1.09rem;
-    font-weight: bold;
-   	background-color: @gris;
-/*   	flex-direction: row;
-   	flex-flow: row nowrap;
-    justify-content: flex-start;*/
-}
-nav ul {
-    display: flex;
-    padding-left: 0;
-    margin-bottom: 0;
-    margin-left: 1rem;
-    list-style: none;
-    flex-direction: row;
-    margin-left: 1rem;
-}
-#logo_asso{
-	margin-left: 3rem;
-}
 
-@media (min-width: 576px) {
-  #container{
-    max-width: 540px;
-  }
-}
-@media (min-width: 768px) {
-   #container{
-    max-width: 720px;
-  }
-}
-@media (min-width: 992px) {
-   #container{
-    max-width: 960px;
-  }
-}
-@media (min-width: 1200px) {
-   #container{
-    max-width: 1140px;
-  }
-}
- #container{
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;	
- }
+
  aside li a {
     color: @violetop60;
  }
@@ -109,31 +23,8 @@ nav ul {
         color: @beuop ;
         text-decoration: none;
 }
-.boite12{
-	position: relative;
-    width: 100%;
-    margin-bottom: 4rem;
-    margin-top: 1rem;
-    box-shadow: 0.5rem 1em  @ombre;
-    padding: 1.5rem;
-    border-radius: .25rem;
-    background-color: @grisblanc;
-}
-.boite12 h4{
-	color: @bordeaux;
-	font-style: italic;
-}
-.boite12 p{
-	text-align: justify;
-}
-.boite12 ol{
-    padding-left: 0;
-    list-style: none;
-    margin-bottom: 0;	
-}
-#adresse, main{
-	margin-top: 4rem;
-}
+
+
 .footcrt{
 	bottom: 10px;
 }
