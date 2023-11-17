@@ -12,12 +12,12 @@
 				<li>
 					<a href="<?php echo $affichtxt["lien_prg5"];?>"><?php echo $affichtxt["txt_prg1"];?></a>
 				</li>
-				<li>
-					<a href="<?php echo $affichtxt["lien_prg6"];?>"><?php echo $affichtxt["txt_prg9"];?></a>	
+		<!-- 		<li>
+					<a href="<?php /* echo $affichtxt["lien_prg6"];?>"><?php echo $affichtxt["txt_prg9"]; */?></a>	
 				</li>
 				<li>
-					<a href="<?php echo $affichtxt["lien_prg7"];?>"><?php echo $affichtxt["txt_prg10"];?></a>	
-				</li>
+					<a href="<?php /* echo $affichtxt["lien_prg7"];?>"><?php echo $affichtxt["txt_prg10"]; */?></a>	
+				</li> -->
 			</ol>
 		</div>	
 	</aside>

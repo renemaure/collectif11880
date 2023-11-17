@@ -25,10 +25,8 @@
 		"_commentaire": "fichiers dans programmation",		
 		"pgr1" : "present_prog",
 		"prg2": "serveur",
-		"prg3" : "container-boot",
-		"prg4" : "marges-boot",
-		"prg5" : "instal_dosbox",
-
+		"prg3" : "tuto_svg",
+	
 		"_commentaire": "liens dans programmation",
 		"lien_prg1"	: "https://www.wampserver.com/",
 		"lien_prg2" : "https://support.microsoft.com/fr-fr/help/2977003/the-latest-supported-visual-c-downloads",
@@ -45,7 +43,7 @@
 		"txt_prg4" : "Microsoft package Visual Studio",
 		"txt_prg5"  : "Ccleaner",
 		"txt_prg6" : "Fichiers ZIP Visuel Studio",
-		"txt_prg7" : "Quelques bases de Bootstrap",
+		"txt_prg7" : "Tuto sur le SVG",
 		"txt_prg8" : "Programmation sous Qbasic",
 		"txt_prg9" : "Les bases de Bootstrap",
 		"txt_prg10" : "Installation de DosBox",
