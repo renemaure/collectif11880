@@ -108,7 +108,21 @@
 			"trt_menu" : "Le robot de compagnie",
 			"lien_pg" : "index.php?pg=13&asi=13&act=4",
 			"lrm" : "accueil_robot_maison",
-			"arm" : "association"
+			"arm" : ""
+		},
+		"indic14" :{
+			"valid" : true,
+			"trt_menu" : "Tuto SVG",
+			"lien_pg" : "index.php?pg=14&asi=2&act=2",
+			"lrm" : "tuto_svg",
+			"arm" : ""
+		},
+		"indic15" :{
+			"valid" : true,
+			"trt_menu" : "Installation de Wampserveur",
+			"lien_pg" : "index.php?pg=15&asi=2&act=2",
+			"lrm" : "serveur_wamp",
+			"arm" : ""
 		},
 
 

@@ -36,17 +36,13 @@
 				<?php   Genenu($activ, $liens, $rn); ?>
 			</ul>
 				<img  id="logo_asso" src="systeme/images/titre_collectif03.png"alt="Collectif 11880 cub CMIT, association loi 1901">
-				<article id="zon_conect">
-				</article>
-			</div>
+				<article id="zon_conect"></article>
 		</nav>
 		<main>
 			<div id="container">
-					<?php 	include($affpg); ?>
+				<?php 	include($affpg); ?>
 				<div class="row mb-3 mx-auto">
-					<div class="fin_page">
-						<hr>
-				</div>
+					<div class="fin_page"><hr></div>
 				</div>
 			</div> 
 		</main>	

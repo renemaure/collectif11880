@@ -9,15 +9,11 @@
 		<div class="boite12">
 			<h4><?php echo $affichtxt["txt_prg11"];?></h4>
 			<ol class="list-unstyled mb-0">
-				<li>
-					<a href="<?php echo $affichtxt["lien_prg5"];?>"><?php echo $affichtxt["txt_prg1"];?></a>
+				<li> 
+					<?php echo"<a href=\"".$liens["indic14"]["lien_pg"]."\">".$liens["indic14"]["trt_menu"]."</a>" ;?>
+				</li><li>
+					<?php echo"<a href=\"".$liens["indic15"]["lien_pg"]."\">".$liens["indic15"]["trt_menu"]."</a>" ;?>
 				</li>
-		<!-- 		<li>
-					<a href="<?php /* echo $affichtxt["lien_prg6"];?>"><?php echo $affichtxt["txt_prg9"]; */?></a>	
-				</li>
-				<li>
-					<a href="<?php /* echo $affichtxt["lien_prg7"];?>"><?php echo $affichtxt["txt_prg10"]; */?></a>	
-				</li> -->
 			</ol>
 		</div>	
 	</aside>

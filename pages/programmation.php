@@ -1,61 +1,17 @@
 <div class="row">
 	<div class="boite12"> 
-		<?php include $liens["dirlien"].$liens["dirtxt"].$affichtxt["pgr1"].$lp?>
+	<h4 class="cnt">Nouvel atelier programmation</h4>
+		<p>
+			Depuis début septembre 2023, nous construisons une nouvelle application web, Paris à Rebours, qui affichera une carte de Paris évolutive entre le début de la Révolution française et le début du 20éme siècle.
+		</p>
+		<p>
+			Pour cela nous testons pleins de nouvelles fonctionnalités pour faire fonctionner cette application web. Mais nous ne partons pas de rien, en effet nous récupérons beaucoup de code et d’algorithme de notre ancienne application DATABULLES !
+		</p>
+		<p>
+			Notre premier travail est la création et l’affichage de la carte de paris en fonction des années. Elle sera construite en SVG. Pour cela nous devons réaliser un tuto complet sur le SVG, qui sera évolutif en des sites, ou en des vidéos que nous explorons. 
+		</p>
+		<p>
+			Nous vous proposons toutes les infos pour installer votre serveur Wampserveur  sous Windows. 
+		</p>
 	</div>
 </div>
-
-<div class="row" id="tuto_svg"> 
-	<div class="col">
-		<div class="boite12">
-			<?php include $liens["dirtxt"].$affichtxt["prg3"].$lp;?>
-		</div>
-	</div>
-</div>
-<div class="row" id="serveur"> 
-	<div class="col">
-		<div class="boite12">
-			<h4><?php echo $affichtxt["txt_prg1"];?></h4>
-			<div class="row">
-				<div class="col-8">
-					<?php include $liens["dirtxt"].$affichtxt["prg2"].$lp; ?>
-				</div>
-				<div class="col-4">
-					<section class="mini-carte">
-						<header>
-							<h6><?php echo $affichtxt["txt_prg2"];?></h6>
-						</header>
-						<aside>
-							<article>
-      							<a href="<?php echo $affichtxt["lien_prg1"];?>" target="_blank"><?php echo $affichtxt["txt_prg3"];?></a>
-       							<a href="<?php echo $affichtxt["lien_prg2"];?>" target="_blank"><?php echo $affichtxt["txt_prg4"];?></a>
-        						<a href="<?php echo $affichtxt["lien_prg3"];?>" target="_blank"><?php echo $affichtxt["txt_prg5"];?></a>
-        						<a href="<?php echo $affichtxt["lien_prg4"];?>" target="_blank"><?php echo $affichtxt["txt_prg6"];?></a>	
-     						</article>
-						</aside>
-					</section>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-
-
-
-
-<!-- Qbasic -->
-
-<!-- <div class="row" id="qbasic">
-	<div class="col">
-		<div class="boite12">
-			<h4><?php /* echo $affichtxt["txt_prg8"]; */?></h4>
-			<div class="row">
-				<div class="col-8">
-					<p class="mb-0">
-						<?php /* include$liens["dirtxt"].$affichtxt["prg5"].$lp; */?>
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>  -->
