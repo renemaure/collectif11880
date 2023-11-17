@@ -6,7 +6,7 @@
 
 <!-- outils instalation serveur -->
 
-<div id="serveur"></div>
+<!-- <div id="serveur"></div> -->
 <div class="row"> 
 	<div class="col">
 		<div class="boite12">
