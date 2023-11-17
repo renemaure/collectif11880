@@ -10,7 +10,7 @@
 			<h4><?php echo $affichtxt["txt_rbt1"];?></h4>
 			<ol class="list-unstyled mb-0">
 				<li>
-					<a href="<?php echo $liens["lien_rbt1"];?>"><?php echo $affichtxt["txt_rbt2"];?></a>	
+				<li> <?php echo"<a href=\"".$liens["indic4"]["lien_pg"]."\">".$liens["indic4"]["trt_menu"]."</a>" ;?>	</li>	
 				</li>
 			</ol>
 		</div>	

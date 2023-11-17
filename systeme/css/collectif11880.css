@@ -99,12 +99,18 @@ nav ul a:hover{
 .boite12{
 	position: relative;
     width: 100%;
-    margin-bottom: 4rem;
-    margin-top: 1rem;
+    /* margin-bottom: 4rem;
+    margin-top: 1rem; */
+    margin: 1rem 0 4rem 0;
     box-shadow: 0.5rem 1em var(--ombre);
     padding: 1.5rem;
     border-radius: .25rem;
     background-color: var(--grisblanc);
+}
+.boite12 h2{
+	color: var(--bordeaux);
+  text-align: center;
+  font-style: italic;
 }
 .boite12 h4{
 	color: var(--bordeaux);
@@ -117,4 +123,8 @@ nav ul a:hover{
     padding-left: 0;
     list-style: none;
     margin-bottom: 0;	
+}
+.boite12 .sourlgn{
+  font-weight: bold;
+  color: var(--bordeaux);
 }

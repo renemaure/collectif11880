@@ -13,9 +13,7 @@
 			</h5>
 				<?php include $liens["dirlien"].$liens["dirtxt"].$affichtxt["acc2"].$lp?>			
 			<footer>
-				<a href="<?php echo $liens["lien_pg4"]; ?>">
-					<?php echo $liens["txtbtn1"];?>
-				</a>
+				<a href="<?php echo $liens["indic4"]["lien_pg"]; ?>"><?php echo $liens["txtbtn1"];?></a>
 			</footer>
 		</div>
 	</div>
@@ -29,7 +27,7 @@
 				</h5>
 					<?php include $liens["dirlien"].$liens["dirtxt"].$affichtxt["acc3"].$lp?>	
 				<footer>
-					<a href="<?php echo $liens["lien_pg2"]; ?>" role="button">
+					<a href="<?php echo $liens["indic2"]["lien_pg"]; ?>" role="button">
 						<?php echo $liens["txtbtn1"];?>
 					</a>
 				</footer>
@@ -46,7 +44,7 @@
 				</h5>
 				<?php include $liens["dirlien"].$liens["dirtxt"].$affichtxt["acc4"].$lp?>	
 				<footer>
-					<a href="<?php echo $liens["lien_pg3"]; ?>" role="button">
+					<a href="<?php echo $liens["indic3"]["lien_pg"]; ?>" role="button">
 						<?php echo $liens["txtbtn1"];?>
 					</a>
 				</footer>
@@ -63,7 +61,7 @@
 				</h5>
 					<?php include $liens["dirlien"].$liens["dirtxt"].$affichtxt["acc5"].$lp?>	
 				<footer>
-					<a href="<?php echo $liens["lien_pg5"]; ?>" role="button">
+					<a href="<?php echo $liens["indic5"]["lien_pg"]; ?>" role="button">
 						<?php echo $liens["txtbtn1"];?>
 					</a>
 				</footer>

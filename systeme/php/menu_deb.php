@@ -1,25 +1,48 @@
 <?php
 /*
 	fichier d'affichage du menu pour les sites conçu ou gérer par l'association collectif 11880.
-	version 1.0.7 au 28 juillet 2021.
-	fichier personalisé pour chaque site.
+	version 1.2.4 au 04/08/2022.
 	fichier libre d'utilisation en sitant l'association collectif11880.org.
+	modifs importantes:
+	rajout condition avec valid pour activer ou non un élémént du menu
+	modif variable $activ egale à l'indice du lien dans le menu
 */
+
 function Genenu($activ, $liens, $rn)
-	{
-		$activli ="";
-		$activa = "";
-		for ($menu=1; $menu <=$liens["nbr_menu"]; $menu++)
-    	{ 
-    		if ($liens["activ_li"]=="true") {
-			$activli = $activ[$menu];
+{
+	$activli = true;
+	for ($menu=1; $menu <=$liens["nbr_menu"]; $menu++)
+    { 
+   		if ($liens["indic".$menu]["valid"])
+   		{ 
+	  	 	echo "<li";	
+			if ($activ==$menu)
+			{
+    			if ($liens["activ_li"])	echo " class=\"active\"><a";
+				else echo "><a class=\"active";		
+			
+				if ($liens["css_a_menu"]!="")
+				{
+					echo" ".$liens["css_a_menu"]."\" ";
+				}
+				else
+				{
+					if ($liens["activ_li"]== false)
+					{
+						echo"\" ";
+					}
+				}
 			}
-			else{
-				$activa = $activ[$menu];
-			}
-        echo "<li class=\"".$liens["css_li_menu"]." ".$activli."\">".$rn;
-        echo "<a class=\"".$liens["css_a_menu"]." ".$activa."\" href=\"".$liens["lien_pg".$menu]."\">".$liens["trt_menu".$menu]."</a>".$rn;
-        echo "</li>".$rn;
-    	}
+    		else{
+    			echo "><a";
+    			if ($liens["css_a_menu"]!="")
+    			{
+    				echo " class=\"".$liens["css_a_menu"]."\"";
+    			}
+    		}
+    	echo " href=\"".$liens["indic".$menu]["lien_pg"]."\">".$liens["indic".$menu]["trt_menu"]."</a>".$rn;
+       	echo "</li>".$rn;
+   		} 
 	}
-?>
+}
+?>	

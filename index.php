@@ -1,8 +1,14 @@
 <?php
-  $chem_princ ="systeme/";
+  $json = file_get_contents("donnees_site.json");
+  $demar = json_decode($json, true);
+  $chem_princ =$demar["chem"]; 
+  $jsonsite = $demar["f_json"]; 
   $chem_deb = "systeme/php/";
-  $repjs = $chem_princ."donnees/collectif.json";
-  include($chem_princ."php/index_deb.php");
+  include($chem_deb."/index_deb.php");
+
+/*   include_once ($chem_princ."/php/base_donnees.php");
+  $result_site = $laison->query('SELECT * FROM mise_jour_site');
+  $misjoursite = $result_site->fetch(PDO::FETCH_ASSOC); */
 ?>
 <!doctype html>
 <html lang="fr">
@@ -46,7 +52,7 @@
 		</main>	
 		<footer> 
 			<p>
-				&copy; Association Collectif 11880 Club CMIT - 1996-2023 / Site réalisé Site par l’association / <a href="mailto:infos@collectif11880.com?subject=renseignement">infos@collectif11880.com</a> / <?php echo $liens["txt_vrn"]." ".$liens["version"]." au ". $liens["date"];?>  
+				&copy; Association Collectif 11880 Club CMIT - 1996-2023 / Site réalisé Site par l’association / <a href="mailto:infos@collectif11880.com?subject=renseignement">infos@collectif11880.com</a> / <?php echo $liens["txt_vrn"]." ".$demar["version"]." au ". $demar["date"];?>  
 			</p>
 		</footer>
 	</body>

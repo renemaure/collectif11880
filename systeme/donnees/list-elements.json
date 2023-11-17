@@ -55,14 +55,13 @@
 
 	"_commentaire": "textes de robotique",
 		"txt_rbt1" : "projets robotiques",
-		"txt_rbt2" : "Le robot de compagnie",
+
 
 	"_commentaire": "textes de art electro",
 		"are-1" :"accueil_art",
 		"are-3" : "projet_matricule",
 		"are-2" : "erreur_systeme",
 		"are-4" : "colonne_yoni",
-		"txt_art1" : "Maurice René",
 
 	"_commentaire": "textes de maurice rené",
 		"mr-2" : "erreur_systeme",

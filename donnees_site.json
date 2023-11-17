@@ -1,0 +1,11 @@
+{	
+"_commentaire": "stucture fichier json version: 1.0.1 au 29/01/2022",
+	"chem": "systeme",
+  	"f_json" : "collectif",
+  	"tabbord" : false,
+  	"fich_tabbord" : "",
+  	"pas_bord" :"",
+  	"trt_head" : "Collectif 11880",
+	  "version" : "6.2.9",
+	  "date" : "26/08/2023"
+}
