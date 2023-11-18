@@ -56,7 +56,11 @@
 		if(isset($_GET['act'])) $activ = $_GET['act'];
 		else  $activ = $_GET['pg']; 
 		if (isset($_GET['asi'])) {
-			$affasi =  $dirlien.$liens["indic".$_GET['pg']]["arm"].$lp;
+			
+			/* $affasi =  $dirlien.$liens["indic".$_GET['pg']]["arm"].$lp; */
+
+			/* BUG 18/11/2023!!! erreur de récuperation de l'indice pour le aside on recupere avec le get pg alors que ca devarit etre avec asi !! ATTENTION !! la corection de ce bug peut provoquer des choses etranges car pour moi il a était compensé par des corectifs alleir comme dans le fichier json du site*/
+			$affasi =  $dirlien.$liens["indic".$_GET['asi']]["arm"].$lp; 
 			$aside = true;
 		}
 		/*si la variable 'aupg' existe elle reference en BDD une table produit le 23/09/2023*/

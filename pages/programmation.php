@@ -2,6 +2,16 @@
 	<div class="boite12"> 
 	<h4 class="cnt">Nouvel atelier programmation</h4>
 		<p>
+
+		</p>
+
+
+	</div>
+</div>
+<div class="row">
+	<div class="boite12"> 
+	<h4 class="cnt">Nouvelle aplication web</h4>
+		<p>
 			Depuis début septembre 2023, nous construisons une nouvelle application web, Paris à Rebours, qui affichera une carte de Paris évolutive entre le début de la Révolution française et le début du 20éme siècle.
 		</p>
 		<p>

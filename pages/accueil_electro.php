@@ -9,7 +9,9 @@
 	<div class="boite12">
 			<h4>Artistes électro-art</h4>
 			<ol class="list-unstyled mb-0">
-				<li> <?php echo"<a href=\"".$liens["indic11"]["lien_pg"]."\">".$liens["indic11"]["trt_menu"]."</a>" ;?> </li>
+				<li>
+					<a href="<?php echo $liens["lien_art1"]?>"><?php echo $affichtxt["txt_art1"]?></a>
+				</li>
 			</ol>	
 		</div>
 		<div class="boite12">

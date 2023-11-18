@@ -40,11 +40,45 @@
 		</nav>
 		<main>
 			<div id="container">
-				<?php 	include($affpg); ?>
-				<div class="row mb-3 mx-auto">
+
+			<div class="row">
+				<?php
+					if ($aside) {
+				?>
+    			<div class="col-8">
+					<?php include $affpg; ?>
+					
+				</div>
+				<aside class="col-4">
+					<div class="boite12">
+						<?php include $dirlien.$liens["dirtxt"]."mot_president".$lp ?>
+					</div>
+					<?php include $affasi ?>
+				</aside>
+				<?php }
+					else{
+						include $affpg;
+					}
+				?>
+			</div>
+			
+			<div class="row mb-3 mx-auto">
 					<div class="fin_page"><hr></div>
 				</div>
-			</div> 
+			
+
+			<?php        
+ /*          if ($aside) {
+              echo"<main id=\"main\">".$rn;
+              echo"<aside id=\"aside\">".$rn; 
+              include $affasi; 
+              echo "</aside>".$rn;
+          }
+           else echo"<main id=\"main_total\">".$rn; 
+          include $affpg; 
+          $laison=NULL; */
+     	 ?>
+
 		</main>	
 		<footer> 
 			<p>

@@ -1,5 +1,3 @@
-<div class="row">
-	<div class="col-8 my-3">
 
 		<div class="shadow p-4 mb-3 bg-light rounded">
             <h4><?php echo $affichtxt["txt_prg7"];?></h4>
@@ -74,22 +72,7 @@
                 </div>
             </div>
         </div>	
-    </div>
-    <aside class="col-4">
-        <div class="boite12">
-            <?php include $liens["dirtxt"]."mot_president".$lp ?>
-        </div>
-        <div class="boite12">
-            <h4><?php echo $affichtxt["txt_prg11"];?></h4>
-            <ol class="list-unstyled mb-0">
-                <li> 
-                    <?php echo"<a href=\"".$liens["indic2"]["lien_pg"]."\">".$liens["indic2"]["trt_menu"]."</a>" ;?>
-                </li>
-                <li>
-                     <a href="<?php echo $affichtxt["lien_prg5"];?>"><?php echo $affichtxt["txt_prg1"];?></a>
-                </li>
-            </ol>
-        </div>	
-    </aside>
-</div>
+    
+   
+
   

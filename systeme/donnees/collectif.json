@@ -8,7 +8,7 @@
 	"activ_li"	: true,
 
 	"_commentaire": "a renseigner pour le site",
-	"dirlien" : "pages/",
+	"dirlien" : "pages",
 	"dirimg" : "img",
 	"dirtxt" : "elements/",
 	"index" : "accueil",
@@ -57,57 +57,57 @@
 			"valid" : true,
 			"trt_menu" : "Programmation",
 			"lien_pg" : "index.php?pg=2&asi=2",
-			"lrm" : "accueil_prog",
-			"arm" : "programmation"
+			"lrm" : "programmation",
+			"arm" : "aside_prog"
 		},
 		"indic3" :{
 			"valid" : true,
 			"trt_menu" : "Mecanique",
 			"lien_pg" : "index.php?pg=3&asi=3",
-			"lrm" : "accueil_brico",
-			"arm" : "bricolage"
+			"lrm" : "bricolage",
+			"arm" : "aside_brico"
 		},
 		"indic4" :{
 			"valid" : true,
 			"trt_menu" : "Robotique",
 			"lien_pg" : "index.php?pg=4&asi=4",
-			"lrm" : "accueil_robot",
-			"arm" : "robotique"
+			"lrm" : "robotique",
+			"arm" : "aside_robot"
 		},
 		"indic5" :{
 			"valid" : true,
 			"trt_menu" : "Art-électronique",
 			"lien_pg" : "index.php?pg=5&asi=5",
-			"lrm" : "accueil_electro",
-			"arm" : "accueil_art"
+			"lrm" : "art_electronique",
+			"arm" : "aside_electro"
 		},
 		"indic6" :{
 			"valid" : true,
 			"trt_menu" : "Association",
 			"lien_pg" : "index.php?pg=6&asi=6",
-			"lrm" : "accueil_asso",
-			"arm" : "association"
+			"lrm" : "association",
+			"arm" : "aside_asso"
 		},
 
 		"indic11" :{
 			"valid" : true,
 			"trt_menu" : "Maurice René",
-			"lien_pg" : "index.php?pg=11&asi=11&act=5",
-			"lrm" : "accueil_mr",
-			"arm" : "maurice_rene"
+			"lien_pg" : "index.php?pg=11&asi=5&act=5",
+			"lrm" : "maurice_rene",
+			"arm" : ""
 		},
 		"indic12" :{
 			"valid" : true,
 			"trt_menu" : "L'histoire de l'association",
-			"lien_pg" : "index.php?pg=12&asi=12&act=6",
+			"lien_pg" : "index.php?pg=12&asi=6&act=6",
 			"lrm" : "histoire_asso",
-			"arm" : "robot_maison"
+			"arm" : ""
 		},
 		"indic13" :{
 			"valid" : true,
 			"trt_menu" : "Le robot de compagnie",
-			"lien_pg" : "index.php?pg=13&asi=13&act=4",
-			"lrm" : "accueil_robot_maison",
+			"lien_pg" : "index.php?pg=13&asi=4&act=4",
+			"lrm" : "robot_maison",
 			"arm" : ""
 		},
 		"indic14" :{

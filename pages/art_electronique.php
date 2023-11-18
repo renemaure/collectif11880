@@ -12,9 +12,11 @@
 			</p> -->
 		</div>
 
-		<?php include($affichtxt["are-2"].$lp);?>
+		<?php 
+			include($dirlien.$affichtxt["are-2"].$lp);
 
-		<?php include($affichtxt["are-3"].$lp);?>
+	 		include($dirlien.$affichtxt["are-3"].$lp);
 
-		<?php include($liens["dirtxt"].$affichtxt["are-4"].$lp);?>
+			include($dirlien.$liens["dirtxt"].$affichtxt["are-4"].$lp);
+		?> 
 
