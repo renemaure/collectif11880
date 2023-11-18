@@ -2,13 +2,18 @@
 	/*
 		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 
 
-	 	Date de création: 18/02/2012  / version 4.20.0 au 23/09/2023.
+	 	Date de création: 18/02/2012  / version 4.20.3 au 23/09/2023.
 
 	 	Ce fichier est libre d'utilisation en sitant l'association: www.collectif11880.org.
 
 	 	DERNIERE MODIFS 
 
-	 	Nouvelle version 4.20.0 du 23/09/2023: 
+	 	derniere version 4.20.3 du 18/11/2023: 
+		dernière version avant passage à la version 5
+		cause d'un bug dans le moteur
+			!! erreur de récuperation de l'indice pour le aside !!
+			on recupere avec le get pg alors que ca devarit etre avec asi !! ATTENTION !! la corection de ce bug peut provoquer des choses etranges car pour moi il a était compensé par des corectifs  comme dans le fichier json du site
+
 			La varaible $fich_blog  contennant le nom de la page active pour l'option blog auto *!
 			Elle ne doit pas etre modifiée  constante! 
 			
