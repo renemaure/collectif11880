@@ -1,71 +1,21 @@
-	<!-- nouvelle new du presoident -->
-	<div class="boite12"> 
-		<?php include $dirlien.$liens["dirtxt"].$affichtxt["acc1"].$lp?>	
-	</div>
-<div class="row">
-	<div class="col"> <!-- robotique-->
-		<div class="carte">
-			<h5>
-				<?php 
-					include $dirlien.$liens["dirtxt"].$liens["svg_1"].$lp;
-					echo " ".$affichtxt["trt_acc2"];
-				?>
-			</h5>
-				<?php include $dirlien.$liens["dirtxt"].$affichtxt["acc2"].$lp?>			
-			<footer>
-				<a href="<?php echo $liens["indic4"]["lien_pg"]; ?>"><?php echo $liens["txtbtn1"];?></a>
-			</footer>
-		</div>
-	</div>
-	<div class="col"> <!-- programmation -->
-			<div class="carte">
-				<h5>
-					<?php 
-						include $dirlien.$liens["dirtxt"].$liens["svg_1"].$lp;
-						echo " ".$affichtxt["trt_acc3"];
-					?>
-				</h5>
-					<?php include $dirlien.$liens["dirtxt"].$affichtxt["acc3"].$lp?>	
-				<footer>
-					<a href="<?php echo $liens["indic2"]["lien_pg"]; ?>" role="button">
-						<?php echo $liens["txtbtn1"];?>
-					</a>
-				</footer>
-			</div>
-	</div>
+<?php 
+	echo "<div class=\"boite12\">".$rn;
+	include $dirlien.$liens["dirtxt"].$affichtxt["text_accueil"].$lp;	
+	echo"</div>\r\n<div class=\"row\">".$rn;
+	for ($i=1; $i <=$affichtxt["nbr_cart"] ; $i++) { 
+		if ($i==5) echo"</div>\r\n<div class=\"row\">".$rn;
+		echo "<div class=\"col\">".$rn;
+		echo "<div class=\"carte\">".$rn;
+		echo "<h5>".$rn;
+		include $dirlien.$liens["dirtxt"].$affichtxt["svg_1"].$lp;
+		echo " ".$affichtxt["trt_acc".$i]."</h5>".$rn;
+		include $dirlien.$liens["dirtxt"].$affichtxt["text_cart".$i].$lp;
+		echo"<footer>";
+		echo"<a href=\"".$liens["indic".$affichtxt["lien_acc".$i]]["lien_pg"]."\">".$liens["txtbtn1"]."</a>".$rn;
+		// echo"<a href=\"".$liens["indic".$affichtxt["lien_acc"+$i]]["lien_pg"]."\">".$liens["txtbtn1"]."</a>".$rn;
+		echo"</footer>".$rn."</div>\r\n</div>".$rn;
+		
 
-	<div class="col"> <!-- bricolage -->
-			<div class="carte">
-				<h5>
-					<?php 
-						include $dirlien.$liens["dirtxt"].$liens["svg_1"].$lp;
-						echo " ".$affichtxt["trt_acc4"];
-					?>
-				</h5>
-				<?php include $dirlien.$liens["dirtxt"].$affichtxt["acc4"].$lp?>	
-				<footer>
-					<a href="<?php echo $liens["indic3"]["lien_pg"]; ?>" role="button">
-						<?php echo $liens["txtbtn1"];?>
-					</a>
-				</footer>
-	</div>
-
-	</div>
-		<div class="col"> <!-- art electro -->
-			<div class="carte">
-				<h5>
-					<?php 
-						include $dirlien.$liens["dirtxt"].$liens["svg_1"].$lp;
-						echo " ".$affichtxt["trt_acc5"];
-					?>
-				</h5>
-					<?php include $dirlien.$liens["dirtxt"].$affichtxt["acc5"].$lp?>	
-				<footer>
-					<a href="<?php echo $liens["indic5"]["lien_pg"]; ?>" role="button">
-						<?php echo $liens["txtbtn1"];?>
-					</a>
-				</footer>
-			</div>
-	</div>
-</div>
- 
+	}
+	echo "</div>\r\n</div>".$rn;
+?> 
