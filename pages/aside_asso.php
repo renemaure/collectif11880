@@ -22,7 +22,11 @@
 		<div class="boite12">
 			<h4>Archives</h4>
 			<ol class="list-unstyled mb-0">
-				<li> <?php echo"<a href=\"".$liens["indic12"]["lien_pg"]."\">".$liens["indic12"]["trt_menu"]."</a>" ;?></li>
-				
+				<li> 
+					<?php echo"<a href=\"".$liens["indic12"]["lien_pg"]."\">".$liens["indic12"]["trt_menu"]."</a>" ;?>
+				</li>
+				<li> 
+					<?php echo"<a href=\"".$liens["indic6"]["lien_pg"]."\">".$liens["indic6"]["trt_menu"]."</a>" ;?>
+				</li>	
 			</ol>	
 		</div>

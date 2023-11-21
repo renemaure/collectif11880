@@ -62,7 +62,7 @@
 		},
 		"indic3" :{
 			"valid" : true,
-			"trt_menu" : "Mecanique",
+			"trt_menu" : "Bricolage",
 			"lien_pg" : "index.php?pg=3&asi=3",
 			"lrm" : "bricolage",
 			"arm" : "aside_brico"

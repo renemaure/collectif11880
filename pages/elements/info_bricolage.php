@@ -1,13 +1,13 @@
 <img src="systeme/images/collectif07.png">
 
-<p class="cnt coul-bord mt2 g">Projet vélo couché</p>
-
-<p class="jtf"> 
-	Sur proposition d'un de nos membres, nous commence la construction d’un vélo couché nommé <span class="g coul-bord">le Warrior.</span>
+<p class="jst">
+Tous les mercredis, nous bricolons de l’électronique, de l’informatique, et du bricolage.
 </p>
-<p>
-Tous les mercredis hors vacances scolaires, à partir de <span class="g coul-bord">18h30</span>. Atelier ouvert gratuitement à tous et toutes
-</p><p class="cnt g coul-bord">
-Reprise le mercredi <br>13 septembre 2023
+<br>
+<p class="jst">
+Un mercredi sur 2, hors vacances scolaires, nous construisons un vélo couché, à partir de composants de récupération et en utilisant un outillage de bricoleur.
 </p>
-
+<br>
+<p class="cnt g coul-bord">
+Tous les mercredis, à partir de 18h30. Atelier ouvert gratuitement à tous et toutes!
+</p>
