@@ -6,12 +6,15 @@
 	--gris : #A9A9A9;
 	--bordfonce : #770000;
 	--noir50 : rgba(0,0,0,.7);
-	--bleuciel: rgb(0, 192, 192);
+	--bleuciel: #00c0c0;
 	--ombre : rgba(52,58,64,0.15);
 	--grisblanc :#f8f9fa;
   --grisfonce : #212529;
+  --grisbleu : #343a40;
 }
-
+a{
+  text-decoration: none;
+}
 @font-face{
 	font-family: "digital";
 	src:url("../fonts/DS-DIGI.TTF");
@@ -158,21 +161,65 @@ nav ul a:hover{
 .brd{
   color: var(--bordeaux);
 }
-footer {
+#footer {
 	background-color:var(--gris);
 	width: 100%;
  	/* height: 50px; */
 	color:var(--bordeaux);
 }
-footer p{
+#footer p{
 	font-style: italic;
 	text-align: center;
 	padding-bottom: .5rem;
 	padding-top: .5rem;
 }
-footer a {
+#footer a {
     color: var(--bordfonce);
 }
-footer a:visited , footer a:active{
-		color: demiblanc ;
+#footer a:visited , #footer a:active{
+		color: var(--coulbody) ;
 }
+
+.carte{
+	height: 630px;
+  box-shadow: 0.5rem 1em var(--ombre);
+  border-radius: .25rem;
+  background-color: var(--grisblanc);
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+.carte h5{
+	font-style: italic;
+	color:var(--bordeaux);
+}
+.carte svg{
+  vertical-align: middle;
+  border-radius: 0.25rem;
+  margin-right: 0
+}
+.carte img {
+  vertical-align: middle;
+  padding: 0 0 0 5px;
+}
+.carte footer {
+  margin: 10px 0 0 0;
+  text-align: center;
+  background-color: var(--grisblanc);
+}
+.carte footer a {
+  display: inline-block;
+  text-align: center;
+  padding: .375rem .75rem;
+  border-radius: .25rem;
+  background-color: var(--bleuciel);
+  color: var(--grisbleu);
+  font-weight: bold;
+  font-style: italic;
+}
+.carte footer a:hover{
+	text-decoration: none;
+	
+} 
+/* .carte footer a:visited , .carte footer a:active {
+	text-decoration: none;
+} */

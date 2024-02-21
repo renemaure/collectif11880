@@ -51,7 +51,7 @@
 			?>
 			<div class="fin_page"><hr></div>
 		</main>	
-		<footer> 
+		<footer id="footer"> 
 			<p>
 				&copy; Association Collectif 11880 Club CMIT - 1996-2023 / Site réalisé Site par l’association / <a href="mailto:infos@collectif11880.com?subject=renseignement">infos@collectif11880.org</a> / <?php echo $liens["txt_vrn"]." ".$demar["version"]." au ". $demar["date"];?>  
 			</p>
