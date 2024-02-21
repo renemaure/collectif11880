@@ -1,0 +1,3 @@
+utilisateur : collecpcmit2023
+mot de passe Renemaure008
+serveur : collecpcmit2023.mysql.db

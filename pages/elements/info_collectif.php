@@ -1,4 +1,4 @@
-<img src="systeme/images/serveur_001_pt.png">
+<img src="systeme/images/artzoom.png">
 <p class="jst">
 Le Collectif 11880 né d’artistes belges et français et des bidouilleurs du CMIT. En 2004, ce collectif expose une œuvre électronique à la biennale de Gant en 2004, en Belgique
 </p>

@@ -40,22 +40,19 @@
 		</nav>
 		<main>
 			<div id="container">
-
-			<div class="row">
+				<div class="row">
 				<?php
 					if ($aside) {
-				?>
-    			<div class="col-8">
-					<?php include $affpg; ?>
-					
-				</div>
-				<aside class="col-4">
-					<div class="boite12">
+					echo"<div class=\"col-8\">$rn";
+					include $affpg;
+				echo"</div>$rn";
+				echo"<aside class=\"col-4\">";
+				<div class="boite12">
 						<?php include $dirlien.$liens["dirtxt"]."mot_president".$lp ?>
 					</div>
 					<?php include $affasi ?>
 				</aside>
-				<?php }
+				}
 					else{
 						include $affpg;
 					}
