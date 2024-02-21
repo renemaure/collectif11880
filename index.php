@@ -34,28 +34,22 @@
 				<img  id="logo_asso" src="systeme/images/titre_collectif03.png"alt="Collectif 11880 cub CMIT, association loi 1901">
 				<article id="zon_conect"></article>
 		</nav>
-		<main>
-			<div id="container">
-				<section id="main_central">
-				<?php
-					if ($aside) {
-						echo"<div class=\"col-8\">$rn";
-						include $affpg;
-						echo"</div>$rn";
-						echo"<aside class=\"col-4\">$rn";
-						echo"<div class=\"boite12\">$rn";
-						include $dirlien.$liens["dirtxt"]."mot_president".$lp;
-						echo"</div>$rn";
-						include $affasi;
-						echo"</aside>$rn";
-					}
-					else include $affpg;
-				?>
-			<!-- </section>
-			<div class="row mb-3"> -->
-				<div class="fin_page"><hr></div>
-			<!-- </div> -->
-			</section>
+		<main id="main_central">
+			<?php
+				if ($aside) {
+					echo"<div class=\"col-8\">$rn";
+					include $affpg;
+					echo"</div>$rn";
+					echo"<aside class=\"col-4\">$rn";
+					echo"<div class=\"boite12\">$rn";
+					include $dirlien.$liens["dirtxt"]."mot_president".$lp;
+					echo"</div>$rn";
+					include $affasi;
+					echo"</aside>$rn";
+				}
+				else include $affpg;
+			?>
+			<div class="fin_page"><hr></div>
 		</main>	
 		<footer> 
 			<p>
