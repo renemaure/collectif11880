@@ -1,13 +1,13 @@
 {
-	"_commentaire": "stucture fichier json version: 1.2.0 au 04/08/2022",
+	"_commentaire_1": "stucture fichier json version: 1.2.0 au 04/08/2022",
 
-	"_commentaire": "modules complementaires",
+	"_commentaire_2": "modules complementaires",
 	"list" :true,
 	"tabbord" : false, 
 	"auto_menu" : true,
 	"activ_li"	: true,
 
-	"_commentaire": "a renseigner pour le site",
+	"_commentaire_3": "a renseigner pour le site",
 	"dirlien" : "pages",
 	"dirimg" : "img",
 	"dirtxt" : "elements/",
@@ -18,7 +18,7 @@
 	"txt_vrn" : "Version",
 
 
-	"_commentaire": "données à renseigner pour le lien social",
+	"_commentaire_4": "données à renseigner pour le lien social",
 	"lien_social" : false,
 	"auto_fb" : false,
 	"lien_fb" : "",
@@ -27,7 +27,7 @@
 	"auto_youtube" : false,
 	"lien_youtube" :"",
 
-	"_commentaire": "section site collectif",
+	"_commentaire_5": "section site collectif",
 		
 		"ct" : "cmit",
 		"acc" : "accueil_cmit",
@@ -40,12 +40,12 @@
 
 		
 
-	"_commentaire": "section menu header ",
+	"_commentaire_6": "section menu header ",
 		"nbr_menu" : 6,
 		"css_li_menu" : "",
 		"css_a_menu" : "",
 
-	"_commentaire": "section menu header version test",
+	"_commentaire_7": "section menu header version test",
 		"indic1" :{
 			"valid" : true,
 			"trt_menu" : "Accueil",

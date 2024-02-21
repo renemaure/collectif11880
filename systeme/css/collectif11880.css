@@ -84,25 +84,56 @@ nav ul a:hover{
     margin: auto;
 }
 @media (min-width: 576px) {
-	#container{
-	  max-width: 540px;
-	}
+    #container{
+      max-width: 540px;
+    }
   }
   @media (min-width: 768px) {
-	 #container{
-	  max-width: 720px;
-	}
+    #container{
+      max-width: 720px;
+    }
   }
   @media (min-width: 992px) {
-	 #container{
-	  max-width: 960px;
-	}
+    #container{
+      max-width: 960px;
+    }
   }
   @media (min-width: 1200px) {
-	 #container{
-	  max-width: 1140px;
-	}
+    #container{
+      max-width: 1140px;
+    }
   }
+  #main_central{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.fin_page {
+  position: relative;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.fin_page hr{
+	display: block;
+	clear: both;
+	height: 0;
+	margin: 40px 0 80px;
+	padding: 0;
+	border: 0;
+	font-family: arial;
+	text-align: center;
+	font-size: 60px;
+	line-height: 1;
+}
+.fin_page hr:after{
+	content: "\273D \273D \273D";
+	height: 0;			
+	letter-spacing: 1em;
+	color: #aaa;
+}
 .boite12{
 	position: relative;
     width: 100%;
