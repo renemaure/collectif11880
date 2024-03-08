@@ -52,11 +52,11 @@ nav {
 	z-index: 1030;
 }
 nav ul {
-    display: flex;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-    flex-direction: row;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  flex-direction: row;
+  margin: 0 0 0 1rem;
 }
 nav ul a{
     color:var(--bordeaux);
@@ -69,7 +69,7 @@ nav ul a:hover{
 	text-decoration: none;
 }
 #logo_asso{
-	margin-left: 3rem;
+	margin-left: 11rem;
 }
 #zon_conect {
     margin-right: 15px;

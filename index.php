@@ -31,8 +31,8 @@
 			<ul>
 				<?php   Genenu($activ, $liens, $rn); ?>
 			</ul>
-				<img  id="logo_asso" src="systeme/images/titre_collectif03.png"alt="Collectif 11880 cub CMIT, association loi 1901">
-				<article id="zon_conect"></article>
+				<img  id="logo_asso" src="systeme/images/titre_collectif04.png"alt="Collectif 11880 cub CMIT, association loi 1901">
+				<!-- <article id="zon_conect"></article> -->
 		</nav>
 		<main id="main_central">
 			<?php
