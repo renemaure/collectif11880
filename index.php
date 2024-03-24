@@ -25,6 +25,7 @@
 		<link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less">
 		<script src="systeme/css/less.js" type="text/javascript"></script>
 		<link href="systeme/css/collectif11880.css" rel="stylesheet">
+		<link href="systeme/css-collectif/css_velo_couche.css" rel="stylesheet">
 		</head>
 	<body>
 		<nav> 
