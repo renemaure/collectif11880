@@ -124,6 +124,13 @@
 			"lrm" : "serveur_wamp",
 			"arm" : ""
 		},
+		"indic16" :{
+			"valid" : true,
+			"trt_menu" : "Aplication ParisArebours",
+			"lien_pg" : "index.php?pg=16&asi=2&act=2",
+			"lrm" : "parisarebours",
+			"arm" : ""
+		},
 
 
 		

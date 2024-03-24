@@ -1,23 +1,19 @@
-<h2>Tous les ateliers pour la saison 2023/2024</h2>
-<p>
-	Depuis janvier 2023, notre association collectif 11880, s’est installée définitivement au <span class="sourlgn">1ter, place de la république à Migennes</span>, dans les locaux de la recyclerie Repère Echoppe 89. Nous proposons pour cette année, plusieurs ateliers:
-</p>	
-<p>
-<span class="sourlgn">Atelier mécanique</span>, un mercrei soir sur 2. nous construisons un vélo couché, à partir de composants de récupération et en utilisant uniquement un outillage de bricoleur. Prochaine dates, <span class="sourlgn">les 6 mars & 20 mars</span>.
+<h2>Toutes dernières nouvelles du collectif 11880</h2>
+<p class="jst ph10">
+	Notre association, <span class="g coul-bord">collectif 11880</span>, est maintenant confortablement installée au 1ter, place de la république à Migennes, dans les locaux de la recyclerie <span class="g coul-bord">Repère Echoppe 89</span>.
 </p>
-<!-- <p>Tous <span class="sourlgn">les dimanches</span>, un atelier de programmation internet, permettant d’aborder le html, le css, le javascript, le php et les fichiers json, ouvert aussi bien aux novices, qu’aux bidouilleurs !
-</p> -->
-<p><span class="sourlgn">Atelier programmation</span>, les mercredi soir, en alternance avec l'atelier mecanique. nous développons une application web, Paris à Rebours, destinée à la recherche dans le monde artistique parisien du 19 siècle. prochaines dates <span class="sourlgn">le 28 février et les 13 & 27 mars</span>.
+<p class="jst">
+	Nous proposons un mercredi soir sur 2, un atelier construction d’un vélo couché. Prochaine date, <span class="g coul-bord">le mercredi 20 mars</span> à partir de <span class="g coul-bord">18h30</span>.
 </p>
-<p>
-<span class="sourlgn">Atelier électronique</span>, les venderdis soir. Nous remontons une une baie serveur que avons aussi récupéré l'année dernière en vue de la faire  fonctionner.</p>
-<p>
+<p class="jst ph10">
+	Et en alternance l’autre mercredi, le remontage d’une baie serveur que nous avons récupéré l'année dernière en vue de la faire fonctionner. Prochaine date, <span class="g coul-bord">le mercredi 13 mars</span> à partir de <span class="g coul-bord">18h30</span>.
+</p>
+<p class="jst ph10">
+<span class="g coul-bord">Le vendredi 15 mars</span>, nous vous proposons un remue-méninge cérébral sur les nouvelles avancées de notre application <span class="g coul-bord">ParisArebours</span>, autour d’un verre et de légers encas, des <span class="g coul-bord">18h30</span>.
+</p>
+<p class="ph10">
 N’hésitez pas à nous contactez par mail: <span class="sourlgn">infos@collectif11880.org</span>
 </p> 
-
-<!-- un atelier robotique, pour bidouiller les Arduino et les Raspberry, faire de la domotique, et ou de l’électronique. -->
-
-
-<p class="text-right">
+<p class="text-right ph10">
 	<span class="sourlgn italic">Le président</span>
 </p>

@@ -1,10 +1,7 @@
-<img src="systeme/images/serveur_001_pt.png">
-<p class="jst">
-En juillet nous avons récupéré une baie serveur, que nous sommes en train de remonter chaque vendredis soir. Au programme, du bricolage, un peu d’électricité, mais aussi de la domotique et ou de l’électronique. Un fois le remontage terminé, nous allons la remettre en route
-</p>
-<p>
-Avis aux amateurs.
-</p>
-<p class="cnt g coul-bord">
-    Chaque vendredi à partir de 19H00
+<img src="systeme/images/serveur_002_pt.png">
+<p class="jst ph10 pb10">
+    Nous avons récupéré une baie serveur avec plein de racks, que nous nous remonter un mercredi sur 2. Au programme, du bricolage, un peu d’électricité, un soupçon d’électronique. Avis aux amateurs.
+
+</p><p class="cnt pb30 coul-bord g">
+    Prochain bricolage le mercredi 13 mars<br> à partir de 18H30.
 </p>

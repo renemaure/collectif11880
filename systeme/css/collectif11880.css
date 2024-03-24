@@ -11,6 +11,7 @@
 	--grisblanc :#f8f9fa;
   --grisfonce : #212529;
   --grisbleu : #343a40;
+  --violetop60 : #6000C0;
 }
 a{
   text-decoration: none;
@@ -131,7 +132,7 @@ nav ul a:hover{
 .boite12{
 	position: relative;
     width: 100%;
-    margin: 1rem 0 4rem 0;
+    margin: 0 0 4rem 0;
     box-shadow: 0.5rem 1em var(--ombre);
     padding: 1.5rem;
     border-radius: .25rem;
@@ -181,7 +182,7 @@ nav ul a:hover{
 }
 
 .carte{
-	height: 630px;
+	height: 590px;
   box-shadow: 0.5rem 1em var(--ombre);
   border-radius: .25rem;
   background-color: var(--grisblanc);
@@ -215,11 +216,47 @@ nav ul a:hover{
   color: var(--grisbleu);
   font-weight: bold;
   font-style: italic;
+  text-decoration: none;
 }
-.carte footer a:hover{
+/* .carte footer a:hover{
 	text-decoration: none;
-	
-} 
+}  */
+.mini-carte {
+  position: relative;
+  background-color:var(--bleuciel);
+  background-clip: border-box;
+  border: 1px solid var(--violetop60);
+  border-radius: 0.25rem;
+  margin-top: 1rem;
+}
+.mini-carte header{
+border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;	
+padding: .85rem 0;
+}
+.mini-carte header h5 {
+  /* color: var(--bordeaux); */
+  text-align: center;
+  padding-top: 1rem;
+  font-weight: bold;
+}
+.mini-carte aside {
+  padding: 0 1rem 0.25rem;
+}
+.mini-carte article{
+  border-radius: .25rem;	
+}
+.mini-carte article a {
+  position: inherit;
+  display: block;
+  padding: 0.75rem;
+  background-color: var(--grisblanc);
+  border: 1px solid var(--violetop60);
+  color: var(--bordeaux);
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  text-align: center;
+  font-weight: bold;
+}
 /* .carte footer a:visited , .carte footer a:active {
 	text-decoration: none;
 } */

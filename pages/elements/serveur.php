@@ -1,9 +1,13 @@
-<p>
-	Avant de créer un site, il faut installer Wampserver, mais aussi bien lire la documentation avant tout lancement, ce que nous n’avons pas fait, car il faut absolument installer le dernier package Visual Studio en 64 bits. Mais comme notre ordinateur portable est en Windows10 familial, on a dû le réinstaller quatre fois, car il faut avant installer tous les packages Visual Studio depuis 2010 et dans l’ordre, vive Windows (humour) pour pouvoir à la fin installer Wamp.
+<p class="ph10">
+	Avant d’installer Wampserver, il faut bien lire la documentation, ce que nous n’avons naturellement pas fait, ce qui a eu pour conséquence de planter l’ordinateur.
+</p><p class="ph10">
+Car il faut absolument installer les packages de Visual Studio en 64 et 32 bits depuis 2010 et dans l’ordre, vive Windows (humour) pour pouvoir réussir l’installation Wamp.
+</p><p class="ph10 cnt g coulbord">
+	Attention!<br> c’est bien tous les packages en 32 bits & 64 bits
 </p>
-<p>
-	De plus nous avons dû installer Ccleaner pour pouvoir faire le ménage dans la base de registre, après la désinstallation de Wamp car Windows laisse toujours des miettes. Enfin, deux jours après et trois installations tout marche à merveille.
-</p>
-<p>
-	Nous vous mettons le lien du site de Microsoft pour les redistribution de Visual Basic, celui vers la page de Wampserveur ainsi que la page de Ccleaner. De plus nous avons créer un fichier ZIP contenant toutes les redistributions de Visual studio que vous aurait besoin avec Windows 10 familiale.
+<p class="ph10">
+	Nous vous mettons le lien du site de Microsoft pour les redistributions de Visual studio. Nous ajoutons le lien vers la page des mises à jour de Wampserveur qui comprend toutes les mises à jour d’apache, de PhpMyAdmin et tous les autres, page découverte par hasard aux files des recherches.
+</p class="ph10">
+<p class="ph10">
+	De plus nous avons créé un fichier ZIP contenant toutes les redistributions de Visual studio que vous aurait besoin avec Windows 10, nouvelle version 2024.
 </p>

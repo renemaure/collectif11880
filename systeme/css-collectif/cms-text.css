@@ -1,5 +1,5 @@
 /*module de getion cms de texte 
-pour les sites gérer par le collectif*/	
+pour les sites gï¿½rer par le collectif*/	
 
 p { margin: 0;}/* met a zero les paragraphes avant les class*/
  
@@ -33,7 +33,7 @@ p { margin: 0;}/* met a zero les paragraphes avant les class*/
 
 .verdana {font-family:verdana;}
 
-/* fonte écriture à la main (recuperer la fonte sur mon bus amoi)*/
+/* fonte ï¿½criture ï¿½ la main (recuperer la fonte sur mon bus amoi)*/
 @font-face {
     font-family: "fonte_main";
 	src: url('main.ttf');
@@ -60,7 +60,7 @@ p { margin: 0;}/* met a zero les paragraphes avant les class*/
 
 .gras, .g {font-weight:bold;}
 
-.centrer, .cnt {text-align: center;}
+.centrer, .cnt {text-align: center !important;}
 
 .justifier, .jst {text-align: justify;}
 
@@ -95,12 +95,16 @@ p { margin: 0;}/* met a zero les paragraphes avant les class*/
 .visible , .vis {display:inline;}
 
 .p5 {padding:5px;}	
-
 .pad , .p10 {padding:10px;}	
-
 .p15 {padding:15px;}	
-
 .p20 {padding:20px;}
+
+.ph10{padding-top: 10px;}
+.ph20{padding-top: 20px;}
+
+.pb10 {padding-bottom: 10px;}
+.pb20 {padding-bottom: 20px;}
+.pb30 {padding-bottom: 30px;}
 
 .z1 {z-index:1;}
 
