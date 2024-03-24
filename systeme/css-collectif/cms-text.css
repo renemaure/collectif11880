@@ -64,6 +64,8 @@ p { margin: 0;}/* met a zero les paragraphes avant les class*/
 
 .justifier, .jst {text-align: justify;}
 
+.s {text-decoration: underline;}
+
 .gauche {text-align:left;}
 
 .droit {text-align:right;}
