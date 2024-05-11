@@ -1,7 +1,7 @@
 
-<div class="row">
-  <div class="col-12 my-3">
-    <div class="shadow p-4 mb-3 bg-light rounded"> 
+<div class="new_row">
+  <div class="new_col-12">
+    <div class="boite12"> 
       <h4 class="coul-bord cnt">
         Atelier construction d'un vélo horizontal de type Warrior
       </h4>
@@ -9,7 +9,7 @@
       <p class="cnt">Atelier animé par Bernard Fan Van et Pascal Rollin</p>
       <p class="cnt i">Document version 3.1.1 au 18 février 2024</p>
     </div>
-    <div class="shadow p-4 mb-3 bg-light rounded"> 
+    <div class="boite12"> 
       <h4 class="coul-bord cnt g">Introduction</h4>
       <p class="just">
         Le vélo Warrior est construit à partir de composants de vélo de récupération et de tubes en acier. Il ne possède pas de pièces usinées.Il est construit en utilisant uniquement un outillage accessible à un bricoleur.
@@ -38,7 +38,7 @@
         Pour la construction de notre vélo on utilisera comme marbre de montage une table en bois de récupération mais droite dans les deux dimensions, ou presque.
       </p>
     </div>
-    <div class="shadow p-4 mb-3 bg-light rounded"> 
+    <div class="boite12"> 
       <h4 class="g cnt coul-bord">Construction du cadre&nbsp;:</h4>
       <p class="jst">
         Le cadre du vélo Warrior est constitué de quatre sections, (plan 1), découpées dans du tube carré en acier de 30mm par 30mm et d’une épaisseur de 2mm. On a retenu ce tube car il est trouvable dans tous les magasins de bricolage et en longueur standard De plus il est très facilement à couper et à souder et pas trop lourd.

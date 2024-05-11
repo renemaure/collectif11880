@@ -24,7 +24,7 @@ include "demarage.php";
 		<title>Association Collectif 11880</title>
 		<link href="systeme/css/bootstrap.min.css" rel="stylesheet">
 		<!-- <link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less"> -->
-		<script src="systeme/css/less.js" type="text/javascript"></script>
+		<!-- <script src="systeme/css/less.js" type="text/javascript"></script> -->
 		<link href="systeme/css/collectif11880.css" rel="stylesheet">
 	</head>
 	<body>
@@ -34,10 +34,10 @@ include "demarage.php";
 		<main id="main_central">
 			<?php
 				if ($aside) {
-					echo"<div class=\"col-8\">$rn";
+					echo"<div class=\"new_col-8\">$rn";
 					include $affpg;
 					echo"</div>$rn
-					<aside class=\"col-4\">$rn
+					<aside class=\"new_col-4\">$rn
 						<div class=\"boite12\">$rn";
 							include $dirlien.$liens["dirtxt"]."mot_president".$lp;
 						echo"</div>$rn";

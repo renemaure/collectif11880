@@ -1,4 +1,4 @@
-<div class="row">
+<div class="new_row">
 	<div class="boite12"> 
 	<h4 class="cnt">Aplication ParisArebours</h4>
 	<p>
