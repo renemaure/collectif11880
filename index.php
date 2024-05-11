@@ -1,10 +1,11 @@
 <?php
-  $json = file_get_contents("donnees_site.json");
-  $demar = json_decode($json, true);
-  $chem_princ =$demar["chem"]; 
-  $jsonsite = $demar["f_json"]; 
-  $chem_deb = "systeme/php/";
-  include($chem_deb."/index_deb.php");
+/*
+modification au 01/05/2024 :
+  ajout d'une condition pour afficher le lien de la page sécurisée du module TabBord
+  Création d'un module php "demarage pour regrouper toutes les commandes au démarage du fichier index!
+  
+*/
+include "demarage.php";
 ?>
 <!doctype html>
 <html lang="fr">
@@ -22,29 +23,24 @@
 		<meta property="og:collectif 11880" content="Balise META">
 		<title>Association Collectif 11880</title>
 		<link href="systeme/css/bootstrap.min.css" rel="stylesheet">
-		<link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less">
+		<!-- <link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less"> -->
 		<script src="systeme/css/less.js" type="text/javascript"></script>
 		<link href="systeme/css/collectif11880.css" rel="stylesheet">
-		<link href="systeme/css-collectif/css_velo_couche.css" rel="stylesheet">
-		</head>
+	</head>
 	<body>
-		<nav> 
-			<ul>
-				<?php   Genenu($activ, $liens, $rn); ?>
-			</ul>
-				<img  id="logo_asso" src="systeme/images/titre_collectif04.png"alt="Collectif 11880 cub CMIT, association loi 1901">
-				<!-- <article id="zon_conect"></article> -->
-		</nav>
+		<header id="header">
+			<?php  include $chem_princ."/".$demar["direngine"]."/".$demar["fich_menu"]; ?>
+		</header>
 		<main id="main_central">
 			<?php
 				if ($aside) {
 					echo"<div class=\"col-8\">$rn";
 					include $affpg;
-					echo"</div>$rn";
-					echo"<aside class=\"col-4\">$rn";
-					echo"<div class=\"boite12\">$rn";
-					include $dirlien.$liens["dirtxt"]."mot_president".$lp;
-					echo"</div>$rn";
+					echo"</div>$rn
+					<aside class=\"col-4\">$rn
+						<div class=\"boite12\">$rn";
+							include $dirlien.$liens["dirtxt"]."mot_president".$lp;
+						echo"</div>$rn";
 					include $affasi;
 					echo"</aside>$rn";
 				}

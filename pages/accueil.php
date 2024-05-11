@@ -1,9 +1,9 @@
 <?php 
 	echo "<div class=\"boite12\">$rn";
 	include $dirlien.$liens["dirtxt"].$affichtxt["text_accueil"].$lp;	
-	echo"</div>\r\n<div class=\"row\">$rn";
+	echo"</div>\r\n<div class=\"new_row\">$rn";
 	for ($i=1; $i <=$affichtxt["nbr_cart"] ; $i++) { 
-		echo "<div class=\"col\">$rn";
+		echo "<div class=\"new_col\">$rn";
 		echo "<div class=\"carte\">$rn";
 		echo "<h5>$rn";
 		include $dirlien.$liens["dirtxt"].$affichtxt["svg_1"].$lp;

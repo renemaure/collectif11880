@@ -3,19 +3,40 @@
 
 	"_commentaire_2": "modules complementaires",
 	"list" :true,
-	"tabbord" : false, 
 	"auto_menu" : true,
 	"activ_li"	: true,
+	"defactiv":1,
+
+	"_commentaire5": "données à renseigner pour le menu header",
+	"typ_logo" : true,
+	"img_nav" : "titre_collectif04.png",
+	"txt_alt" : "Collectif 11880 cub CMIT, association loi 1901",
+	"trt_home" : "",
+	
+	"sous_trt" : false,
+	"txt_sous_trt":"",
 
 	"_commentaire_3": "a renseigner pour le site",
 	"dirlien" : "pages",
-	"dirimg" : "img",
+	"dirimg" : "images",
 	"dirtxt" : "elements/",
 	"index" : "accueil",
 	"aside" : "",
 	"fich_aside" : "",
 	"trt_head" : "",
 	"txt_vrn" : "Version",
+	"dirimage" : "images",
+	"liens_get" : true,
+
+	"_commentaire3": "activations des modules optionnels",
+	"tabbord" : false,
+	"fich_instal" : "",
+	"mod_blog" : false,
+	"js_blog" : "module_blog",
+	"mod_tooltip" : false,
+	"js_tooltip" : "tooltip",
+	"panier" : false,
+	"aff_panier": "affichage_panier",
 
 
 	"_commentaire_4": "données à renseigner pour le lien social",

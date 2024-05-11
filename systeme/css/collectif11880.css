@@ -40,7 +40,7 @@ body {
 .active a{
     color: var(--noir50);
 }
-nav {
+header{
     display: flex;
     align-items: center;
     position: fixed;
@@ -52,20 +52,20 @@ nav {
     background-color: var(--gris);
 	z-index: 1030;
 }
-nav ul {
+header ul {
   display: flex;
   padding-left: 0;
   list-style: none;
   flex-direction: row;
   margin: 0 0 0 1rem;
 }
-nav ul a{
+header ul a{
     color:var(--bordeaux);
     padding-right: .5rem;
     padding-left: .5rem;
     display: block;
 }
-nav ul a:hover{
+header ul a:hover{
 	color: var(--noir50);
 	text-decoration: none;
 }
@@ -159,6 +159,22 @@ nav ul a:hover{
   font-weight: bold;
   color: var(--bordeaux);
 }
+.new_row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.new_col{
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .brd{
   color: var(--bordeaux);
 }
@@ -192,6 +208,7 @@ nav ul a:hover{
 .carte h5{
 	font-style: italic;
 	color:var(--bordeaux);
+  font-size: 1.25rem;
 }
 .carte svg{
   vertical-align: middle;
