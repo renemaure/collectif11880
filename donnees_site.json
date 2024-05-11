@@ -7,8 +7,8 @@
   	"trt_head" : "Collectif 11880",
 	"direngine" : "engine",
 	"engine" : "index_deb.php",
-	"version" : "6.4.16",
-	"date" : "11/03/2024",
+	"version" : "6.4.20",
+	"date" : "11/05/2024",
 
 	"_commentaire 10": "Données utiles pour option BDD du site",
 	"bdd_site" : false,
