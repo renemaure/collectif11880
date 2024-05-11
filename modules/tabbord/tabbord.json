@@ -1,0 +1,114 @@
+{
+	"_commentaire1": "fichier json du tabbord reperechoppe.com",
+	"_commentaire2": "version 3.0.0 au 01/05/2024",
+
+	"_commentaire 2": "Données utiles pour le module tab_bord",
+	"fich_tabbord" : "tab_bord",
+    "pas_bord" :"77b1b340675b7dd4bd19a3c16b1e1a43",
+ 	"tmpo_cookie" : 24,
+	 "menu_tb" : "menu_tabbord",
+
+	"nbr_indic": 8,
+
+	"indic2":{
+				"valid": true,
+				"trt_menu" : "Commandes",
+				"lien_pg": "index.php?pg=2&mdl&act=1",
+				"lrm" : "gestion_achat",
+				"arm":"vide"
+	},
+	"indic3" :{
+				"valid" : true,
+				"trt_menu" : "Entrée Mat",
+				"lien_pg" : "index.php?pg=3&mdl&act=1",
+				"lrm" : "entree_materiel",
+				"arm" : "nav_produits"
+	},
+	"indic4" :{
+				"valid" : true,
+				"trt_menu" : "Produit BDD",
+				"lien_pg" : "index.php?pg=4&mdl&act=1",
+				"lrm" : "gestion_produits_bdd",
+				"arm" : "vide"
+},
+	"indic7" :{
+				"valid" : true,
+				"trt_menu" : "Gestion BDD",
+				"lien_pg" : "index.php?pg=7&mdl&act=1",
+				"lrm" : "gestion_bdd",
+				"arm" : "vide"
+	},
+	"indic5" :{
+				"valid" : true,
+				"trt_menu" : "Fiches travaux",
+				"lien_pg" : "index.php?pg=5&mdl&act=1",
+				"lrm" : "traveaux",
+				"arm" : "vide"
+	},
+	"indic6" :{	
+				"valid" :true,
+				"trt_menu" : "Gestion panier",
+				"lien_pg" : "index.php?pg=6&mdl&act=1",
+				"lrm" : "gestion_ventes",
+				"arm" : "vide"
+	},
+	"indic8" :{
+				"valid" : false,
+				"trt_menu" : "Tab-Bord",
+				"lien_pg" : "index.php?pg=8&mdl",
+				"lrm" : "accueil_bord",
+				"arm" : "vide"
+	},
+	"indic9" :{
+				"valid" : false,
+				"trt_menu" : "Quitter",
+				"lien_pg" : "index.php?quit=1",
+				"lrm" : "",
+				"arm" : ""
+	},
+
+
+	"indic11" :{
+				"valid" : false,
+				"lien_pg" :"#",
+				"lrm" :"#"
+	},
+	"indic12" :{
+				"valid" : false,
+				"lien_pg" :"",
+				"lrm" :"auto_produit_tabbord",
+				"arm" : "nav_produits"
+	},
+	"indic14" :{
+				"valid" : false,
+				"trt_menu" : "Panier",
+				"lien_pg" : "index.php?pg=14",
+				"lrm" : "panier",
+				"arm" : "vide"
+	},
+	"indic15" :{
+				"valid" : false,
+				"trt_menu" : "entree_bdd_produit",
+				"lien_pg" : "index.php?pg=15&mdl",
+				"lrm" : "entree_bdd_produit",
+				"arm" : "vide"
+	},
+	"indic16" :{
+				"valid" : false,
+				"trt_menu" : "entree_bdd_produit",
+				"lien_pg" : "index.php?pg=15&mdl",
+				"lrm" : "gestion_produits_bdd",
+				"arm" : "vide"
+	},
+	"_commentaire": "données du footer", 
+	"lien_tbd" :"#",
+	"ltbd" :"tab-bord",
+	"txt_vrn" : "Version tableau de bord",
+	"version" : "1.0.01",
+	"date" : "17/07/2021",
+	"aupbdd" : "gestion_boutique",
+	"pg_bout" : "liste_boutique",
+	"mnprd" : "nav_produits",
+	"pg_tt" : "pg_total",
+	"gsprd" : "gestion_boutique"
+}
