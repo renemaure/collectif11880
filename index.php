@@ -1,8 +1,9 @@
 <?php
 /*
-modification au 01/05/2024 :
+modification au 11/05/2024 :
   ajout d'une condition pour afficher le lien de la page sécurisée du module TabBord
   Création d'un module php "demarage pour regrouper toutes les commandes au démarage du fichier index!
+  ajout du module tabbord
   
 */
 include "demarage.php";
@@ -26,6 +27,7 @@ include "demarage.php";
 		<!-- <link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less"> -->
 		<!-- <script src="systeme/css/less.js" type="text/javascript"></script> -->
 		<link href="systeme/css/collectif11880.css" rel="stylesheet">
+		<link href="systeme/css/entrer_securiser.css" rel="stylesheet">
 	</head>
 	<body>
 		<header id="header">
@@ -50,7 +52,10 @@ include "demarage.php";
 		</main>	
 		<footer id="footer"> 
 			<p>
-				&copy; Association Collectif 11880 Club CMIT - 1996-2023 / Site réalisé Site par notre association / <a href="mailto:infos@collectif11880.com?subject=renseignement">infos@collectif11880.org</a> / <?php echo $liens["txt_vrn"]." ".$demar["version"]." au ". $demar["date"];?>  
+				&copy; Association Collectif 11880 Club CMIT - 1996-2023 / Site réalisé Site par notre association / <a href="mailto:infos@collectif11880.com?subject=renseignement">infos@collectif11880.org</a> / <?php echo $liens["txt_vrn"]." ".$demar["version"]." au ". $demar["date"];
+				 if ($liens["tabbord"] && $tabbord["lien_foot"]) include($demar["dos_modul"]."/".$demar["tabbord"]."/".$tabbord["footer_tb"].$lp); 
+				
+				?>  
 			</p>
 		</footer>
 	</body>

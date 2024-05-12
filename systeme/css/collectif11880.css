@@ -55,7 +55,7 @@ header{
     background-color: var(--gris);
 	z-index: 1030;
 }
-header ul {
+header ul , #liens_tabbord{
   display: flex;
   padding-left: 0;
   list-style: none;

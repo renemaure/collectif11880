@@ -58,7 +58,11 @@
 	if($demar["liens_get"]){
 		if(isset($_GET['pg'])) {
 			$pgmain = $_GET['pg'];
-			if(isset($_GET['mdl'])) $vartab = "tabbord";
+			if(isset($_GET['mdl'])){
+				$vartab = "tabbord";
+				
+			} 
+
 			$affpg =  $dirlien.$$vartab["indic".$pgmain]["lrm"].$lp;
 			$pg_court =  $$vartab["indic".$pgmain]["lrm"];
 			if(isset($_GET['act'])) $activ = $_GET['act'];

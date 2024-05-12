@@ -29,7 +29,7 @@
 	"liens_get" : true,
 
 	"_commentaire3": "activations des modules optionnels",
-	"tabbord" : false,
+	"tabbord" : true,
 	"fich_instal" : "",
 	"mod_blog" : false,
 	"js_blog" : "module_blog",
