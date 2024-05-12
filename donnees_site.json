@@ -1,52 +1,50 @@
 {	
-	"_commentaire1": "fichier crée par l'association collectif 11880",
-	"_commentaire2": "stucture fichier json version: 1.1.4 au 03/12/2023",
+	"_commentaire_1": "fichier crée par l'association collectif 11880",
+	"_commentaire_2": "stucture fichier json version: 1.2.2 au 12/05/2024",
 	
-	"chem": "systeme",
-  	"f_json" : "collectif",
+	
+	"_commentaire_3": "Données utiles pour le HEAD du site",
   	"trt_head" : "Collectif 11880",
-	"direngine" : "engine",
-	"engine" : "index_deb.php",
+	"edition" : "Rollin Pascal"
+	
+	"_commentaire_4": "version du site en local",
+	"version_bdd" : false,	
 	"version" : "6.4.20",
 	"date" : "11/05/2024",
-
-	"_commentaire 10": "Données utiles pour option BDD du site",
-	"bdd_site" : false,
-
-	  "_commentaire 5a": "recup reperechoppe",
-	
-	"dirdonne" : "donnees",
-	  "dirphp" : "php",
-	 
-	  "nom_bdd" : "base_donnees.php",
-	  "fich_menu" : "affiche_menu.php",
-	  "fich_inst_mod" : "instal_module_deb.php",
-	  "instl_automn" : "fonctions_deb",
-
-	  "_commentaire 5": "Données pour le option liens en get version 5 du moteur",
-	"liens_get" : true,
-
-	"_commentaire 3": "Données pour l'option élements_list",
-	"nom_elmemnt" : "list-elements",
-
-	"_commentaire 6": "nom du dossier ou sont stokés les modules",
-	"act_modue" : false,
-	"dos_modul" : "modules",
-	"tabbord" : "tabbord",
-	"instal_tabbord" : "tabbord_deb",
-	"fich_ins_mod" : "instal_modules",
-	"panier" : "panier",
-	"instal_panier" : "panier_deb",
-	
-
-
-
-	"_commentaire 7": "Données personnelle pour le site",
- 	"edition" : "Rollin Pascal",
-
-	"_commentaire 8": "Données locale pour la version ou en BDD",
-	"version_bdd" : false,
 	"copy_dte":"2010/2023",
 	"realis" :"l’association Collectif 11880",
-	"lien_realis" : "http://www.collectif11880.org"
+	"lien_realis" : "http://www.collectif11880.org",
+
+	"_commentaire-5": "Noms des fichiers du moteur V5",
+	"engine" : "index_deb.php",
+	"f_json" : "collectif",
+	"fich_menu" : "affiche_menu.php",
+	"fich_inst_mod" : "instal_module_deb.php",
+	"instl_automn" : "fonctions_deb",
+	"fich_ins_mod" : "instal_modules",
+	"json_modul" : "install_module",
+
+	"_commentaire_7": "dossier présent sur le site",
+	"chem": "systeme",
+	"direngine" : "engine",
+	"dirdonne" : "donnees",
+	"dirphp" : "php",
+	"dos_modul" : "modules",
+	
+	"_commentaire_8": "Données locale ou BDD",
+	"bdd_site" : false,
+	"nom_bdd" : "",
+
+	"_commentaire_9": "Données pour l'option liens en get du moteur v5",
+	"liens_get" : true,
+
+	"_commentaire_10": "Données pour l'option élements_list du moteur V5",
+	"nom_elmemnt" : "list-elements",
+
+
+ 	
+
+
+
+	
 }
