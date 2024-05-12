@@ -1,12 +1,14 @@
 {
 	"_commentaire1": "fichier json du tabbord reperechoppe.com",
-	"_commentaire2": "version 3.0.0 au 01/05/2024",
+	"_commentaire2": "version 3.0.1 au 11/05/2024",
 
 	"_commentaire 2": "Données utiles pour le module tab_bord",
+	"lien_foot" : false,
 	"fich_tabbord" : "tab_bord",
     "pas_bord" :"77b1b340675b7dd4bd19a3c16b1e1a43",
  	"tmpo_cookie" : 24,
 	 "menu_tb" : "menu_tabbord",
+	 "footer_tb" : "",
 
 	"nbr_indic": 8,
 
@@ -70,8 +72,9 @@
 
 	"indic11" :{
 				"valid" : false,
-				"lien_pg" :"#",
-				"lrm" :"#"
+				"trt_menu" : "Entrée membres",
+				"lien_pg" :"index.php?pg=11&mdl",
+				"lrm" :"entrer_seruriser"
 	},
 	"indic12" :{
 				"valid" : false,

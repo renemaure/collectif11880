@@ -11,7 +11,7 @@
 		- ajouter une variable get['quit'], par Fateh pour le retour à la page principale en sortant du tabord
 		- modification par Fateh, de la durée du cookie elle provient soit de la BDD et elle est modifiable par l'utilisateur, soit du fichier json
 	*/
-	$json_tb = file_get_contents($demar["dos_modul"]."/".$demar["tabbord"]."/".$demar["tabbord"].$jsn);
+	$json_tb = file_get_contents($demar["dos_modul"]."/".$insmod["tabbord"]."/".$insmod["tbbord_json"].$jsn);
 	$tabbord = json_decode($json_tb, true);
 	if ($demar["bdd_site"]) $tempo_cle = ($misjoursite["duree_cookie"]); 
 	else  $tempo_cle = $tabbord["tmpo_cookie"];
