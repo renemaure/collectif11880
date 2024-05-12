@@ -1,0 +1,17 @@
+{
+    "_commentaire_1": "fichier crée par l'association collectif 11880",
+	"_commentaire_2": "stucture fichier json version: 1.0.0 au 12/05/2024",
+
+    "_commentaire_3": "nom des dossiers modules",
+    "tabbord" : "tabbord",
+    "panier" : "panier",
+    "blog": "blog",
+
+    "_commentaire_4": "nom des fichiers d'installation des modules",
+    "instal_tabbord" : "tabbord_deb",
+	"instal_panier" : "panier_deb",
+    "instal_blog" : "",
+
+    "_commentaire_5": "nom des fichiers json des modules",
+    "tbbord_json" : "tabbord"
+}
