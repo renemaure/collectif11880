@@ -18,9 +18,9 @@
          Genenu($activ, $liens, $rn, $demar);     
          echo "</ul>".$rn;
          /* installe le module tabbord */
-         if(isset($_COOKIE["tabbord"])) include($demar["dos_modul"]."/".$demar["tabbord"]."/".$tabbord["menu_tb"].$lp);
+         if(isset($_COOKIE["tabbord"])) include($demar["dos_modul"]."/".$insmod["tabbord"]."/".$tabbord["menu_tb"].$lp);
          /* installe le module panier */
-         if ($liens["panier"]) include($demar["dos_modul"]."/".$demar["panier"]."/".$liens["aff_panier"].$lp);
+         if ($liens["panier"]) include($demar["dos_modul"]."/".$insmod["panier"]."/".$liens["aff_panier"].$lp);
      
         if ($liens["lien_social"]) {
         echo "<article id=\"zon_conect\">".$rn; 
