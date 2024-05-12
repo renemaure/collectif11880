@@ -18,12 +18,4 @@
         $misjoursite = $result_site->fetch(PDO::FETCH_ASSOC);
     }
     include($chem_princ."/".$demar["direngine"]."/".$demar["engine"]);
-
-
-
-    
-
-//   $jsonsite = $demar["f_json"]; 
-//   $chem_deb = "systeme/php/";
-//   include($chem_deb."/index_deb.php");
 ?>  

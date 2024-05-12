@@ -3,11 +3,12 @@
         fichier d'installation des modules dans le moteur du collectif V5
         conçu ou gérer par l'association collectif 11880 
         Date de création le 30/10/2023
-        Actuellement à la version 1.2.2 au 12/05/2024 
+        Actuellement à la version 1.2.3 au 12/05/2024 
 
         ! fonctionne uniquement sur la version 5 du moteur !
 
         la version 1.2.2 comprend:
+            deplacer le lancement de la session du module panier dans son fichier d'instal
             l'ajout d'un fichier json contenant les données d'installation des moduls anciennemant dans le fichier json de démarage!
             L'ajout du module TabBord qui est fonctionnel
             L'installation du module Blog mit en pause car pas du tout à jour 
@@ -27,7 +28,6 @@
         $mod_tooltip = json_decode($json, true); */
     }
     if ($liens["panier"]){
-        session_start(); 
         include ($demar["dos_modul"]."/".$insmod["panier"]."/".$insmod["instal_panier"].$lp);
     }  
 	if($liens["list"]){
