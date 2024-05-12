@@ -5,7 +5,7 @@
 	
 	"_commentaire_3": "Données utiles pour le HEAD du site",
   	"trt_head" : "Collectif 11880",
-	"edition" : "Rollin Pascal"
+	"edition" : "Rollin Pascal",
 	
 	"_commentaire_4": "version du site en local",
 	"version_bdd" : false,	
@@ -39,7 +39,7 @@
 	"liens_get" : true,
 
 	"_commentaire_10": "Données pour l'option élements_list du moteur V5",
-	"nom_elmemnt" : "list-elements",
+	"nom_elmemnt" : "list-elements"
 
 
  	
