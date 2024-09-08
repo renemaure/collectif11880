@@ -18,7 +18,10 @@
     */
     $donmod = file_get_contents($demar["dos_modul"]."/".$demar["json_modul"].$jsn);
 	$insmod = json_decode($donmod, true);
-    if ($liens["tabbord"]) include ($demar["dos_modul"]."/".$insmod["tabbord"]."/".$insmod["instal_tabbord"].$lp); 
+    // $data_modul = array();
+    if ($liens["tabbord"]) {
+        include ($demar["dos_modul"]."/".$insmod["tabbord"]."/".$insmod["instal_tabbord"].$lp); 
+    } 
     if ($liens["mod_blog"]) {
        /*  $json = file_get_contents( $demar["dos_modul"]."blog/".$liens["js_blog"].".json");
         $mod_blog = json_decode($json, true); */
@@ -34,6 +37,7 @@
 		$lstelemt = file_get_contents($chem_princ."/".$demar["dirdonne"]."/".$demar["nom_elmemnt"].$jsn);
 		$affichtxt = json_decode($lstelemt, true);
 	}
+    include($demar["dos_modul"]."/".$demar["fnc_module"].$lp );
 
     
 	

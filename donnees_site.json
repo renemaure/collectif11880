@@ -23,6 +23,7 @@
 	"instl_automn" : "fonctions_deb",
 	"fich_ins_mod" : "instal_modules",
 	"json_modul" : "install_module",
+	"fnc_module" : "instal_modules",
 
 	"_commentaire_7": "dossier présent sur le site",
 	"chem": "systeme",

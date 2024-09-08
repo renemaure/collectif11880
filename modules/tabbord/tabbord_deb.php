@@ -4,8 +4,9 @@
 	pour l'association collectif 11880
 	ne peut fonctionner sans son moteur "index_deb.php"
 	
-	actuellement à la version version 2.2.0 au 01/05/2024
-	modification à la version 2.2.0
+	actuellement à la version version 2.2.1 au 12/05/2024
+	modification à la version 2.2.1
+		- supression du retour location vers la page en dur, ajout d'une donnée json acc_tb
 		- Réecriture complete du code pour le passage en module à part entière et en mode direct!
 		- Le menu du tab-Bord s'affiche directement dans le header du site.
 		- ajouter une variable get['quit'], par Fateh pour le retour à la page principale en sortant du tabord
@@ -17,7 +18,7 @@
 	else  $tempo_cle = $tabbord["tmpo_cookie"];
 	if (isset($_POST['acces']) && md5($_POST['acces']) == $tabbord["pas_bord"]){
 		setcookie("tabbord", "ok", time()+ ($tempo_cle*3600),"/"); 
-		header("Location: ".$tabbord["indic8"]["lien_pg"]); 
+		header("Location: ".$tabbord["indic".$tabbord["acc_tb"]]["lien_pg"]); 
 	}
 	if(isset($_COOKIE["tabbord"])){
 		if(isset($_GET['quit']) && $_GET['quit'] == 1){ 

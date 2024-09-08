@@ -23,11 +23,8 @@ include "demarage.php";
 		<meta property="og:locale" content="fr_FR">
 		<meta property="og:collectif 11880" content="Balise META">
 		<title>Association Collectif 11880</title>
-		<link href="systeme/css/bootstrap.min.css" rel="stylesheet">
-		<!-- <link rel="stylesheet/less" type="text/css" href="systeme/css/collectif11880.less"> -->
-		<!-- <script src="systeme/css/less.js" type="text/javascript"></script> -->
 		<link href="systeme/css/collectif11880.css" rel="stylesheet">
-		<link href="systeme/css/entrer_securiser.css" rel="stylesheet">
+		<?php instal_css($liens,$insmod) ?>
 	</head>
 	<body>
 		<header id="header">

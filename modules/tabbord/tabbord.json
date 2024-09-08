@@ -9,9 +9,17 @@
  	"tmpo_cookie" : 24,
 	 "menu_tb" : "menu_tabbord",
 	 "footer_tb" : "",
+	"entrer_tb" : 11,
+	"acc_tb" : 1,
 
 	"nbr_indic": 8,
-
+	"indic1" :{
+				"valid" : false,
+				"trt_menu" : "Accueil membres",
+				"lien_pg" : "index.php?pg=1&mdl",
+				"lrm" : "accueil_bord",
+				"arm" : "vide"
+	},
 	"indic2":{
 				"valid": true,
 				"trt_menu" : "Commandes",
@@ -54,13 +62,7 @@
 				"lrm" : "gestion_ventes",
 				"arm" : "vide"
 	},
-	"indic8" :{
-				"valid" : false,
-				"trt_menu" : "Tab-Bord",
-				"lien_pg" : "index.php?pg=8&mdl",
-				"lrm" : "accueil_bord",
-				"arm" : "vide"
-	},
+	
 	"indic9" :{
 				"valid" : false,
 				"trt_menu" : "Quitter",

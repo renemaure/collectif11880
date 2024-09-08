@@ -20,6 +20,9 @@ a{
 	font-family: "digital";
 	src:url("../fonts/DS-DIGI.TTF");
 }
+*, ::after, ::before {
+  box-sizing: border-box;
+}
 body {
   background-color: var(--coulbody);
   padding-top: 3.5rem;
@@ -28,9 +31,7 @@ body {
   color:var(--grisfonce) ;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
-*, ::after, ::before {
-  box-sizing: border-box;
-}
+
 .coul-bord, hr, .lvd, .cbrd, .text-danger{
 	color:var(--bordeaux);
 }
@@ -214,14 +215,14 @@ header ul a:hover{
 #footer a:visited , #footer a:active{
 		color: var(--coulbody) ;
 }
-
-.carte{
-	height: 590px;
+.carte {
+  height: 590px;
   box-shadow: 0.5rem 1em var(--ombre);
   border-radius: .25rem;
   background-color: var(--grisblanc);
   padding: 1.5rem;
   margin-bottom: 1rem;
+  box-sizing: content-box;
 }
 .carte h5{
 	font-style: italic;
