@@ -2,16 +2,15 @@
 	"_commentaire_1": "fichier crée par l'association collectif 11880",
 	"_commentaire_2": "stucture fichier json version: 1.2.2 au 12/05/2024",
 	
-	
 	"_commentaire_3": "Données utiles pour le HEAD du site",
   	"trt_head" : "Collectif 11880",
 	"edition" : "Rollin Pascal",
 	
 	"_commentaire_4": "version du site en local",
 	"version_bdd" : false,	
-	"version" : "6.4.20",
-	"date" : "11/05/2024",
-	"copy_dte":"2010/2023",
+	"version" : "6.4.5.01",
+	"date" : "08/09/2024",
+	"copy_dte":"2010/2024",
 	"realis" :"l’association Collectif 11880",
 	"lien_realis" : "http://www.collectif11880.org",
 
@@ -41,11 +40,4 @@
 
 	"_commentaire_10": "Données pour l'option élements_list du moteur V5",
 	"nom_elmemnt" : "list-elements"
-
-
- 	
-
-
-
-	
 }

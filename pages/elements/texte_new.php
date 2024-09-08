@@ -1,15 +1,23 @@
-<h2>Toutes dernières nouvelles du collectif 11880</h2>
-<p class="jst ph10">
-	Notre association, <span class="g coul-bord">collectif 11880</span>, est maintenant confortablement installée au 1ter, place de la république à Migennes, dans les locaux de la recyclerie <span class="g coul-bord">Repère Echoppe 89</span>.
+<h2>Reprise des activités au collectif 11880, saison 2024/2025</h2>
+<h3 class="cnt coul-bord">Reprise des activités le mercredi 11 septembre à 18H30 </h3>
+<p class="cnt g">Rangement et aménagement de l’atelier « coworking machine »</p>
+<p class="cnt ph10">
+	Nous reprenons nos activités de la saison dernière, à savoir : 
+	<br>
+	<span class="g coul-bord">le mercredi</span>, en alternance, <span class="g coul-bord">atelier vélo couché</span> et <span class="g coul-bord">informatique & serveur</span>. 
+	<br>
+	<span class="g coul-bord">le vendredi programmation</span>, 
+	<br>
+	et pour les lève-tôt, <span class="g coul-bord">programmations</span> des sites gérés par le collectif <span class="g coul-bord">le dimanche matin ou aprèm</span>.
 </p>
-<p class="jst">
-	Nous proposons un mercredi soir sur 2, un atelier construction d’un vélo couché. Prochaine date, <span class="g coul-bord">le mercredi 20 mars</span> à partir de <span class="g coul-bord">18h30</span>.
-</p>
-<p class="jst ph10">
-	Et en alternance l’autre mercredi, le remontage d’une baie serveur que nous avons récupéré l'année dernière en vue de la faire fonctionner. Prochaine date, <span class="g coul-bord">le mercredi 13 mars</span> à partir de <span class="g coul-bord">18h30</span>.
-</p>
-<p class="jst ph10">
-<span class="g coul-bord">Le vendredi 15 mars</span>, nous vous proposons un remue-méninge cérébral sur les nouvelles avancées de notre application <span class="g coul-bord">ParisArebours</span>, autour d’un verre et de légers encas, des <span class="g coul-bord">18h30</span>.
+<p class="cnt ph10">
+	Nous participons aussi à deux évènements pour cette fin d’année, à savoir:
+	<br>
+	<span class="g coul-bord">Le salon de la pomme, le dimanche 13 octobre avec la recyclerie Repère Echoppe 89.</span>
+	<br>
+	<span class="g coul-bord">Les journées nationales de la réparation, les 19 & 20 octobre 2024</span>
+	<br> 
+	<span class="i">à la recyclerie au 1ter, place de la république à Migennes.</span>
 </p>
 <p class="ph10">
 N’hésitez pas à nous contactez par mail: <span class="sourlgn">infos@collectif11880.org</span>

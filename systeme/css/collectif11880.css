@@ -232,7 +232,7 @@ header ul a:hover{
 .carte svg{
   vertical-align: middle;
   border-radius: 0.25rem;
-  margin-right: 0
+  margin-right: 10px;
 }
 .carte img {
   vertical-align: middle;
