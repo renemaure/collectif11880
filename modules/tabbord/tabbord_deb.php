@@ -4,8 +4,9 @@
 	pour l'association collectif 11880
 	ne peut fonctionner sans son moteur "index_deb.php"
 	
-	actuellement à la version version 2.2.1 au 12/05/2024
-	modification à la version 2.2.1
+	actuellement à la version version 2.2.2 au 06/10/2024
+	modification à la version 2.2.2
+		- ajout d'une condition pour charger un json pour l'option modif accueil en version test sur collectif.org
 		- supression du retour location vers la page en dur, ajout d'une donnée json acc_tb
 		- Réecriture complete du code pour le passage en module à part entière et en mode direct!
 		- Le menu du tab-Bord s'affiche directement dans le header du site.
@@ -14,6 +15,13 @@
 	*/
 	$json_tb = file_get_contents($demar["dos_modul"]."/".$insmod["tabbord"]."/".$insmod["tbbord_json"].$jsn);
 	$tabbord = json_decode($json_tb, true);
+
+	 /* nouvelle appel pour option fichier json accueil en version test pour le collectif 2/10/2024 */
+	 if (isset($tabbord["mod_json_acc"]) && $tabbord["mod_json_acc"]) {
+        $json = file_get_contents("$demar[chem]/$demar[dirdonne]/$tabbord[fich_don_acc]$jsn");
+        $don_accueil = json_decode($json, true);
+    }
+
 	if ($demar["bdd_site"]) $tempo_cle = ($misjoursite["duree_cookie"]); 
 	else  $tempo_cle = $tabbord["tmpo_cookie"];
 	if (isset($_POST['acces']) && md5($_POST['acces']) == $tabbord["pas_bord"]){

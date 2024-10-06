@@ -1,5 +1,5 @@
 <h2>Reprise des activités au collectif 11880, saison 2024/2025</h2>
-<h3 class="cnt coul-bord">Reprise des activités le mercredi 11 septembre à 18H30 </h3>
+<h3 class="cnt coul-bord">Reprise des activités le mercredi 23 septembre à 18H30 </h3>
 <p class="cnt g">Rangement et aménagement de l’atelier « coworking machine »</p>
 <p class="cnt ph10">
 	Nous reprenons nos activités de la saison dernière, à savoir : 

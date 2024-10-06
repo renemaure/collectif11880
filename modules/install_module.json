@@ -1,6 +1,12 @@
 {
     "_commentaire_1": "fichier crée par l'association collectif 11880",
-	"_commentaire_2": "stucture fichier json version: 1.0.3 au 12/05/2024",
+	"_commentaire_2": "stucture fichier json version: 1.0.8 au 06/10/2024",
+
+    "_commentaire_7": "nom du fichier des fonctions modules",
+    "fnc_module" : "fonctions_modules",
+
+    "_commentaire_10": "Données pour l'option élements_list du moteur V5",
+	"nom_elmemnt" : "list-elements",
 
     "_commentaire_3": "nom des dossiers modules",
     "dirmod" : "modules",
@@ -8,16 +14,17 @@
     "panier" : "panier",
     "blog": "blog",
 
-    "_commentaire_4": "module tabbord",
+    "_commentaire_4": "données pour le module tabbord",
     "instal_tabbord" : "tabbord_deb",
 	"tbbord_json" : "tabbord",
     "secu_css" : "entrer_securiser",
+    "tabord_css" : "tab-bord",
    
-
-    "_commentaire_5": "module panier",
+    "_commentaire_5": "données pour le module panier",
     "instal_panier" : "panier_deb",
+    "don_panier" : "panier",
 
-    "_commentaire_6": "module blog",
-    "instal_blog" : ""
-    
+    "_commentaire_6": "données pour le module blog",
+    "instal_blog" : "module_blog",
+    "inst_blog_php"  : "installblog"
 }

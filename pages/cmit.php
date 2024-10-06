@@ -1,7 +1,6 @@
 
-<div class="row">
-  <div class="col-12 my-3">
-    <div class="shadow p-4 mb-3 bg-light rounded"> 
+<div class="blog-post">
+    <div class="boite12">
           <h2 class="coul-bord text-center">Club CMIT collection d'ordinateurs</h2>
           <p class="text-justify">
             D’après le texte de l’exposition L’histoire de l’informatique qui a eu lieu en juillet 1999 au FJT de Sens.
@@ -14,4 +13,4 @@
         </p>
       </div>
     </div>
-  </div>
+

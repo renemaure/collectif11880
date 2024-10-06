@@ -1,43 +1,41 @@
 {	
 	"_commentaire_1": "fichier crée par l'association collectif 11880",
-	"_commentaire_2": "stucture fichier json version: 1.2.2 au 12/05/2024",
+	"_commentaire_2": "stucture fichier json version: 1.2.11 au 06/10/2024",
 	
 	"_commentaire_3": "Données utiles pour le HEAD du site",
   	"trt_head" : "Collectif 11880",
-	"edition" : "Rollin Pascal",
+	"edition" : "collectif 11880",
 	
+	"_commentaire_10": "version site BDD",
+	"bdd_site" : false,
+	"nom_bdd" : "base_donnees",
+
 	"_commentaire_4": "version du site en local",
-	"version_bdd" : false,	
-	"version" : "6.4.5.01",
-	"date" : "08/09/2024",
+	"version" : "6.4.5.13",
+	"date" : "22/09/2024",
 	"copy_dte":"2010/2024",
 	"realis" :"l’association Collectif 11880",
 	"lien_realis" : "http://www.collectif11880.org",
 
 	"_commentaire-5": "Noms des fichiers du moteur V5",
-	"engine" : "index_deb.php",
-	"f_json" : "collectif",
-	"fich_menu" : "affiche_menu.php",
-	"fich_inst_mod" : "instal_module_deb.php",
+	"engine" : "index_deb",
+	"fich_menu" : "affiche_menu",
+	"fich_inst_mod" : "instal_module_deb",
 	"instl_automn" : "fonctions_deb",
 	"fich_ins_mod" : "instal_modules",
 	"json_modul" : "install_module",
-	"fnc_module" : "instal_modules",
+	"fonction_js" : "fonctions_internes",
 
+	"f_json" : "collectif",
+	
 	"_commentaire_7": "dossier présent sur le site",
 	"chem": "systeme",
 	"direngine" : "engine",
 	"dirdonne" : "donnees",
 	"dirphp" : "php",
 	"dos_modul" : "modules",
+	"dos_js" : "js",
 	
-	"_commentaire_8": "Données locale ou BDD",
-	"bdd_site" : false,
-	"nom_bdd" : "",
-
 	"_commentaire_9": "Données pour l'option liens en get du moteur v5",
-	"liens_get" : true,
-
-	"_commentaire_10": "Données pour l'option élements_list du moteur V5",
-	"nom_elmemnt" : "list-elements"
+	"liens_get" : true
 }

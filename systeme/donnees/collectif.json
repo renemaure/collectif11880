@@ -1,10 +1,9 @@
 {
-	"_commentaire_1": "stucture fichier json version: 1.2.0 au 04/08/2022",
+	"_commentaire_1": "stucture fichier json version: 1.3.0 au 06/10/2024",
 
 	"_commentaire_2": "modules complementaires",
 	"list" :true,
 	"auto_menu" : true,
-	"activ_li"	: true,
 	"defactiv":1,
 
 	"_commentaire5": "données à renseigner pour le menu header",
@@ -30,14 +29,9 @@
 
 	"_commentaire3": "activations des modules optionnels",
 	"tabbord" : true,
-	"fich_instal" : "",
-	"mod_blog" : false,
-	"js_blog" : "module_blog",
 	"mod_tooltip" : false,
-	"js_tooltip" : "tooltip",
 	"panier" : false,
-	"aff_panier": "affichage_panier",
-
+	"mod_blog" : false,
 
 	"_commentaire_4": "données à renseigner pour le lien social",
 	"lien_social" : false,
@@ -49,7 +43,6 @@
 	"lien_youtube" :"",
 
 	"_commentaire_5": "section site collectif",
-		
 		"ct" : "cmit",
 		"acc" : "accueil_cmit",
 		"px" : "projetx",
@@ -59,53 +52,50 @@
 		"vd" : "vide",
 		"yo" : "colonne_yoni",
 
-		
-
-	"_commentaire_6": "section menu header ",
+	"_commentaire_2a": "données pour le menu header",
+		"activ_li"	: true,
 		"nbr_menu" : 6,
-		"css_li_menu" : "",
-		"css_a_menu" : "",
 
 	"_commentaire_7": "section menu header version test",
 		"indic1" :{
 			"valid" : true,
 			"trt_menu" : "Accueil",
-			"lien_pg" : "index.php",
+			"lien_pg" : "",
 			"lrm" : "accueil",
 			"arm" : "vide"
 		},
 		"indic2" :{
 			"valid" : true,
 			"trt_menu" : "Programmation",
-			"lien_pg" : "index.php?pg=2&asi=2",
+			"lien_pg" : "?pg=2&asi=2",
 			"lrm" : "programmation",
 			"arm" : "aside_prog"
 		},
 		"indic3" :{
 			"valid" : true,
 			"trt_menu" : "Bricolage",
-			"lien_pg" : "index.php?pg=3&asi=3",
+			"lien_pg" : "?pg=3&asi=3",
 			"lrm" : "bricolage",
 			"arm" : "aside_brico"
 		},
 		"indic4" :{
 			"valid" : true,
-			"trt_menu" : "Robotique",
-			"lien_pg" : "index.php?pg=4&asi=4",
-			"lrm" : "robotique",
+			"trt_menu" : "Informatique",
+			"lien_pg" : "?pg=4&asi=4",
+			"lrm" : "informatique",
 			"arm" : "aside_robot"
 		},
 		"indic5" :{
 			"valid" : true,
 			"trt_menu" : "Art-électronique",
-			"lien_pg" : "index.php?pg=5&asi=5",
+			"lien_pg" : "?pg=5&asi=5",
 			"lrm" : "art_electronique",
 			"arm" : "aside_electro"
 		},
 		"indic6" :{
 			"valid" : true,
 			"trt_menu" : "Association",
-			"lien_pg" : "index.php?pg=6&asi=6",
+			"lien_pg" : "?pg=6&asi=6",
 			"lrm" : "association",
 			"arm" : "aside_asso"
 		},
@@ -122,7 +112,7 @@
 			"trt_menu" : "L'histoire de l'association",
 			"lien_pg" : "index.php?pg=12&asi=6&act=6",
 			"lrm" : "histoire_asso",
-			"arm" : ""
+			"arm" : "aside_asso"
 		},
 		"indic13" :{
 			"valid" : true,
@@ -152,10 +142,50 @@
 			"lrm" : "parisarebours",
 			"arm" : ""
 		},
+		"indic17" :{
+			"valid" : true,
+			"trt_menu" : "Lettre d'infos N°6",
+			"lien_pg" : "index.php?pg=17&asi=6&act=6",
+			"lrm" : "lettre_asso6",
+			"arm" : "aside_asso"
+		},
+		"indic18" :{
+			"valid" : true,
+			"trt_menu" : "Lettre d'infos N°5",
+			"lien_pg" : "index.php?pg=18&asi=6&act=6",
+			"lrm" : "lettre_asso5",
+			"arm" : "aside_asso"
+		},
+		"indic30" :{
+			"valid" : true,
+			"trt_menu" : "Présentation",
+			"lien_pg" : "index.php?pg=30&asi=6&act=6",
+			"lrm" : "cmit",
+			"arm" : "aside_asso"
+		},
+		"indic40" :{
+			"valid" : true,
+			"trt_menu" : "Erreur System",
+			"lien_pg" : "index.php?pg=40&asi=5&act=5",
+			"lrm" : "erreur_systeme",
+			"arm" : "aside_electro"
+		},
+		"indic41" :{
+			"valid" : true,
+			"trt_menu" : "MATRICULE",
+			"lien_pg" : "index.php?pg=41&asi=5&act=5",
+			"lrm" : "projet_matricule",
+			"arm" : "aside_electro"
+		},
+		"indic44" :{
+			"valid" : true,
+			"trt_menu" : "La colonne de YonI",
+			"lien_pg" : "index.php?pg=44&asi=5&act=5",
+			"lrm" : "colonne_yoni",
+			"arm" : "aside_electro"
+		},
 
-
-		
-	"_commentaire": "autres lien du site",	
+	"_commentaire 8": "autres lien du site",	
 		"lien_pg7" : "matricule/index.html",
 		"lien_pg7A" : "http://matricule.projetx.art",
 		"lien_pg8" : "index.php?pg=ar&act=5&asi=pma",
@@ -180,7 +210,7 @@
 		"txt_prg2" : "Installation Bootstrap",
 		"txt_prg3" : "Installation Less",
 		"txt_prg8" : "Les codes Qbasic",
-		"txtbtn1" : "Accédez à la page",
+		
 		"txtbtn2" : "Accédez au site",
 		"txtbtn3" : "Lire la suite"
 }

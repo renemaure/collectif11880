@@ -3,20 +3,23 @@
 	fichier commun pour les fonctions php uitles pour le moteur du collectif, 
 	conçu ou gérer par l'association collectif 11880 / (Ancien fichier d'affichage du menu)	
 	
-		actuellement à la version 2.0.0 au 03/12/2023.
+	actuellement à la version 2.1.0 au 29/09/2024.
 	
-	Nouvelle version 2.0.0:
-	Ajout d'une condition avec variable json "liens_get" permettant la naviqation avec javascript
+	La version 2.1.0 comprant:
+	réecriture des conditons en suprimant la donnée "css_li_menu" devenue obsolete
+	Ajout d'une condition "liens_get" permettant la naviqation avec javascript
 	identifie chaque lien par un id définit dans le fichier json du site.
-	Ajout d'un module "menu_aside" avec une nouvelle fonction menu_aside(), permettant l'affichage d'un ou plusieurs menus dans la <main> de la page courante. 
+	Ajout d'un module "menu_aside" avec une nouvelle fonction menu_aside(), 
+	permettant l'affichage d'un ou plusieurs menus dans la <main> de la page courante. 
 	Module développé par Pascal et Jean-Marie pour le site www.orguesauxerre.net
 
 	Fichier libre d'utilisation en citant l'association collectif11880.org.
 */
 
-function Genenu($activ, $liens, $rn, $demar)
+function Genenu($activ, $liens, $rn, $demar,$tabbord)
 {
 	$activli = true;
+	echo "<ul class=\"menu\">".$rn;
 	for ($menu=1; $menu <=$liens["nbr_menu"]; $menu++)
     { 
    		if ($liens["indic".$menu]["valid"])
@@ -26,34 +29,32 @@ function Genenu($activ, $liens, $rn, $demar)
 			{
     			if ($liens["activ_li"])	echo " class=\"active\"><a";
 				else echo "><a class=\"active";		
-			
-				if ($liens["css_a_menu"]!="")
-				{
-					echo" ".$liens["css_a_menu"]."\" ";
-				}
-				else
-				{
-					if ($liens["activ_li"]== false)
-					{
-						echo"\" ";
-					}
-				}
 			}
-    		else{
-    			echo "><a";
-    			if ($liens["css_a_menu"]!="")
-    			{
-    				echo " class=\"".$liens["css_a_menu"]."\"";
-    			}
-    		}
-			/* ajout d'une condition si navigation javascript */
-			if ($demar["liens_get"]== false) {
-				echo "id=\"".$liens["indic".$menu]["id"]."\"";
-			}
-    	echo " href=\"".$liens["indic".$menu]["lien_pg"]."\">".$liens["indic".$menu]["trt_menu"]."</a>".$rn;
-       	echo "</li>".$rn;
+    		else echo "><a";
+
+    		/* ajout d'une condition si navigation javascript */
+			if ($demar["liens_get"]== false) echo "id=\"".$liens["indic".$menu]["id"]."\"";
+	
+    	echo " href=\"index.php".$liens["indic".$menu]["lien_pg"]."\">".$liens["indic".$menu]["trt_menu"]."</a></li>".$rn;
    		} 
 	}
+	if($liens["tabbord"]) {
+		$tb_indic = $tabbord["entrer_tb"];
+		if(isset($_COOKIE["tabbord"])) $tb_indic = $tabbord["acc_tb"];
+		
+		if(isset($_COOKIE["tabbord"]) || !$tabbord["lien_foot"]){
+			echo "<li";
+			if ($activ == $tb_indic)
+			{
+				if ($liens["activ_li"])	echo " class=\"active\"><a";
+				else echo "><a class=\"active";		
+			}
+			else echo "><a";
+			
+			echo" href=\"index.php".$tabbord["indic".$tb_indic]["lien_pg"]."\">".$tabbord["indic".$tb_indic]["trt_menu"]."</a></li>";
+		}
+	}
+	echo "$rn</ul>$rn";
 }
 
 function menu_aside($liens,$indc_ssmenu){

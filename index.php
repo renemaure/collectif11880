@@ -1,11 +1,15 @@
 <?php
-/*
-modification au 11/05/2024 :
-  ajout d'une condition pour afficher le lien de la page sécurisée du module TabBord
-  Création d'un module php "demarage pour regrouper toutes les commandes au démarage du fichier index!
-  ajout du module tabbord
-  
-*/
+    /* fichier de lancement pour les sites du collectif, utilise uniquement le moteur V5
+    actuellement à la version 2.1.2 au 06/10/2024.
+
+    la version 2.1.2 comprend :
+    ajout de ma fonction  mod_blog() en bas de fichier installe les modules js
+	ajout exxtention $lp ligne 39
+      ajout d'une condition pour afficher le lien de la page sécurisée du module TabBord
+      ajout de la variable donnée [edition]
+      Création d'un module php "demarage pour regrouper toutes les commandes au démarage du fichier index!
+      
+   */
 include "demarage.php";
 ?>
 <!doctype html>
@@ -24,11 +28,11 @@ include "demarage.php";
 		<meta property="og:collectif 11880" content="Balise META">
 		<title>Association Collectif 11880</title>
 		<link href="systeme/css/collectif11880.css" rel="stylesheet">
-		<?php instal_css($liens,$insmod) ?>
+		<?php instal_css($liens,$insmod,$demar) ?>
 	</head>
 	<body>
 		<header id="header">
-			<?php  include $chem_princ."/".$demar["direngine"]."/".$demar["fich_menu"]; ?>
+			<?php  include $chem_princ."/".$demar["direngine"]."/".$demar["fich_menu"].$lp; ?>
 		</header>
 		<main id="main_central">
 			<?php
@@ -56,4 +60,5 @@ include "demarage.php";
 			</p>
 		</footer>
 	</body>
+	<?php BasPage($demar,$liens, $insmod, $tabbord) ?>
 </html>

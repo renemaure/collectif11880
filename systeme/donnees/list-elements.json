@@ -6,64 +6,8 @@
 		"ac4" : "present_cmit",
 		"ac5" : "present_asso",
 
-		"_commentaire_4": "titres du cartouche en haut  de la page accueil",
-		"titre_accueil" : "L'association",
-		"text_accueil" : "texte_new",
+
 	
-		"nbr_cart" : 8,
-		"svg_1" : "svg_carre",
-		"_commentaire_2": "noms des fichiers texte des carte dans accueil",
-		"text_cart1" : "info_programme",
-		"text_cart2" : "info_bricolage",
-		"text_cart3" : "info_informatique",
-		"text_cart4" : "info_art",
-		"text_cart5" : "info_robotique",
-		"text_cart6" : "info_collectif",
-		"text_cart7" : "info_cmit",
-		"text_cart8" : "info_sites_internet",
-	
-
-		"_commentaire_3": "titres des cartes dans accueil",
-		"trt_acc1" : "Programmation",
-		"trt_acc2" : "Bricolage",
-		"trt_acc3" : "Informatique",
-		"trt_acc4" : "Art électronique",
-		"trt_acc5" : "Robotique",
-		"trt_acc6" : "Collectif 11880",
-		"trt_acc7" : "Club CMIT",
-		"trt_acc8" : "Sites collectif",
-
-		"_commentcaire_5": "liens des cartes dans accueil",
-		"lien_acc1" : "2",
-		"lien_acc2" : "3",
-		"lien_acc3" : "2",
-		"lien_acc4" : "5",
-		"lien_acc5" : "4",
-		"lien_acc6" : "6",
-		"lien_acc7" : "6",
-		"lien_acc8" : "2",
-
-		"_commentcaire_6": "nom images des cartes dans accueil",
-		"img_card1" : "collectif08",
-		"img_card2" : "collectif07",
-		"img_card3" : "serveur_002_pt",
-		"img_card4" : "multilineart01_tm",
-		"img_card5" : "collectif03",
-		"img_card6" : "artzoom1",
-		"img_card7" : "cmit",
-		"img_card8" : "rien",
-
-		"_commentcaire_7": "textes dates des cartes dans accueil",
-		"date_card1" : "Prochaine session le vendredi 13 septembre<br> à partir de 18h30.",
-		"date_card2" : "Prochaine session le mercredi 18 septembre<br> à partir de 18h30.",
-		"date_card3" : "Prochaine session le mercredi 25 septembre<br> à partir de 18h30.",
-		"date_card4" : "",
-		"date_card5" : "Bientôt une nouvelle structure robotisée!",
-		"date_card6" : "",
-		"date_card7" : "",
-		"date_card8" : "",
-
-
 		"_commentaire_6": "fichiers dans programmation",		
 		"pgr1" : "present_prog",
 		"prg2": "serveur",
@@ -71,7 +15,7 @@
 
 
 	
-		"_commentaire": "liens dans programmation",
+		"_commentaire_9": "liens dans programmation",
 		"lien_prg1"	: "https://www.wampserver.com/",
 		"lien_prg2" : "https://support.microsoft.com/fr-fr/help/2977003/the-latest-supported-visual-c-downloads",
 		"lien_prg3" : "https://wampserver.aviatechno.net/",
@@ -80,7 +24,7 @@
 		"lien_prg6" : "#bootstrap",
 		"lien_prg7" : "#qbasic",
 
-		"_commentaire": "textes de programmation",
+		"_commentaire_10": "textes de programmation",
 		"txt_prg1" : "Installation de Wampserveur",
 		"txt_prg2" : "Les liens utiles",
 		"txt_prg3" : "Wampserveur",
@@ -93,19 +37,12 @@
 		"txt_prg10" : "Installation de DosBox",
 		"txt_prg11" : "Fiches programmation",
 
-	"_commentaire": "liens dans robotique",
+	"_commentaire_11": "liens dans robotique",
 
-	"_commentaire": "textes de robotique",
+	"_commentaire_12": "textes de robotique",
 		"txt_rbt1" : "projets robotiques",
 
-
-	"_commentaire": "textes de art electro",
-		"are-1" :"accueil_art",
-		"are-3" : "projet_matricule",
-		"are-2" : "erreur_systeme",
-		"are-4" : "colonne_yoni",
-
-	"_commentaire": "textes de maurice rené",
+	"_commentaire_13": "textes de maurice rené",
 		"mr-2" : "erreur_systeme",
 		"mr-3" : "projet_matricule",		
 
